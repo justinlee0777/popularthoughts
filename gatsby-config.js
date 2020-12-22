@@ -7,6 +7,7 @@
 module.exports = {
   /* Your site config here */
   plugins: [
+    'gatsby-plugin-resolve-src',
     {
       resolve: 'gatsby-plugin-ts',
       options: {
