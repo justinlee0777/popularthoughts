@@ -1,5 +1,11 @@
+.link {
+    text-decoration: none;
+}
+
+.link:not(:last-of-type) {
+    margin-right: 8px;
+}
+
 .nav-bar {
-    background: red;
-    height: 30px;
-    width: 100%;
+    background: black;
 }

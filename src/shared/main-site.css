@@ -1,0 +1,13 @@
+.content {
+    flex: 3;
+}
+
+.main-site {
+    display: flex;
+    flex-direction: column;
+    height: 100vh;
+}
+
+.nav-bar {
+    flex: 1;
+}

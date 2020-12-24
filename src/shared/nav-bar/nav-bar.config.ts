@@ -1,8 +1,5 @@
-export interface Tab {
-  label: string;
-  value: string;
-}
+import { MainSiteConfig } from '../main-site.config';
 
-export interface NavBarConfig {
-  tabs: Array<Tab>;
+export interface NavBarConfig extends Pick<MainSiteConfig, 'tabs'> {
+	className: string;
 }

@@ -5,15 +5,15 @@
  */
 
 module.exports = {
-  /* Your site config here */
-  plugins: [
-    'gatsby-plugin-resolve-src',
-    {
-      resolve: 'gatsby-plugin-ts',
-      options: {
-        // Disable type checking in production
-        typeCheck: process.env.NODE_ENV !== 'production',
-      },
-    },
-  ],
+	/* Your site config here */
+	plugins: [
+		'gatsby-plugin-resolve-src',
+		{
+			resolve: 'gatsby-plugin-ts',
+			options: {
+				// Disable type checking in production
+				typeCheck: process.env.NODE_ENV !== 'production',
+			},
+		},
+	],
 };
