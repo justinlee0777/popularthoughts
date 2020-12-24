@@ -1,4 +1,4 @@
-import React from "react"
+import React from 'react';
 
 import NavBar from 'shared/nav-bar/nav-bar';
 
@@ -17,8 +17,10 @@ export default function Home(): JSX.Element {
     },
   ];
 
-  return <div className="home">
-    <NavBar tabs={tabs}></NavBar>
-    Hello world!
-    </div>;
+  return (
+    <div className="home">
+      <NavBar tabs={tabs}></NavBar>
+      Hello world!
+    </div>
+  );
 }

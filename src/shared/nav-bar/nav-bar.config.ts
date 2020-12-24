@@ -1,8 +1,8 @@
 export interface Tab {
-    label: string;
-    value: string;
+  label: string;
+  value: string;
 }
 
 export interface NavBarConfig {
-    tabs: Array<Tab>;
+  tabs: Array<Tab>;
 }
