@@ -1,5 +1,13 @@
 .link {
+    color: white;
+    padding: 4px;
     text-decoration: none;
+}
+
+.link:hover,
+.link.selected {
+    background-color: white;
+    color: black;
 }
 
 .link:not(:last-of-type) {
@@ -7,5 +15,10 @@
 }
 
 .nav-bar {
+    align-items: flex-end;
     background: black;
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: row;
+    padding: 8px 8px 0;
 }
