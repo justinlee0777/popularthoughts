@@ -5,9 +5,15 @@
  */
 
 module.exports = {
-	/* Your site config here */
 	plugins: [
 		'gatsby-plugin-resolve-src',
+		{
+			resolve: 'gatsby-source-filesystem',
+			options: {
+				path: 'src/data',
+			},
+		},
+		'gatsby-transformer-json',
 		{
 			resolve: 'gatsby-plugin-ts',
 			options: {
