@@ -5,15 +5,18 @@ import { MainSiteConfig } from './main-site.config';
 import './main-site.css';
 import NavBar from './nav-bar/nav-bar';
 
-export default function MainSite(config: {
+export default function MainSite({
+	pageContext,
+	path,
+}: {
 	pageContext: MainSiteConfig;
 	path: string;
 }): JSX.Element {
-	const tabs = config.pageContext.tabs.map(tab => {
-		let selected = config.path.indexOf(tab.value) === 0;
+	const tabs = pageContext.tabs.map(tab => {
+		let selected = path.indexOf(tab.value) === 0;
 
 		if (tab.value === '/') {
-			selected = selected && config.path.length <= 1;
+			selected = selected && path.length <= 1;
 		}
 
 		return {
@@ -25,7 +28,10 @@ export default function MainSite(config: {
 	return (
 		<div className="main-site">
 			<NavBar className="nav-bar" tabs={tabs}></NavBar>
-			<MainSiteContent className="content"></MainSiteContent>
+			<MainSiteContent
+				className="content"
+				article={pageContext.article}
+			></MainSiteContent>
 		</div>
 	);
 }

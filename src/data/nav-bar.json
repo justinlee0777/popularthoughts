@@ -4,6 +4,10 @@
         "value": "/"
     },
     {
+        "label": "Articles",
+        "value": "/articles"
+    },
+    {
         "label": "Videos",
         "value": "/videos"
     }

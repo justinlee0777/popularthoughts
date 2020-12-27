@@ -8,5 +8,12 @@ export default function MainSiteContent(
 ): JSX.Element {
 	const className = `main-site-content ${config.className}`;
 
-	return <div className={className}></div>;
+	return (
+		<div className={className}>
+			<div
+				className="article-content"
+				dangerouslySetInnerHTML={{ __html: config.article }}
+			/>
+		</div>
+	);
 }
