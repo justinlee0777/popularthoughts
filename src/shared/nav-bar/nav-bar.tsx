@@ -1,28 +1,22 @@
+import { Link } from 'gatsby';
 import React from 'react';
 
-import { Tab } from '../tab.config';
 import { NavBarConfig } from './nav-bar.config';
 import './nav-bar.css';
 
-function getLinkClassName(tab: Tab): string {
-	let className = 'link';
-
-	if (tab.selected) {
-		className = className + ' selected';
-	}
-
-	return className;
-}
-
 export default function NavBar(config: NavBarConfig): JSX.Element {
-	const tabs = config.tabs.map(tab => {
-		const className = getLinkClassName(tab);
+	const tabs = config.tabs.map((tab, i) => {
 		return (
-			<a className={className} key={tab.value} href={tab.value}>
+			<Link
+				className="link"
+				activeClassName="selected"
+				key={i}
+				to={tab.value}
+			>
 				{tab.label}
-			</a>
+			</Link>
 		);
 	});
 
-	return <div className={config.className}>{tabs}</div>;
+	return <nav className={config.className}>{tabs}</nav>;
 }
