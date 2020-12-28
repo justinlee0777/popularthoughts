@@ -43,6 +43,8 @@ async function createArticleContentPages(actions, graphql, tabs) {
 						html
 						frontmatter {
 							slug
+							youtubeUrl
+							iframeTitle
 						}
 					}
 				}
@@ -56,7 +58,16 @@ async function createArticleContentPages(actions, graphql, tabs) {
 		actions.createPage({
 			path: md.frontmatter.slug,
 			component: path.resolve('src/shared/main-site.tsx'),
-			context: { tabs, article: md.html },
+			context: {
+				tabs,
+				article: {
+					htmlString: md.html,
+					youtube: {
+						youtubeUrl: md.frontmatter.youtubeUrl,
+						iframeTitle: md.frontmatter.iframeTitle,
+					},
+				},
+			},
 		});
 	});
 }

@@ -1,5 +1,7 @@
 ---
 slug: "/lorem-ipsum"
+youtubeUrl: "https://www.youtube.com/embed/VBKaciv-hwk"
+iframeTitle: "Girl of my dreams"
 ---
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus vel turpis quis nisl tincidunt fringilla at id libero. Donec in consequat sem, id luctus metus. Phasellus sagittis, ex sed dignissim porta, lectus leo tincidunt sem, quis placerat tortor dolor nec lectus. Vestibulum pretium nisl eu libero tincidunt, vel laoreet nulla malesuada. Mauris tincidunt magna tortor, quis congue ligula pharetra nec. Pellentesque enim nisi, sagittis sit amet ipsum non, fermentum fermentum lectus. Praesent lectus nulla, facilisis sit amet rhoncus in, vulputate ac quam. Praesent lobortis molestie interdum. Phasellus hendrerit nisi neque, ut mattis lacus interdum a. In hac habitasse platea dictumst. Aliquam tristique risus tincidunt ultrices varius. Duis pulvinar metus nec pellentesque mattis.
 
