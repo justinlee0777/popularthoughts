@@ -8,6 +8,10 @@
     height: 100vh;
 }
 
+.main-site-listing {
+    padding: 24px;
+}
+
 .nav-bar {
     flex: 0 0 80px;
 }

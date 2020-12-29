@@ -1,0 +1,14 @@
+.entry {
+    border: 1px solid black;
+    padding: 8px;
+    cursor: pointer;
+}
+
+.entry + .entry {
+    margin-top: 8px;
+}
+
+.entry-listing {
+    display: flex;
+    flex-direction: column;
+}

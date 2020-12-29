@@ -1,13 +1,20 @@
 import { Tab } from './tab.config';
 
+export interface Entry {
+	slug: string;
+	title: string;
+}
+
 export interface MainSiteConfig {
-	children: React.ReactNode | Array<React.ReactNode>;
 	tabs: Array<Tab>;
-	article: {
+
+	article?: {
 		htmlString?: string;
 		youtube: {
 			youtubeUrl?: string;
 			iframeTitle?: string;
 		};
 	};
+
+	entries?: Array<Entry>;
 }

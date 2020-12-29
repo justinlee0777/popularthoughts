@@ -1,4 +1,5 @@
 ---
+title: "Lorem ipsum"
 slug: "/lorem-ipsum"
 youtubeUrl: "https://www.youtube.com/embed/VBKaciv-hwk"
 iframeTitle: "Girl of my dreams"

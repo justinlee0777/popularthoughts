@@ -5,10 +5,12 @@
     },
     {
         "label": "Articles",
-        "value": "/articles"
+        "value": "/articles",
+        "markdownCriteria": "html"
     },
     {
         "label": "Videos",
-        "value": "/videos"
+        "value": "/videos",
+        "markdownCriteria": "youtubeUrl"
     }
 ]
