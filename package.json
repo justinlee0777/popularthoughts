@@ -5,7 +5,7 @@
   "version": "0.1.0",
   "license": "0BSD",
   "scripts": {
-    "build": "gatsby build && zip -r public public/*",
+    "build": "gatsby build && rm -f public.zip && zip -r public public/*",
     "develop": "npm run lint:fix && gatsby develop",
     "format": "prettier --write \"**/*.{js,jsx,ts,tsx,json,md}\"",
     "start": "npm run develop",
