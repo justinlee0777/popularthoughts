@@ -4,7 +4,11 @@
     flex-direction: column;
 }
 
-.video-content {
-    padding-top: 40%;
+.video-content,
+.youtube-content {
     width: 80%;
+}
+
+.youtube-content {
+    padding-top: 40%;
 }

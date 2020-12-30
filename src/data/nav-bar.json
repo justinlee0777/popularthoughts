@@ -11,6 +11,6 @@
     {
         "label": "Videos",
         "value": "/videos",
-        "markdownCriteria": "youtubeUrl"
+        "markdownCriteria": "youtubeUrl videoUrl"
     }
 ]

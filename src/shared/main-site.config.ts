@@ -10,7 +10,8 @@ export interface MainSiteConfig {
 
 	article?: {
 		htmlString?: string;
-		youtube: {
+		video: {
+			videoUrl?: string;
 			youtubeUrl?: string;
 			iframeTitle?: string;
 		};
