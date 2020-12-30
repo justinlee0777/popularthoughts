@@ -1,3 +1,4 @@
+import { compareDesc } from 'date-fns';
 import { navigate } from 'gatsby';
 import React from 'react';
 
@@ -23,7 +24,10 @@ function ListingItem({ entry }: { entry: Entry }): JSX.Element {
 export default function MainSiteListing(
 	config: MainSiteListingConfig
 ): JSX.Element {
-	const entryElements = config.entries.map((e, i) => (
+	const entries = [...config.entries].sort((e1, e2) => {
+		return compareDesc(new Date(e1.createdAt), new Date(e2.createdAt));
+	});
+	const entryElements = entries.map((e, i) => (
 		<ListingItem key={i} entry={e} />
 	));
 

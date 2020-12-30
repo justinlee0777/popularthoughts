@@ -389,8 +389,8 @@ export type File = Node & {
   parent?: Maybe<Node>;
   children: Array<Node>;
   internal: Internal;
-  childrenNavBarJson?: Maybe<Array<Maybe<NavBarJson>>>;
   childMarkdownRemark?: Maybe<MarkdownRemark>;
+  childrenNavBarJson?: Maybe<Array<Maybe<NavBarJson>>>;
 };
 
 
@@ -597,55 +597,13 @@ export type FileFieldsEnum =
   | 'internal___mediaType'
   | 'internal___owner'
   | 'internal___type'
-  | 'childrenNavBarJson'
-  | 'childrenNavBarJson___id'
-  | 'childrenNavBarJson___parent___id'
-  | 'childrenNavBarJson___parent___parent___id'
-  | 'childrenNavBarJson___parent___parent___children'
-  | 'childrenNavBarJson___parent___children'
-  | 'childrenNavBarJson___parent___children___id'
-  | 'childrenNavBarJson___parent___children___children'
-  | 'childrenNavBarJson___parent___internal___content'
-  | 'childrenNavBarJson___parent___internal___contentDigest'
-  | 'childrenNavBarJson___parent___internal___description'
-  | 'childrenNavBarJson___parent___internal___fieldOwners'
-  | 'childrenNavBarJson___parent___internal___ignoreType'
-  | 'childrenNavBarJson___parent___internal___mediaType'
-  | 'childrenNavBarJson___parent___internal___owner'
-  | 'childrenNavBarJson___parent___internal___type'
-  | 'childrenNavBarJson___children'
-  | 'childrenNavBarJson___children___id'
-  | 'childrenNavBarJson___children___parent___id'
-  | 'childrenNavBarJson___children___parent___children'
-  | 'childrenNavBarJson___children___children'
-  | 'childrenNavBarJson___children___children___id'
-  | 'childrenNavBarJson___children___children___children'
-  | 'childrenNavBarJson___children___internal___content'
-  | 'childrenNavBarJson___children___internal___contentDigest'
-  | 'childrenNavBarJson___children___internal___description'
-  | 'childrenNavBarJson___children___internal___fieldOwners'
-  | 'childrenNavBarJson___children___internal___ignoreType'
-  | 'childrenNavBarJson___children___internal___mediaType'
-  | 'childrenNavBarJson___children___internal___owner'
-  | 'childrenNavBarJson___children___internal___type'
-  | 'childrenNavBarJson___internal___content'
-  | 'childrenNavBarJson___internal___contentDigest'
-  | 'childrenNavBarJson___internal___description'
-  | 'childrenNavBarJson___internal___fieldOwners'
-  | 'childrenNavBarJson___internal___ignoreType'
-  | 'childrenNavBarJson___internal___mediaType'
-  | 'childrenNavBarJson___internal___owner'
-  | 'childrenNavBarJson___internal___type'
-  | 'childrenNavBarJson___label'
-  | 'childrenNavBarJson___value'
-  | 'childrenNavBarJson___markdownCriteria'
   | 'childMarkdownRemark___id'
   | 'childMarkdownRemark___frontmatter___title'
   | 'childMarkdownRemark___frontmatter___slug'
-  | 'childMarkdownRemark___frontmatter___videoUrl'
-  | 'childMarkdownRemark___frontmatter___iframeTitle'
   | 'childMarkdownRemark___frontmatter___createdAt'
   | 'childMarkdownRemark___frontmatter___youtubeUrl'
+  | 'childMarkdownRemark___frontmatter___iframeTitle'
+  | 'childMarkdownRemark___frontmatter___videoUrl'
   | 'childMarkdownRemark___excerpt'
   | 'childMarkdownRemark___rawMarkdownBody'
   | 'childMarkdownRemark___fileAbsolutePath'
@@ -697,7 +655,49 @@ export type FileFieldsEnum =
   | 'childMarkdownRemark___internal___ignoreType'
   | 'childMarkdownRemark___internal___mediaType'
   | 'childMarkdownRemark___internal___owner'
-  | 'childMarkdownRemark___internal___type';
+  | 'childMarkdownRemark___internal___type'
+  | 'childrenNavBarJson'
+  | 'childrenNavBarJson___id'
+  | 'childrenNavBarJson___parent___id'
+  | 'childrenNavBarJson___parent___parent___id'
+  | 'childrenNavBarJson___parent___parent___children'
+  | 'childrenNavBarJson___parent___children'
+  | 'childrenNavBarJson___parent___children___id'
+  | 'childrenNavBarJson___parent___children___children'
+  | 'childrenNavBarJson___parent___internal___content'
+  | 'childrenNavBarJson___parent___internal___contentDigest'
+  | 'childrenNavBarJson___parent___internal___description'
+  | 'childrenNavBarJson___parent___internal___fieldOwners'
+  | 'childrenNavBarJson___parent___internal___ignoreType'
+  | 'childrenNavBarJson___parent___internal___mediaType'
+  | 'childrenNavBarJson___parent___internal___owner'
+  | 'childrenNavBarJson___parent___internal___type'
+  | 'childrenNavBarJson___children'
+  | 'childrenNavBarJson___children___id'
+  | 'childrenNavBarJson___children___parent___id'
+  | 'childrenNavBarJson___children___parent___children'
+  | 'childrenNavBarJson___children___children'
+  | 'childrenNavBarJson___children___children___id'
+  | 'childrenNavBarJson___children___children___children'
+  | 'childrenNavBarJson___children___internal___content'
+  | 'childrenNavBarJson___children___internal___contentDigest'
+  | 'childrenNavBarJson___children___internal___description'
+  | 'childrenNavBarJson___children___internal___fieldOwners'
+  | 'childrenNavBarJson___children___internal___ignoreType'
+  | 'childrenNavBarJson___children___internal___mediaType'
+  | 'childrenNavBarJson___children___internal___owner'
+  | 'childrenNavBarJson___children___internal___type'
+  | 'childrenNavBarJson___internal___content'
+  | 'childrenNavBarJson___internal___contentDigest'
+  | 'childrenNavBarJson___internal___description'
+  | 'childrenNavBarJson___internal___fieldOwners'
+  | 'childrenNavBarJson___internal___ignoreType'
+  | 'childrenNavBarJson___internal___mediaType'
+  | 'childrenNavBarJson___internal___owner'
+  | 'childrenNavBarJson___internal___type'
+  | 'childrenNavBarJson___label'
+  | 'childrenNavBarJson___value'
+  | 'childrenNavBarJson___markdownCriteria';
 
 export type FileFilterInput = {
   sourceInstanceName?: Maybe<StringQueryOperatorInput>;
@@ -738,8 +738,8 @@ export type FileFilterInput = {
   parent?: Maybe<NodeFilterInput>;
   children?: Maybe<NodeFilterListInput>;
   internal?: Maybe<InternalFilterInput>;
-  childrenNavBarJson?: Maybe<NavBarJsonFilterListInput>;
   childMarkdownRemark?: Maybe<MarkdownRemarkFilterInput>;
+  childrenNavBarJson?: Maybe<NavBarJsonFilterListInput>;
 };
 
 export type FileGroupConnection = {
@@ -914,10 +914,10 @@ export type MarkdownRemarkFieldsEnum =
   | 'id'
   | 'frontmatter___title'
   | 'frontmatter___slug'
-  | 'frontmatter___videoUrl'
-  | 'frontmatter___iframeTitle'
   | 'frontmatter___createdAt'
   | 'frontmatter___youtubeUrl'
+  | 'frontmatter___iframeTitle'
+  | 'frontmatter___videoUrl'
   | 'excerpt'
   | 'rawMarkdownBody'
   | 'fileAbsolutePath'
@@ -1040,10 +1040,10 @@ export type MarkdownRemarkFilterInput = {
 export type MarkdownRemarkFrontmatter = {
   title?: Maybe<Scalars['String']>;
   slug?: Maybe<Scalars['String']>;
-  videoUrl?: Maybe<Scalars['String']>;
-  iframeTitle?: Maybe<Scalars['String']>;
   createdAt?: Maybe<Scalars['Date']>;
   youtubeUrl?: Maybe<Scalars['String']>;
+  iframeTitle?: Maybe<Scalars['String']>;
+  videoUrl?: Maybe<Scalars['String']>;
 };
 
 
@@ -1057,10 +1057,10 @@ export type MarkdownRemarkFrontmatterCreatedAtArgs = {
 export type MarkdownRemarkFrontmatterFilterInput = {
   title?: Maybe<StringQueryOperatorInput>;
   slug?: Maybe<StringQueryOperatorInput>;
-  videoUrl?: Maybe<StringQueryOperatorInput>;
-  iframeTitle?: Maybe<StringQueryOperatorInput>;
   createdAt?: Maybe<DateQueryOperatorInput>;
   youtubeUrl?: Maybe<StringQueryOperatorInput>;
+  iframeTitle?: Maybe<StringQueryOperatorInput>;
+  videoUrl?: Maybe<StringQueryOperatorInput>;
 };
 
 export type MarkdownRemarkGroupConnection = {
@@ -1333,8 +1333,8 @@ export type QueryFileArgs = {
   parent?: Maybe<NodeFilterInput>;
   children?: Maybe<NodeFilterListInput>;
   internal?: Maybe<InternalFilterInput>;
-  childrenNavBarJson?: Maybe<NavBarJsonFilterListInput>;
   childMarkdownRemark?: Maybe<MarkdownRemarkFilterInput>;
+  childrenNavBarJson?: Maybe<NavBarJsonFilterListInput>;
 };
 
 

@@ -10,7 +10,6 @@ import './article-content.css';
 export default function ArticleContent(
 	config: ArticleContentConfig
 ): JSX.Element {
-	console.log(config);
 	const className = `article-content ${config.className}`;
 
 	let youtube: JSX.Element;

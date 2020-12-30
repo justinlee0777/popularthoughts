@@ -1,11 +1,14 @@
 .content {
-    flex: 3;
+    flex: 1;
+    min-height: 0;
+    overflow-y: auto;
 }
 
 .main-site {
     display: flex;
     flex-direction: column;
     height: 100vh;
+    overflow-y: hidden;
 }
 
 .main-site-listing {
