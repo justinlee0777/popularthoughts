@@ -1,5 +1,7 @@
 import React from 'react';
 
+import { calculateDateString } from 'functions/calculate-date-string';
+
 import VideoContent from '../video-content/video-content';
 import YoutubeVideo from '../youtube-video/youtube-video';
 import { ArticleContentConfig } from './article-content.config';
@@ -8,6 +10,7 @@ import './article-content.css';
 export default function ArticleContent(
 	config: ArticleContentConfig
 ): JSX.Element {
+	console.log(config);
 	const className = `article-content ${config.className}`;
 
 	let youtube: JSX.Element;
@@ -39,9 +42,15 @@ export default function ArticleContent(
 
 	return (
 		<div className={className}>
+			<h1>{config.article.title}</h1>
+			<time className="date-time" dateTime={config.article.createdAt}>
+				{calculateDateString(config.article.createdAt)}
+			</time>
+			<div className="divider" />
 			{youtube}
 			{video}
 			<div
+				className="rendered-html"
 				dangerouslySetInnerHTML={{ __html: config.article.htmlString }}
 			/>
 		</div>

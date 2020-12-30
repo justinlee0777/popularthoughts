@@ -41,6 +41,7 @@ async function getArticles(graphql) {
 							youtubeUrl
 							videoUrl
 							iframeTitle
+							createdAt
 						}
 					}
 				}
@@ -84,6 +85,7 @@ async function createMainPages(actions, navbarConfig, articles) {
 				title: frontmatter.title,
 				videoUrl: frontmatter.videoUrl,
 				youtubeUrl: frontmatter.youtubeUrl,
+				createdAt: frontmatter.createdAt,
 			};
 		});
 
@@ -121,6 +123,8 @@ async function createArticleContentPages(actions, tabs, articles, videos) {
 		}
 
 		const article = {
+			title: frontmatter.title,
+			createdAt: frontmatter.createdAt,
 			htmlString: md.html,
 			video: {
 				videoUrl,

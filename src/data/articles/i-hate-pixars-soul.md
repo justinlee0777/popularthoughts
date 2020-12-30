@@ -1,12 +1,12 @@
 ---
 title: "I hate Pixar's Soul"
 slug: "/i-hate-pixars-soul"
+createdAt: "2020-12-30T15:59:57.861Z"
 ---
-# I hate Pixar's "Soul"
-
 I hated Pixar's "Soul".
 
 ### i. Set up
+
 I had the sense I was going to hate it from the trailer alone, but right off the bat something was unsettling. In the trailer, one sees Joe (the main character) teaching his music class. That is how the movie starts: the opening of the movie is almost entirely ripped from the trailer. The movie *just* starts with Joe interacting with characters who, we will find out, have absolutely nothing to do with the plot.
 
 It's odd, because a film usually starts with the audience getting to know a character on a personal level. A character is usually with family or friends, or enemies or rivals. None of those kids care at all about Joe. Similarly, Joe has no specific relationship to any one student (except possibly one, though we find out that he really doesn't). All we get is that Joe really likes jazz and... he's kinda unlikeable. (I mean, his students clearly do not like him.)
@@ -28,6 +28,7 @@ And then 22 becomes a tentacle monster or something way after the audience forgo
 It's a mess.
 
 ### ii. Themes
+
 Seeing that Joe's only character trait is that he really liked jazz, we can rule out there being any universal themes in "Soul".
 
 Joe's father mentions that jazz is one of the great contributions of black culture, so I think it's fair for me to talk a bit about the film's relationship to black culture.

@@ -644,6 +644,7 @@ export type FileFieldsEnum =
   | 'childMarkdownRemark___frontmatter___slug'
   | 'childMarkdownRemark___frontmatter___videoUrl'
   | 'childMarkdownRemark___frontmatter___iframeTitle'
+  | 'childMarkdownRemark___frontmatter___createdAt'
   | 'childMarkdownRemark___frontmatter___youtubeUrl'
   | 'childMarkdownRemark___excerpt'
   | 'childMarkdownRemark___rawMarkdownBody'
@@ -915,6 +916,7 @@ export type MarkdownRemarkFieldsEnum =
   | 'frontmatter___slug'
   | 'frontmatter___videoUrl'
   | 'frontmatter___iframeTitle'
+  | 'frontmatter___createdAt'
   | 'frontmatter___youtubeUrl'
   | 'excerpt'
   | 'rawMarkdownBody'
@@ -1040,7 +1042,16 @@ export type MarkdownRemarkFrontmatter = {
   slug?: Maybe<Scalars['String']>;
   videoUrl?: Maybe<Scalars['String']>;
   iframeTitle?: Maybe<Scalars['String']>;
+  createdAt?: Maybe<Scalars['Date']>;
   youtubeUrl?: Maybe<Scalars['String']>;
+};
+
+
+export type MarkdownRemarkFrontmatterCreatedAtArgs = {
+  formatString?: Maybe<Scalars['String']>;
+  fromNow?: Maybe<Scalars['Boolean']>;
+  difference?: Maybe<Scalars['String']>;
+  locale?: Maybe<Scalars['String']>;
 };
 
 export type MarkdownRemarkFrontmatterFilterInput = {
@@ -1048,6 +1059,7 @@ export type MarkdownRemarkFrontmatterFilterInput = {
   slug?: Maybe<StringQueryOperatorInput>;
   videoUrl?: Maybe<StringQueryOperatorInput>;
   iframeTitle?: Maybe<StringQueryOperatorInput>;
+  createdAt?: Maybe<DateQueryOperatorInput>;
   youtubeUrl?: Maybe<StringQueryOperatorInput>;
 };
 
@@ -1880,11 +1892,15 @@ export type SitePageContext = {
 };
 
 export type SitePageContextArticle = {
+  title?: Maybe<Scalars['String']>;
+  createdAt?: Maybe<Scalars['Date']>;
   htmlString?: Maybe<Scalars['String']>;
   video?: Maybe<SitePageContextArticleVideo>;
 };
 
 export type SitePageContextArticleFilterInput = {
+  title?: Maybe<StringQueryOperatorInput>;
+  createdAt?: Maybe<DateQueryOperatorInput>;
   htmlString?: Maybe<StringQueryOperatorInput>;
   video?: Maybe<SitePageContextArticleVideoFilterInput>;
 };
@@ -1907,6 +1923,7 @@ export type SitePageContextEntries = {
   title?: Maybe<Scalars['String']>;
   videoUrl?: Maybe<Scalars['String']>;
   youtubeUrl?: Maybe<Scalars['String']>;
+  createdAt?: Maybe<Scalars['Date']>;
 };
 
 export type SitePageContextEntriesFilterInput = {
@@ -1915,6 +1932,7 @@ export type SitePageContextEntriesFilterInput = {
   title?: Maybe<StringQueryOperatorInput>;
   videoUrl?: Maybe<StringQueryOperatorInput>;
   youtubeUrl?: Maybe<StringQueryOperatorInput>;
+  createdAt?: Maybe<DateQueryOperatorInput>;
 };
 
 export type SitePageContextEntriesFilterListInput = {
@@ -2052,6 +2070,9 @@ export type SitePageFieldsEnum =
   | 'context___entries___title'
   | 'context___entries___videoUrl'
   | 'context___entries___youtubeUrl'
+  | 'context___entries___createdAt'
+  | 'context___article___title'
+  | 'context___article___createdAt'
   | 'context___article___htmlString'
   | 'context___article___video___videoUrl'
   | 'context___article___video___youtubeUrl'
@@ -2098,11 +2119,11 @@ export type SitePageFieldsEnum =
   | 'pluginCreator___name'
   | 'pluginCreator___version'
   | 'pluginCreator___pluginOptions___path'
+  | 'pluginCreator___pluginOptions___typeCheck'
   | 'pluginCreator___pluginOptions___pathCheck'
   | 'pluginCreator___pluginOptions___allExtensions'
   | 'pluginCreator___pluginOptions___isTSX'
   | 'pluginCreator___pluginOptions___jsxPragma'
-  | 'pluginCreator___pluginOptions___typeCheck'
   | 'pluginCreator___nodeAPIs'
   | 'pluginCreator___pluginFilepath'
   | 'pluginCreator___packageJson___name'
@@ -2287,11 +2308,11 @@ export type SitePluginFieldsEnum =
   | 'name'
   | 'version'
   | 'pluginOptions___path'
+  | 'pluginOptions___typeCheck'
   | 'pluginOptions___pathCheck'
   | 'pluginOptions___allExtensions'
   | 'pluginOptions___isTSX'
   | 'pluginOptions___jsxPragma'
-  | 'pluginOptions___typeCheck'
   | 'nodeAPIs'
   | 'pluginFilepath'
   | 'packageJson___name'
@@ -2404,20 +2425,20 @@ export type SitePluginPackageJsonPeerDependenciesFilterListInput = {
 
 export type SitePluginPluginOptions = {
   path?: Maybe<Scalars['String']>;
+  typeCheck?: Maybe<Scalars['Boolean']>;
   pathCheck?: Maybe<Scalars['Boolean']>;
   allExtensions?: Maybe<Scalars['Boolean']>;
   isTSX?: Maybe<Scalars['Boolean']>;
   jsxPragma?: Maybe<Scalars['String']>;
-  typeCheck?: Maybe<Scalars['Boolean']>;
 };
 
 export type SitePluginPluginOptionsFilterInput = {
   path?: Maybe<StringQueryOperatorInput>;
+  typeCheck?: Maybe<BooleanQueryOperatorInput>;
   pathCheck?: Maybe<BooleanQueryOperatorInput>;
   allExtensions?: Maybe<BooleanQueryOperatorInput>;
   isTSX?: Maybe<BooleanQueryOperatorInput>;
   jsxPragma?: Maybe<StringQueryOperatorInput>;
-  typeCheck?: Maybe<BooleanQueryOperatorInput>;
 };
 
 export type SitePluginSortInput = {

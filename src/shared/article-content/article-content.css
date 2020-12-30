@@ -4,6 +4,20 @@
     flex-direction: column;
 }
 
+.date-time {
+    margin-bottom: 12px;
+}
+
+.divider {
+    border-bottom: 1px solid #EFEFEF;
+    margin: 8px 0;
+    width: 95%;
+}
+
+.rendered-html h3 {
+    text-align: center;
+}
+
 .video-content,
 .youtube-content {
     width: 80%;
