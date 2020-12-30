@@ -9,9 +9,9 @@ function ListingItem({ entry }: { entry: Entry }): JSX.Element {
 	const onClick = () => navigate(entry.slug);
 
 	return (
-		<div className="entry" onClick={onClick}>
+		<a className="entry" onClick={onClick}>
 			<div className="entry-title">{entry.title}</div>
-		</div>
+		</a>
 	);
 }
 
