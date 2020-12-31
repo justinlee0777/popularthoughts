@@ -2,6 +2,8 @@
 title: "Wonder Woman 1984 is so corny and I love it"
 slug: "/wonder-woman-1984-is-so-corny-and-i-love-it"
 createdAt: "2020-12-30T17:08:34+0000"
+seoTitle: "Wonder Woman 1984 is so corny and I love it"
+seoDescription: "The Weebforce are quite enamored with Wonder Woman 1984."
 ---
 "Wonder Woman 1984" is so corny and yet I still love it.
 

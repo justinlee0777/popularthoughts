@@ -6,8 +6,16 @@ export interface Entry {
 	createdAt: string;
 }
 
+export interface SEO {
+	title: string;
+	description: string;
+	article: boolean;
+}
+
 export interface MainSiteConfig {
 	tabs: Array<Tab>;
+
+	seo: SEO;
 
 	article?: {
 		title: string;

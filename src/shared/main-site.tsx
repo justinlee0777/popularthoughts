@@ -2,9 +2,20 @@ import React from 'react';
 
 import MainSiteContent from './main-site-content/main-site-content';
 import MainSiteListing from './main-site-listing/main-site-listing';
-import { MainSiteConfig } from './main-site.config';
+import { MainSiteConfig, SEO } from './main-site.config';
 import './main-site.css';
 import NavBar from './nav-bar/nav-bar';
+import SEOComponent from './seo';
+
+function createSEO(seo: SEO): JSX.Element {
+	return (
+		<SEOComponent
+			title={seo.title}
+			description={seo.description}
+			article={seo.article}
+		/>
+	);
+}
 
 export default function MainSite({
 	pageContext,
@@ -45,8 +56,11 @@ export default function MainSite({
 		);
 	}
 
+	const seo = createSEO(pageContext.seo);
+
 	return (
 		<div className="main-site">
+			{seo}
 			<NavBar className="nav-bar" tabs={tabs}></NavBar>
 			{mainSiteContent}
 			{entriesContent}

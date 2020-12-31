@@ -18,6 +18,8 @@ async function getNavBar(graphql) {
 						label
 						value
 						markdownCriteria
+						seoTitle
+						seoDescription
 					}
 				}
 			}
@@ -42,6 +44,8 @@ async function getArticles(graphql) {
 							videoUrl
 							iframeTitle
 							createdAt
+							seoTitle
+							seoDescription
 						}
 					}
 				}
@@ -98,7 +102,15 @@ async function createMainPages(actions, navbarConfig, articles) {
 		actions.createPage({
 			path: tab.value,
 			component: path.resolve('src/shared/main-site.tsx'),
-			context: { tabs, entries: markdown },
+			context: {
+				tabs,
+				entries: markdown,
+				seo: {
+					title: tab.seoTitle,
+					description: tab.seoDescription,
+					article: false,
+				},
+			},
 		});
 	});
 
@@ -128,17 +140,22 @@ async function createArticleContentPages(actions, tabs, articles, videos) {
 			htmlString: md.html,
 			video: {
 				videoUrl,
-				youtubeUrl: md.frontmatter.youtubeUrl,
-				iframeTitle: md.frontmatter.iframeTitle,
+				youtubeUrl: frontmatter.youtubeUrl,
+				iframeTitle: frontmatter.iframeTitle,
 			},
 		};
 
 		actions.createPage({
-			path: md.frontmatter.slug,
+			path: frontmatter.slug,
 			component: path.resolve('src/shared/main-site.tsx'),
 			context: {
 				tabs,
 				article,
+				seo: {
+					title: frontmatter.seoTitle,
+					description: frontmatter.seoDescription,
+					article: true,
+				},
 			},
 		});
 	});
