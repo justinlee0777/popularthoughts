@@ -1,16 +1,22 @@
 [
     {
         "label": "Home",
-        "value": "/"
+        "value": "/",
+        "seoTitle": "Weebforce",
+        "seoDescription": "Weebforce, assemble! We thrash our way through modern culture and hopefully we find the true meaning of love at the end. This is the homepage."
     },
     {
         "label": "Articles",
         "value": "/articles",
-        "markdownCriteria": "html"
+        "markdownCriteria": "html",
+        "seoTitle": "Weebforce articles",
+        "seoDescription": "Weebforce, assemble! We thrash our way through modern culture and hopefully we find the true meaning of love at the end. This is a list of written articles."
     },
     {
         "label": "Videos",
         "value": "/videos",
-        "markdownCriteria": "youtubeUrl videoUrl"
+        "markdownCriteria": "youtubeUrl videoUrl",
+        "seoTitle": "Weebforce videos",
+        "seoDescription": "Weebforce, assemble! We thrash our way through modern culture and hopefully we find the true meaning of love at the end. This is a list of videos."
     }
 ]

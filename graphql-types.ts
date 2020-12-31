@@ -600,10 +600,12 @@ export type FileFieldsEnum =
   | 'childMarkdownRemark___id'
   | 'childMarkdownRemark___frontmatter___title'
   | 'childMarkdownRemark___frontmatter___slug'
-  | 'childMarkdownRemark___frontmatter___createdAt'
-  | 'childMarkdownRemark___frontmatter___youtubeUrl'
-  | 'childMarkdownRemark___frontmatter___iframeTitle'
   | 'childMarkdownRemark___frontmatter___videoUrl'
+  | 'childMarkdownRemark___frontmatter___iframeTitle'
+  | 'childMarkdownRemark___frontmatter___youtubeUrl'
+  | 'childMarkdownRemark___frontmatter___createdAt'
+  | 'childMarkdownRemark___frontmatter___seoTitle'
+  | 'childMarkdownRemark___frontmatter___seoDescription'
   | 'childMarkdownRemark___excerpt'
   | 'childMarkdownRemark___rawMarkdownBody'
   | 'childMarkdownRemark___fileAbsolutePath'
@@ -697,6 +699,8 @@ export type FileFieldsEnum =
   | 'childrenNavBarJson___internal___type'
   | 'childrenNavBarJson___label'
   | 'childrenNavBarJson___value'
+  | 'childrenNavBarJson___seoTitle'
+  | 'childrenNavBarJson___seoDescription'
   | 'childrenNavBarJson___markdownCriteria';
 
 export type FileFilterInput = {
@@ -914,10 +918,12 @@ export type MarkdownRemarkFieldsEnum =
   | 'id'
   | 'frontmatter___title'
   | 'frontmatter___slug'
-  | 'frontmatter___createdAt'
-  | 'frontmatter___youtubeUrl'
-  | 'frontmatter___iframeTitle'
   | 'frontmatter___videoUrl'
+  | 'frontmatter___iframeTitle'
+  | 'frontmatter___youtubeUrl'
+  | 'frontmatter___createdAt'
+  | 'frontmatter___seoTitle'
+  | 'frontmatter___seoDescription'
   | 'excerpt'
   | 'rawMarkdownBody'
   | 'fileAbsolutePath'
@@ -1040,10 +1046,12 @@ export type MarkdownRemarkFilterInput = {
 export type MarkdownRemarkFrontmatter = {
   title?: Maybe<Scalars['String']>;
   slug?: Maybe<Scalars['String']>;
-  createdAt?: Maybe<Scalars['Date']>;
-  youtubeUrl?: Maybe<Scalars['String']>;
-  iframeTitle?: Maybe<Scalars['String']>;
   videoUrl?: Maybe<Scalars['String']>;
+  iframeTitle?: Maybe<Scalars['String']>;
+  youtubeUrl?: Maybe<Scalars['String']>;
+  createdAt?: Maybe<Scalars['Date']>;
+  seoTitle?: Maybe<Scalars['String']>;
+  seoDescription?: Maybe<Scalars['String']>;
 };
 
 
@@ -1057,10 +1065,12 @@ export type MarkdownRemarkFrontmatterCreatedAtArgs = {
 export type MarkdownRemarkFrontmatterFilterInput = {
   title?: Maybe<StringQueryOperatorInput>;
   slug?: Maybe<StringQueryOperatorInput>;
-  createdAt?: Maybe<DateQueryOperatorInput>;
-  youtubeUrl?: Maybe<StringQueryOperatorInput>;
-  iframeTitle?: Maybe<StringQueryOperatorInput>;
   videoUrl?: Maybe<StringQueryOperatorInput>;
+  iframeTitle?: Maybe<StringQueryOperatorInput>;
+  youtubeUrl?: Maybe<StringQueryOperatorInput>;
+  createdAt?: Maybe<DateQueryOperatorInput>;
+  seoTitle?: Maybe<StringQueryOperatorInput>;
+  seoDescription?: Maybe<StringQueryOperatorInput>;
 };
 
 export type MarkdownRemarkGroupConnection = {
@@ -1096,6 +1106,8 @@ export type NavBarJson = Node & {
   internal: Internal;
   label?: Maybe<Scalars['String']>;
   value?: Maybe<Scalars['String']>;
+  seoTitle?: Maybe<Scalars['String']>;
+  seoDescription?: Maybe<Scalars['String']>;
   markdownCriteria?: Maybe<Scalars['String']>;
 };
 
@@ -1215,6 +1227,8 @@ export type NavBarJsonFieldsEnum =
   | 'internal___type'
   | 'label'
   | 'value'
+  | 'seoTitle'
+  | 'seoDescription'
   | 'markdownCriteria';
 
 export type NavBarJsonFilterInput = {
@@ -1224,6 +1238,8 @@ export type NavBarJsonFilterInput = {
   internal?: Maybe<InternalFilterInput>;
   label?: Maybe<StringQueryOperatorInput>;
   value?: Maybe<StringQueryOperatorInput>;
+  seoTitle?: Maybe<StringQueryOperatorInput>;
+  seoDescription?: Maybe<StringQueryOperatorInput>;
   markdownCriteria?: Maybe<StringQueryOperatorInput>;
 };
 
@@ -1477,6 +1493,8 @@ export type QueryNavBarJsonArgs = {
   internal?: Maybe<InternalFilterInput>;
   label?: Maybe<StringQueryOperatorInput>;
   value?: Maybe<StringQueryOperatorInput>;
+  seoTitle?: Maybe<StringQueryOperatorInput>;
+  seoDescription?: Maybe<StringQueryOperatorInput>;
   markdownCriteria?: Maybe<StringQueryOperatorInput>;
 };
 
@@ -1888,6 +1906,7 @@ export type SitePageConnectionGroupArgs = {
 export type SitePageContext = {
   tabs?: Maybe<Array<Maybe<SitePageContextTabs>>>;
   entries?: Maybe<Array<Maybe<SitePageContextEntries>>>;
+  seo?: Maybe<SitePageContextSeo>;
   article?: Maybe<SitePageContextArticle>;
 };
 
@@ -1942,19 +1961,36 @@ export type SitePageContextEntriesFilterListInput = {
 export type SitePageContextFilterInput = {
   tabs?: Maybe<SitePageContextTabsFilterListInput>;
   entries?: Maybe<SitePageContextEntriesFilterListInput>;
+  seo?: Maybe<SitePageContextSeoFilterInput>;
   article?: Maybe<SitePageContextArticleFilterInput>;
+};
+
+export type SitePageContextSeo = {
+  title?: Maybe<Scalars['String']>;
+  description?: Maybe<Scalars['String']>;
+  article?: Maybe<Scalars['Boolean']>;
+};
+
+export type SitePageContextSeoFilterInput = {
+  title?: Maybe<StringQueryOperatorInput>;
+  description?: Maybe<StringQueryOperatorInput>;
+  article?: Maybe<BooleanQueryOperatorInput>;
 };
 
 export type SitePageContextTabs = {
   label?: Maybe<Scalars['String']>;
   value?: Maybe<Scalars['String']>;
   markdownCriteria?: Maybe<Scalars['String']>;
+  seoTitle?: Maybe<Scalars['String']>;
+  seoDescription?: Maybe<Scalars['String']>;
 };
 
 export type SitePageContextTabsFilterInput = {
   label?: Maybe<StringQueryOperatorInput>;
   value?: Maybe<StringQueryOperatorInput>;
   markdownCriteria?: Maybe<StringQueryOperatorInput>;
+  seoTitle?: Maybe<StringQueryOperatorInput>;
+  seoDescription?: Maybe<StringQueryOperatorInput>;
 };
 
 export type SitePageContextTabsFilterListInput = {
@@ -2064,6 +2100,8 @@ export type SitePageFieldsEnum =
   | 'context___tabs___label'
   | 'context___tabs___value'
   | 'context___tabs___markdownCriteria'
+  | 'context___tabs___seoTitle'
+  | 'context___tabs___seoDescription'
   | 'context___entries'
   | 'context___entries___html'
   | 'context___entries___slug'
@@ -2071,6 +2109,9 @@ export type SitePageFieldsEnum =
   | 'context___entries___videoUrl'
   | 'context___entries___youtubeUrl'
   | 'context___entries___createdAt'
+  | 'context___seo___title'
+  | 'context___seo___description'
+  | 'context___seo___article'
   | 'context___article___title'
   | 'context___article___createdAt'
   | 'context___article___htmlString'
