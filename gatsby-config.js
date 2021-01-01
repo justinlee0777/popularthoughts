@@ -22,5 +22,6 @@ module.exports = {
 				typeCheck: process.env.NODE_ENV !== 'production',
 			},
 		},
+		'gatsby-plugin-react-helmet',
 	],
 };

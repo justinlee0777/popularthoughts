@@ -389,8 +389,8 @@ export type File = Node & {
   parent?: Maybe<Node>;
   children: Array<Node>;
   internal: Internal;
-  childMarkdownRemark?: Maybe<MarkdownRemark>;
   childrenNavBarJson?: Maybe<Array<Maybe<NavBarJson>>>;
+  childMarkdownRemark?: Maybe<MarkdownRemark>;
 };
 
 
@@ -597,6 +597,50 @@ export type FileFieldsEnum =
   | 'internal___mediaType'
   | 'internal___owner'
   | 'internal___type'
+  | 'childrenNavBarJson'
+  | 'childrenNavBarJson___id'
+  | 'childrenNavBarJson___parent___id'
+  | 'childrenNavBarJson___parent___parent___id'
+  | 'childrenNavBarJson___parent___parent___children'
+  | 'childrenNavBarJson___parent___children'
+  | 'childrenNavBarJson___parent___children___id'
+  | 'childrenNavBarJson___parent___children___children'
+  | 'childrenNavBarJson___parent___internal___content'
+  | 'childrenNavBarJson___parent___internal___contentDigest'
+  | 'childrenNavBarJson___parent___internal___description'
+  | 'childrenNavBarJson___parent___internal___fieldOwners'
+  | 'childrenNavBarJson___parent___internal___ignoreType'
+  | 'childrenNavBarJson___parent___internal___mediaType'
+  | 'childrenNavBarJson___parent___internal___owner'
+  | 'childrenNavBarJson___parent___internal___type'
+  | 'childrenNavBarJson___children'
+  | 'childrenNavBarJson___children___id'
+  | 'childrenNavBarJson___children___parent___id'
+  | 'childrenNavBarJson___children___parent___children'
+  | 'childrenNavBarJson___children___children'
+  | 'childrenNavBarJson___children___children___id'
+  | 'childrenNavBarJson___children___children___children'
+  | 'childrenNavBarJson___children___internal___content'
+  | 'childrenNavBarJson___children___internal___contentDigest'
+  | 'childrenNavBarJson___children___internal___description'
+  | 'childrenNavBarJson___children___internal___fieldOwners'
+  | 'childrenNavBarJson___children___internal___ignoreType'
+  | 'childrenNavBarJson___children___internal___mediaType'
+  | 'childrenNavBarJson___children___internal___owner'
+  | 'childrenNavBarJson___children___internal___type'
+  | 'childrenNavBarJson___internal___content'
+  | 'childrenNavBarJson___internal___contentDigest'
+  | 'childrenNavBarJson___internal___description'
+  | 'childrenNavBarJson___internal___fieldOwners'
+  | 'childrenNavBarJson___internal___ignoreType'
+  | 'childrenNavBarJson___internal___mediaType'
+  | 'childrenNavBarJson___internal___owner'
+  | 'childrenNavBarJson___internal___type'
+  | 'childrenNavBarJson___label'
+  | 'childrenNavBarJson___value'
+  | 'childrenNavBarJson___seoTitle'
+  | 'childrenNavBarJson___seoDescription'
+  | 'childrenNavBarJson___markdownCriteria'
   | 'childMarkdownRemark___id'
   | 'childMarkdownRemark___frontmatter___title'
   | 'childMarkdownRemark___frontmatter___slug'
@@ -657,51 +701,7 @@ export type FileFieldsEnum =
   | 'childMarkdownRemark___internal___ignoreType'
   | 'childMarkdownRemark___internal___mediaType'
   | 'childMarkdownRemark___internal___owner'
-  | 'childMarkdownRemark___internal___type'
-  | 'childrenNavBarJson'
-  | 'childrenNavBarJson___id'
-  | 'childrenNavBarJson___parent___id'
-  | 'childrenNavBarJson___parent___parent___id'
-  | 'childrenNavBarJson___parent___parent___children'
-  | 'childrenNavBarJson___parent___children'
-  | 'childrenNavBarJson___parent___children___id'
-  | 'childrenNavBarJson___parent___children___children'
-  | 'childrenNavBarJson___parent___internal___content'
-  | 'childrenNavBarJson___parent___internal___contentDigest'
-  | 'childrenNavBarJson___parent___internal___description'
-  | 'childrenNavBarJson___parent___internal___fieldOwners'
-  | 'childrenNavBarJson___parent___internal___ignoreType'
-  | 'childrenNavBarJson___parent___internal___mediaType'
-  | 'childrenNavBarJson___parent___internal___owner'
-  | 'childrenNavBarJson___parent___internal___type'
-  | 'childrenNavBarJson___children'
-  | 'childrenNavBarJson___children___id'
-  | 'childrenNavBarJson___children___parent___id'
-  | 'childrenNavBarJson___children___parent___children'
-  | 'childrenNavBarJson___children___children'
-  | 'childrenNavBarJson___children___children___id'
-  | 'childrenNavBarJson___children___children___children'
-  | 'childrenNavBarJson___children___internal___content'
-  | 'childrenNavBarJson___children___internal___contentDigest'
-  | 'childrenNavBarJson___children___internal___description'
-  | 'childrenNavBarJson___children___internal___fieldOwners'
-  | 'childrenNavBarJson___children___internal___ignoreType'
-  | 'childrenNavBarJson___children___internal___mediaType'
-  | 'childrenNavBarJson___children___internal___owner'
-  | 'childrenNavBarJson___children___internal___type'
-  | 'childrenNavBarJson___internal___content'
-  | 'childrenNavBarJson___internal___contentDigest'
-  | 'childrenNavBarJson___internal___description'
-  | 'childrenNavBarJson___internal___fieldOwners'
-  | 'childrenNavBarJson___internal___ignoreType'
-  | 'childrenNavBarJson___internal___mediaType'
-  | 'childrenNavBarJson___internal___owner'
-  | 'childrenNavBarJson___internal___type'
-  | 'childrenNavBarJson___label'
-  | 'childrenNavBarJson___value'
-  | 'childrenNavBarJson___seoTitle'
-  | 'childrenNavBarJson___seoDescription'
-  | 'childrenNavBarJson___markdownCriteria';
+  | 'childMarkdownRemark___internal___type';
 
 export type FileFilterInput = {
   sourceInstanceName?: Maybe<StringQueryOperatorInput>;
@@ -742,8 +742,8 @@ export type FileFilterInput = {
   parent?: Maybe<NodeFilterInput>;
   children?: Maybe<NodeFilterListInput>;
   internal?: Maybe<InternalFilterInput>;
-  childMarkdownRemark?: Maybe<MarkdownRemarkFilterInput>;
   childrenNavBarJson?: Maybe<NavBarJsonFilterListInput>;
+  childMarkdownRemark?: Maybe<MarkdownRemarkFilterInput>;
 };
 
 export type FileGroupConnection = {
@@ -1349,8 +1349,8 @@ export type QueryFileArgs = {
   parent?: Maybe<NodeFilterInput>;
   children?: Maybe<NodeFilterListInput>;
   internal?: Maybe<InternalFilterInput>;
-  childMarkdownRemark?: Maybe<MarkdownRemarkFilterInput>;
   childrenNavBarJson?: Maybe<NavBarJsonFilterListInput>;
+  childMarkdownRemark?: Maybe<MarkdownRemarkFilterInput>;
 };
 
 
@@ -1414,8 +1414,6 @@ export type QueryAllDirectoryArgs = {
 export type QuerySiteArgs = {
   buildTime?: Maybe<DateQueryOperatorInput>;
   siteMetadata?: Maybe<SiteSiteMetadataFilterInput>;
-  port?: Maybe<IntQueryOperatorInput>;
-  host?: Maybe<StringQueryOperatorInput>;
   polyfill?: Maybe<BooleanQueryOperatorInput>;
   pathPrefix?: Maybe<StringQueryOperatorInput>;
   id?: Maybe<StringQueryOperatorInput>;
@@ -1534,6 +1532,7 @@ export type QuerySitePluginArgs = {
   version?: Maybe<StringQueryOperatorInput>;
   pluginOptions?: Maybe<SitePluginPluginOptionsFilterInput>;
   nodeAPIs?: Maybe<StringQueryOperatorInput>;
+  ssrAPIs?: Maybe<StringQueryOperatorInput>;
   pluginFilepath?: Maybe<StringQueryOperatorInput>;
   packageJson?: Maybe<SitePluginPackageJsonFilterInput>;
 };
@@ -1549,8 +1548,6 @@ export type QueryAllSitePluginArgs = {
 export type Site = Node & {
   buildTime?: Maybe<Scalars['Date']>;
   siteMetadata?: Maybe<SiteSiteMetadata>;
-  port?: Maybe<Scalars['Int']>;
-  host?: Maybe<Scalars['String']>;
   polyfill?: Maybe<Scalars['Boolean']>;
   pathPrefix?: Maybe<Scalars['String']>;
   id: Scalars['ID'];
@@ -1752,8 +1749,6 @@ export type SiteFieldsEnum =
   | 'buildTime'
   | 'siteMetadata___title'
   | 'siteMetadata___description'
-  | 'port'
-  | 'host'
   | 'polyfill'
   | 'pathPrefix'
   | 'id'
@@ -1846,8 +1841,6 @@ export type SiteFieldsEnum =
 export type SiteFilterInput = {
   buildTime?: Maybe<DateQueryOperatorInput>;
   siteMetadata?: Maybe<SiteSiteMetadataFilterInput>;
-  port?: Maybe<IntQueryOperatorInput>;
-  host?: Maybe<StringQueryOperatorInput>;
   polyfill?: Maybe<BooleanQueryOperatorInput>;
   pathPrefix?: Maybe<StringQueryOperatorInput>;
   id?: Maybe<StringQueryOperatorInput>;
@@ -2157,12 +2150,13 @@ export type SitePageFieldsEnum =
   | 'pluginCreator___name'
   | 'pluginCreator___version'
   | 'pluginCreator___pluginOptions___path'
-  | 'pluginCreator___pluginOptions___typeCheck'
   | 'pluginCreator___pluginOptions___pathCheck'
   | 'pluginCreator___pluginOptions___allExtensions'
   | 'pluginCreator___pluginOptions___isTSX'
   | 'pluginCreator___pluginOptions___jsxPragma'
+  | 'pluginCreator___pluginOptions___typeCheck'
   | 'pluginCreator___nodeAPIs'
+  | 'pluginCreator___ssrAPIs'
   | 'pluginCreator___pluginFilepath'
   | 'pluginCreator___packageJson___name'
   | 'pluginCreator___packageJson___description'
@@ -2224,6 +2218,7 @@ export type SitePlugin = Node & {
   version?: Maybe<Scalars['String']>;
   pluginOptions?: Maybe<SitePluginPluginOptions>;
   nodeAPIs?: Maybe<Array<Maybe<Scalars['String']>>>;
+  ssrAPIs?: Maybe<Array<Maybe<Scalars['String']>>>;
   pluginFilepath?: Maybe<Scalars['String']>;
   packageJson?: Maybe<SitePluginPackageJson>;
 };
@@ -2346,12 +2341,13 @@ export type SitePluginFieldsEnum =
   | 'name'
   | 'version'
   | 'pluginOptions___path'
-  | 'pluginOptions___typeCheck'
   | 'pluginOptions___pathCheck'
   | 'pluginOptions___allExtensions'
   | 'pluginOptions___isTSX'
   | 'pluginOptions___jsxPragma'
+  | 'pluginOptions___typeCheck'
   | 'nodeAPIs'
+  | 'ssrAPIs'
   | 'pluginFilepath'
   | 'packageJson___name'
   | 'packageJson___description'
@@ -2380,6 +2376,7 @@ export type SitePluginFilterInput = {
   version?: Maybe<StringQueryOperatorInput>;
   pluginOptions?: Maybe<SitePluginPluginOptionsFilterInput>;
   nodeAPIs?: Maybe<StringQueryOperatorInput>;
+  ssrAPIs?: Maybe<StringQueryOperatorInput>;
   pluginFilepath?: Maybe<StringQueryOperatorInput>;
   packageJson?: Maybe<SitePluginPackageJsonFilterInput>;
 };
@@ -2463,20 +2460,20 @@ export type SitePluginPackageJsonPeerDependenciesFilterListInput = {
 
 export type SitePluginPluginOptions = {
   path?: Maybe<Scalars['String']>;
-  typeCheck?: Maybe<Scalars['Boolean']>;
   pathCheck?: Maybe<Scalars['Boolean']>;
   allExtensions?: Maybe<Scalars['Boolean']>;
   isTSX?: Maybe<Scalars['Boolean']>;
   jsxPragma?: Maybe<Scalars['String']>;
+  typeCheck?: Maybe<Scalars['Boolean']>;
 };
 
 export type SitePluginPluginOptionsFilterInput = {
   path?: Maybe<StringQueryOperatorInput>;
-  typeCheck?: Maybe<BooleanQueryOperatorInput>;
   pathCheck?: Maybe<BooleanQueryOperatorInput>;
   allExtensions?: Maybe<BooleanQueryOperatorInput>;
   isTSX?: Maybe<BooleanQueryOperatorInput>;
   jsxPragma?: Maybe<StringQueryOperatorInput>;
+  typeCheck?: Maybe<BooleanQueryOperatorInput>;
 };
 
 export type SitePluginSortInput = {
