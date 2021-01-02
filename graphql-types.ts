@@ -389,8 +389,8 @@ export type File = Node & {
   parent?: Maybe<Node>;
   children: Array<Node>;
   internal: Internal;
-  childrenNavBarJson?: Maybe<Array<Maybe<NavBarJson>>>;
   childMarkdownRemark?: Maybe<MarkdownRemark>;
+  childrenNavBarJson?: Maybe<Array<Maybe<NavBarJson>>>;
 };
 
 
@@ -597,50 +597,6 @@ export type FileFieldsEnum =
   | 'internal___mediaType'
   | 'internal___owner'
   | 'internal___type'
-  | 'childrenNavBarJson'
-  | 'childrenNavBarJson___id'
-  | 'childrenNavBarJson___parent___id'
-  | 'childrenNavBarJson___parent___parent___id'
-  | 'childrenNavBarJson___parent___parent___children'
-  | 'childrenNavBarJson___parent___children'
-  | 'childrenNavBarJson___parent___children___id'
-  | 'childrenNavBarJson___parent___children___children'
-  | 'childrenNavBarJson___parent___internal___content'
-  | 'childrenNavBarJson___parent___internal___contentDigest'
-  | 'childrenNavBarJson___parent___internal___description'
-  | 'childrenNavBarJson___parent___internal___fieldOwners'
-  | 'childrenNavBarJson___parent___internal___ignoreType'
-  | 'childrenNavBarJson___parent___internal___mediaType'
-  | 'childrenNavBarJson___parent___internal___owner'
-  | 'childrenNavBarJson___parent___internal___type'
-  | 'childrenNavBarJson___children'
-  | 'childrenNavBarJson___children___id'
-  | 'childrenNavBarJson___children___parent___id'
-  | 'childrenNavBarJson___children___parent___children'
-  | 'childrenNavBarJson___children___children'
-  | 'childrenNavBarJson___children___children___id'
-  | 'childrenNavBarJson___children___children___children'
-  | 'childrenNavBarJson___children___internal___content'
-  | 'childrenNavBarJson___children___internal___contentDigest'
-  | 'childrenNavBarJson___children___internal___description'
-  | 'childrenNavBarJson___children___internal___fieldOwners'
-  | 'childrenNavBarJson___children___internal___ignoreType'
-  | 'childrenNavBarJson___children___internal___mediaType'
-  | 'childrenNavBarJson___children___internal___owner'
-  | 'childrenNavBarJson___children___internal___type'
-  | 'childrenNavBarJson___internal___content'
-  | 'childrenNavBarJson___internal___contentDigest'
-  | 'childrenNavBarJson___internal___description'
-  | 'childrenNavBarJson___internal___fieldOwners'
-  | 'childrenNavBarJson___internal___ignoreType'
-  | 'childrenNavBarJson___internal___mediaType'
-  | 'childrenNavBarJson___internal___owner'
-  | 'childrenNavBarJson___internal___type'
-  | 'childrenNavBarJson___label'
-  | 'childrenNavBarJson___value'
-  | 'childrenNavBarJson___seoTitle'
-  | 'childrenNavBarJson___seoDescription'
-  | 'childrenNavBarJson___markdownCriteria'
   | 'childMarkdownRemark___id'
   | 'childMarkdownRemark___frontmatter___title'
   | 'childMarkdownRemark___frontmatter___slug'
@@ -650,6 +606,7 @@ export type FileFieldsEnum =
   | 'childMarkdownRemark___frontmatter___youtubeUrl'
   | 'childMarkdownRemark___frontmatter___iframeTitle'
   | 'childMarkdownRemark___frontmatter___videoUrl'
+  | 'childMarkdownRemark___frontmatter___tags'
   | 'childMarkdownRemark___excerpt'
   | 'childMarkdownRemark___rawMarkdownBody'
   | 'childMarkdownRemark___fileAbsolutePath'
@@ -701,7 +658,51 @@ export type FileFieldsEnum =
   | 'childMarkdownRemark___internal___ignoreType'
   | 'childMarkdownRemark___internal___mediaType'
   | 'childMarkdownRemark___internal___owner'
-  | 'childMarkdownRemark___internal___type';
+  | 'childMarkdownRemark___internal___type'
+  | 'childrenNavBarJson'
+  | 'childrenNavBarJson___id'
+  | 'childrenNavBarJson___parent___id'
+  | 'childrenNavBarJson___parent___parent___id'
+  | 'childrenNavBarJson___parent___parent___children'
+  | 'childrenNavBarJson___parent___children'
+  | 'childrenNavBarJson___parent___children___id'
+  | 'childrenNavBarJson___parent___children___children'
+  | 'childrenNavBarJson___parent___internal___content'
+  | 'childrenNavBarJson___parent___internal___contentDigest'
+  | 'childrenNavBarJson___parent___internal___description'
+  | 'childrenNavBarJson___parent___internal___fieldOwners'
+  | 'childrenNavBarJson___parent___internal___ignoreType'
+  | 'childrenNavBarJson___parent___internal___mediaType'
+  | 'childrenNavBarJson___parent___internal___owner'
+  | 'childrenNavBarJson___parent___internal___type'
+  | 'childrenNavBarJson___children'
+  | 'childrenNavBarJson___children___id'
+  | 'childrenNavBarJson___children___parent___id'
+  | 'childrenNavBarJson___children___parent___children'
+  | 'childrenNavBarJson___children___children'
+  | 'childrenNavBarJson___children___children___id'
+  | 'childrenNavBarJson___children___children___children'
+  | 'childrenNavBarJson___children___internal___content'
+  | 'childrenNavBarJson___children___internal___contentDigest'
+  | 'childrenNavBarJson___children___internal___description'
+  | 'childrenNavBarJson___children___internal___fieldOwners'
+  | 'childrenNavBarJson___children___internal___ignoreType'
+  | 'childrenNavBarJson___children___internal___mediaType'
+  | 'childrenNavBarJson___children___internal___owner'
+  | 'childrenNavBarJson___children___internal___type'
+  | 'childrenNavBarJson___internal___content'
+  | 'childrenNavBarJson___internal___contentDigest'
+  | 'childrenNavBarJson___internal___description'
+  | 'childrenNavBarJson___internal___fieldOwners'
+  | 'childrenNavBarJson___internal___ignoreType'
+  | 'childrenNavBarJson___internal___mediaType'
+  | 'childrenNavBarJson___internal___owner'
+  | 'childrenNavBarJson___internal___type'
+  | 'childrenNavBarJson___label'
+  | 'childrenNavBarJson___value'
+  | 'childrenNavBarJson___seoTitle'
+  | 'childrenNavBarJson___seoDescription'
+  | 'childrenNavBarJson___tagCriteria';
 
 export type FileFilterInput = {
   sourceInstanceName?: Maybe<StringQueryOperatorInput>;
@@ -742,8 +743,8 @@ export type FileFilterInput = {
   parent?: Maybe<NodeFilterInput>;
   children?: Maybe<NodeFilterListInput>;
   internal?: Maybe<InternalFilterInput>;
-  childrenNavBarJson?: Maybe<NavBarJsonFilterListInput>;
   childMarkdownRemark?: Maybe<MarkdownRemarkFilterInput>;
+  childrenNavBarJson?: Maybe<NavBarJsonFilterListInput>;
 };
 
 export type FileGroupConnection = {
@@ -924,6 +925,7 @@ export type MarkdownRemarkFieldsEnum =
   | 'frontmatter___youtubeUrl'
   | 'frontmatter___iframeTitle'
   | 'frontmatter___videoUrl'
+  | 'frontmatter___tags'
   | 'excerpt'
   | 'rawMarkdownBody'
   | 'fileAbsolutePath'
@@ -1052,6 +1054,7 @@ export type MarkdownRemarkFrontmatter = {
   youtubeUrl?: Maybe<Scalars['String']>;
   iframeTitle?: Maybe<Scalars['String']>;
   videoUrl?: Maybe<Scalars['String']>;
+  tags?: Maybe<Array<Maybe<Scalars['String']>>>;
 };
 
 
@@ -1071,6 +1074,7 @@ export type MarkdownRemarkFrontmatterFilterInput = {
   youtubeUrl?: Maybe<StringQueryOperatorInput>;
   iframeTitle?: Maybe<StringQueryOperatorInput>;
   videoUrl?: Maybe<StringQueryOperatorInput>;
+  tags?: Maybe<StringQueryOperatorInput>;
 };
 
 export type MarkdownRemarkGroupConnection = {
@@ -1108,7 +1112,7 @@ export type NavBarJson = Node & {
   value?: Maybe<Scalars['String']>;
   seoTitle?: Maybe<Scalars['String']>;
   seoDescription?: Maybe<Scalars['String']>;
-  markdownCriteria?: Maybe<Scalars['String']>;
+  tagCriteria?: Maybe<Array<Maybe<Scalars['String']>>>;
 };
 
 export type NavBarJsonConnection = {
@@ -1229,7 +1233,7 @@ export type NavBarJsonFieldsEnum =
   | 'value'
   | 'seoTitle'
   | 'seoDescription'
-  | 'markdownCriteria';
+  | 'tagCriteria';
 
 export type NavBarJsonFilterInput = {
   id?: Maybe<StringQueryOperatorInput>;
@@ -1240,7 +1244,7 @@ export type NavBarJsonFilterInput = {
   value?: Maybe<StringQueryOperatorInput>;
   seoTitle?: Maybe<StringQueryOperatorInput>;
   seoDescription?: Maybe<StringQueryOperatorInput>;
-  markdownCriteria?: Maybe<StringQueryOperatorInput>;
+  tagCriteria?: Maybe<StringQueryOperatorInput>;
 };
 
 export type NavBarJsonFilterListInput = {
@@ -1349,8 +1353,8 @@ export type QueryFileArgs = {
   parent?: Maybe<NodeFilterInput>;
   children?: Maybe<NodeFilterListInput>;
   internal?: Maybe<InternalFilterInput>;
-  childrenNavBarJson?: Maybe<NavBarJsonFilterListInput>;
   childMarkdownRemark?: Maybe<MarkdownRemarkFilterInput>;
+  childrenNavBarJson?: Maybe<NavBarJsonFilterListInput>;
 };
 
 
@@ -1414,6 +1418,8 @@ export type QueryAllDirectoryArgs = {
 export type QuerySiteArgs = {
   buildTime?: Maybe<DateQueryOperatorInput>;
   siteMetadata?: Maybe<SiteSiteMetadataFilterInput>;
+  port?: Maybe<IntQueryOperatorInput>;
+  host?: Maybe<StringQueryOperatorInput>;
   polyfill?: Maybe<BooleanQueryOperatorInput>;
   pathPrefix?: Maybe<StringQueryOperatorInput>;
   id?: Maybe<StringQueryOperatorInput>;
@@ -1493,7 +1499,7 @@ export type QueryNavBarJsonArgs = {
   value?: Maybe<StringQueryOperatorInput>;
   seoTitle?: Maybe<StringQueryOperatorInput>;
   seoDescription?: Maybe<StringQueryOperatorInput>;
-  markdownCriteria?: Maybe<StringQueryOperatorInput>;
+  tagCriteria?: Maybe<StringQueryOperatorInput>;
 };
 
 
@@ -1548,6 +1554,8 @@ export type QueryAllSitePluginArgs = {
 export type Site = Node & {
   buildTime?: Maybe<Scalars['Date']>;
   siteMetadata?: Maybe<SiteSiteMetadata>;
+  port?: Maybe<Scalars['Int']>;
+  host?: Maybe<Scalars['String']>;
   polyfill?: Maybe<Scalars['Boolean']>;
   pathPrefix?: Maybe<Scalars['String']>;
   id: Scalars['ID'];
@@ -1749,6 +1757,8 @@ export type SiteFieldsEnum =
   | 'buildTime'
   | 'siteMetadata___title'
   | 'siteMetadata___description'
+  | 'port'
+  | 'host'
   | 'polyfill'
   | 'pathPrefix'
   | 'id'
@@ -1841,6 +1851,8 @@ export type SiteFieldsEnum =
 export type SiteFilterInput = {
   buildTime?: Maybe<DateQueryOperatorInput>;
   siteMetadata?: Maybe<SiteSiteMetadataFilterInput>;
+  port?: Maybe<IntQueryOperatorInput>;
+  host?: Maybe<StringQueryOperatorInput>;
   polyfill?: Maybe<BooleanQueryOperatorInput>;
   pathPrefix?: Maybe<StringQueryOperatorInput>;
   id?: Maybe<StringQueryOperatorInput>;
@@ -1934,6 +1946,7 @@ export type SitePageContextEntries = {
   videoUrl?: Maybe<Scalars['String']>;
   youtubeUrl?: Maybe<Scalars['String']>;
   createdAt?: Maybe<Scalars['Date']>;
+  tags?: Maybe<Array<Maybe<Scalars['String']>>>;
 };
 
 export type SitePageContextEntriesFilterInput = {
@@ -1943,6 +1956,7 @@ export type SitePageContextEntriesFilterInput = {
   videoUrl?: Maybe<StringQueryOperatorInput>;
   youtubeUrl?: Maybe<StringQueryOperatorInput>;
   createdAt?: Maybe<DateQueryOperatorInput>;
+  tags?: Maybe<StringQueryOperatorInput>;
 };
 
 export type SitePageContextEntriesFilterListInput = {
@@ -1971,7 +1985,7 @@ export type SitePageContextSeoFilterInput = {
 export type SitePageContextTabs = {
   label?: Maybe<Scalars['String']>;
   value?: Maybe<Scalars['String']>;
-  markdownCriteria?: Maybe<Scalars['String']>;
+  tagCriteria?: Maybe<Array<Maybe<Scalars['String']>>>;
   seoTitle?: Maybe<Scalars['String']>;
   seoDescription?: Maybe<Scalars['String']>;
 };
@@ -1979,7 +1993,7 @@ export type SitePageContextTabs = {
 export type SitePageContextTabsFilterInput = {
   label?: Maybe<StringQueryOperatorInput>;
   value?: Maybe<StringQueryOperatorInput>;
-  markdownCriteria?: Maybe<StringQueryOperatorInput>;
+  tagCriteria?: Maybe<StringQueryOperatorInput>;
   seoTitle?: Maybe<StringQueryOperatorInput>;
   seoDescription?: Maybe<StringQueryOperatorInput>;
 };
@@ -2090,7 +2104,7 @@ export type SitePageFieldsEnum =
   | 'context___tabs'
   | 'context___tabs___label'
   | 'context___tabs___value'
-  | 'context___tabs___markdownCriteria'
+  | 'context___tabs___tagCriteria'
   | 'context___tabs___seoTitle'
   | 'context___tabs___seoDescription'
   | 'context___entries'
@@ -2100,6 +2114,7 @@ export type SitePageFieldsEnum =
   | 'context___entries___videoUrl'
   | 'context___entries___youtubeUrl'
   | 'context___entries___createdAt'
+  | 'context___entries___tags'
   | 'context___seo___title'
   | 'context___seo___description'
   | 'context___seo___article'
@@ -2150,11 +2165,11 @@ export type SitePageFieldsEnum =
   | 'pluginCreator___name'
   | 'pluginCreator___version'
   | 'pluginCreator___pluginOptions___path'
+  | 'pluginCreator___pluginOptions___typeCheck'
   | 'pluginCreator___pluginOptions___pathCheck'
   | 'pluginCreator___pluginOptions___allExtensions'
   | 'pluginCreator___pluginOptions___isTSX'
   | 'pluginCreator___pluginOptions___jsxPragma'
-  | 'pluginCreator___pluginOptions___typeCheck'
   | 'pluginCreator___nodeAPIs'
   | 'pluginCreator___ssrAPIs'
   | 'pluginCreator___pluginFilepath'
@@ -2341,11 +2356,11 @@ export type SitePluginFieldsEnum =
   | 'name'
   | 'version'
   | 'pluginOptions___path'
+  | 'pluginOptions___typeCheck'
   | 'pluginOptions___pathCheck'
   | 'pluginOptions___allExtensions'
   | 'pluginOptions___isTSX'
   | 'pluginOptions___jsxPragma'
-  | 'pluginOptions___typeCheck'
   | 'nodeAPIs'
   | 'ssrAPIs'
   | 'pluginFilepath'
@@ -2460,20 +2475,20 @@ export type SitePluginPackageJsonPeerDependenciesFilterListInput = {
 
 export type SitePluginPluginOptions = {
   path?: Maybe<Scalars['String']>;
+  typeCheck?: Maybe<Scalars['Boolean']>;
   pathCheck?: Maybe<Scalars['Boolean']>;
   allExtensions?: Maybe<Scalars['Boolean']>;
   isTSX?: Maybe<Scalars['Boolean']>;
   jsxPragma?: Maybe<Scalars['String']>;
-  typeCheck?: Maybe<Scalars['Boolean']>;
 };
 
 export type SitePluginPluginOptionsFilterInput = {
   path?: Maybe<StringQueryOperatorInput>;
+  typeCheck?: Maybe<BooleanQueryOperatorInput>;
   pathCheck?: Maybe<BooleanQueryOperatorInput>;
   allExtensions?: Maybe<BooleanQueryOperatorInput>;
   isTSX?: Maybe<BooleanQueryOperatorInput>;
   jsxPragma?: Maybe<StringQueryOperatorInput>;
-  typeCheck?: Maybe<BooleanQueryOperatorInput>;
 };
 
 export type SitePluginSortInput = {

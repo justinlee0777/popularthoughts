@@ -1,9 +1,10 @@
 const path = require('path');
 
-function evalMarkdownCriteria(criteria) {
-	const tokens = criteria.split(' ');
-
-	return entry => tokens.some(t => !!entry[t]);
+function evalTagCriteria(criteria) {
+	return entry => {
+		const tags = entry.tags ?? [];
+		return criteria.some(c => tags.includes(c));
+	};
 }
 
 /**
@@ -17,7 +18,7 @@ async function getNavBar(graphql) {
 					node {
 						label
 						value
-						markdownCriteria
+						tagCriteria
 						seoTitle
 						seoDescription
 					}
@@ -46,6 +47,7 @@ async function getArticles(graphql) {
 							createdAt
 							seoTitle
 							seoDescription
+							tags
 						}
 					}
 				}
@@ -90,11 +92,12 @@ async function createMainPages(actions, navbarConfig, articles) {
 				videoUrl: frontmatter.videoUrl,
 				youtubeUrl: frontmatter.youtubeUrl,
 				createdAt: frontmatter.createdAt,
+				tags: frontmatter.tags,
 			};
 		});
 
-		if (tab.markdownCriteria) {
-			const mdCriteria = evalMarkdownCriteria(tab.markdownCriteria);
+		if (tab.tagCriteria) {
+			const mdCriteria = evalTagCriteria(tab.tagCriteria);
 
 			markdown = markdown.filter(md => mdCriteria(md));
 		}

@@ -7,4 +7,5 @@ seoDescription: "Antonio and Justin have an awful time with the last episode of 
 youtubeUrl: "https://www.youtube.com/embed/7M6AKTN4SNw"
 iframeTitle: "PainFul reaction to Re:Zero 2 Episode 13"
 videoUrl: ""
+tags: ["anime", "animation"]
 ---
