@@ -17,6 +17,10 @@ export default function SEO(seo: SEOConfig): JSX.Element {
 			{articleTag}
 			<meta property="og:title" content={seo.title} />
 			<meta property="og:description" content={seo.description} />
+			<meta
+				name="viewport"
+				content="width=device-width, initial-scale=1"
+			/>
 		</Helmet>
 	);
 }
