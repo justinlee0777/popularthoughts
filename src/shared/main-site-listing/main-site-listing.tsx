@@ -13,7 +13,10 @@ function ListingItem({ entry }: { entry: Entry }): JSX.Element {
 
 	return (
 		<a className="entry" onClick={onClick}>
-			<strong className="entry-title">{entry.title}</strong>
+			<span>
+				<strong className="entry-title">{entry.title}</strong>
+				<i className="article-type">{entry.articleType}</i>
+			</span>
 			<time dateTime={entry.createdAt}>
 				{calculateDateString(entry.createdAt)}
 			</time>

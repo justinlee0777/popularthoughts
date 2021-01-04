@@ -1,10 +1,25 @@
 const path = require('path');
 
+/**
+ * Using the criteria of a listing on the nav bar, filter out articles.
+ */
 function evalTagCriteria(criteria) {
 	return entry => {
 		const tags = entry.tags ?? [];
 		return criteria.some(c => tags.includes(c));
 	};
+}
+
+/**
+ * Determine whether an article is an article or a video.
+ */
+function getArticleType(entry) {
+	if (entry.youtubeUrl || entry.videoUrl) {
+		// Having video takes primacy over any textual content.
+		return 'Video';
+	} else {
+		return 'Article';
+	}
 }
 
 /**
@@ -80,26 +95,29 @@ async function createMainPages(actions, navbarConfig, articles) {
 	const allNavBarJson = navbarConfig.allNavBarJson;
 	const tabs = allNavBarJson.edges.map(e => e.node);
 
-	tabs.forEach(tab => {
-		let markdown = articles.allMarkdownRemark.edges.map(e => {
-			const node = e.node;
-			const frontmatter = node.frontmatter;
+	const markdown = articles.allMarkdownRemark.edges.map(e => {
+		const node = e.node;
+		const frontmatter = node.frontmatter;
 
-			return {
-				html: node.html,
-				slug: frontmatter.slug,
-				title: frontmatter.title,
-				videoUrl: frontmatter.videoUrl,
-				youtubeUrl: frontmatter.youtubeUrl,
-				createdAt: frontmatter.createdAt,
-				tags: frontmatter.tags,
-			};
-		});
+		return {
+			html: node.html,
+			slug: frontmatter.slug,
+			title: frontmatter.title,
+			videoUrl: frontmatter.videoUrl,
+			youtubeUrl: frontmatter.youtubeUrl,
+			createdAt: frontmatter.createdAt,
+			tags: frontmatter.tags,
+			articleType: getArticleType(frontmatter),
+		};
+	});
+
+	tabs.forEach(tab => {
+		let m = markdown;
 
 		if (tab.tagCriteria) {
 			const mdCriteria = evalTagCriteria(tab.tagCriteria);
 
-			markdown = markdown.filter(md => mdCriteria(md));
+			m = m.filter(md => mdCriteria(md));
 		}
 
 		actions.createPage({
@@ -107,7 +125,7 @@ async function createMainPages(actions, navbarConfig, articles) {
 			component: path.resolve('src/shared/main-site.tsx'),
 			context: {
 				tabs,
-				entries: markdown,
+				entries: m,
 				seo: {
 					title: tab.seoTitle,
 					description: tab.seoDescription,

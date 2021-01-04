@@ -4,6 +4,7 @@ export interface Entry {
 	slug: string;
 	title: string;
 	createdAt: string;
+	articleType: string;
 }
 
 export interface SEO {
