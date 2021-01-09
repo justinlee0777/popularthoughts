@@ -26,8 +26,9 @@ export default function NavBar(config: NavBarConfig): JSX.Element {
 			key="youtube"
 			target="_blank"
 			to="https://www.youtube.com/channel/UCVmcB2t71rU_J7dfE63a8RQ"
+			rel="noopener noreferrer"
 		>
-			<img src={youtubeIcon} />
+			<img alt="Link to our Youtube channel." src={youtubeIcon} />
 		</Link>
 	);
 
