@@ -59,7 +59,7 @@ export default function MainSite({
 	const seo = createSEO(pageContext.seo);
 
 	return (
-		<div className="main-site">
+		<div className="main-site" lang="en-US">
 			{seo}
 			<NavBar className="nav-bar" tabs={tabs}></NavBar>
 			{mainSiteContent}
