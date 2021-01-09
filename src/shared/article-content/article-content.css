@@ -5,6 +5,10 @@
     width: 100%;
 }
 
+.audio-content {
+    width: 75vw;
+}
+
 .date-time {
     margin-bottom: 12px;
 }

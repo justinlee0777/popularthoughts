@@ -648,8 +648,9 @@ export type FileFieldsEnum =
   | 'childMarkdownRemark___frontmatter___seoTitle'
   | 'childMarkdownRemark___frontmatter___seoDescription'
   | 'childMarkdownRemark___frontmatter___tags'
-  | 'childMarkdownRemark___frontmatter___youtubeUrl'
+  | 'childMarkdownRemark___frontmatter___audioUrl'
   | 'childMarkdownRemark___frontmatter___iframeTitle'
+  | 'childMarkdownRemark___frontmatter___youtubeUrl'
   | 'childMarkdownRemark___frontmatter___videoUrl'
   | 'childMarkdownRemark___excerpt'
   | 'childMarkdownRemark___rawMarkdownBody'
@@ -923,8 +924,9 @@ export type MarkdownRemarkFieldsEnum =
   | 'frontmatter___seoTitle'
   | 'frontmatter___seoDescription'
   | 'frontmatter___tags'
-  | 'frontmatter___youtubeUrl'
+  | 'frontmatter___audioUrl'
   | 'frontmatter___iframeTitle'
+  | 'frontmatter___youtubeUrl'
   | 'frontmatter___videoUrl'
   | 'excerpt'
   | 'rawMarkdownBody'
@@ -1052,8 +1054,9 @@ export type MarkdownRemarkFrontmatter = {
   seoTitle?: Maybe<Scalars['String']>;
   seoDescription?: Maybe<Scalars['String']>;
   tags?: Maybe<Array<Maybe<Scalars['String']>>>;
-  youtubeUrl?: Maybe<Scalars['String']>;
+  audioUrl?: Maybe<Scalars['String']>;
   iframeTitle?: Maybe<Scalars['String']>;
+  youtubeUrl?: Maybe<Scalars['String']>;
   videoUrl?: Maybe<Scalars['String']>;
 };
 
@@ -1072,8 +1075,9 @@ export type MarkdownRemarkFrontmatterFilterInput = {
   seoTitle?: Maybe<StringQueryOperatorInput>;
   seoDescription?: Maybe<StringQueryOperatorInput>;
   tags?: Maybe<StringQueryOperatorInput>;
-  youtubeUrl?: Maybe<StringQueryOperatorInput>;
+  audioUrl?: Maybe<StringQueryOperatorInput>;
   iframeTitle?: Maybe<StringQueryOperatorInput>;
+  youtubeUrl?: Maybe<StringQueryOperatorInput>;
   videoUrl?: Maybe<StringQueryOperatorInput>;
 };
 
@@ -1919,6 +1923,7 @@ export type SitePageContextArticle = {
   title?: Maybe<Scalars['String']>;
   createdAt?: Maybe<Scalars['Date']>;
   htmlString?: Maybe<Scalars['String']>;
+  audioUrl?: Maybe<Scalars['String']>;
   video?: Maybe<SitePageContextArticleVideo>;
 };
 
@@ -1926,6 +1931,7 @@ export type SitePageContextArticleFilterInput = {
   title?: Maybe<StringQueryOperatorInput>;
   createdAt?: Maybe<DateQueryOperatorInput>;
   htmlString?: Maybe<StringQueryOperatorInput>;
+  audioUrl?: Maybe<StringQueryOperatorInput>;
   video?: Maybe<SitePageContextArticleVideoFilterInput>;
 };
 
@@ -1943,6 +1949,7 @@ export type SitePageContextEntries = {
   html?: Maybe<Scalars['String']>;
   slug?: Maybe<Scalars['String']>;
   title?: Maybe<Scalars['String']>;
+  audioUrl?: Maybe<Scalars['String']>;
   videoUrl?: Maybe<Scalars['String']>;
   youtubeUrl?: Maybe<Scalars['String']>;
   createdAt?: Maybe<Scalars['Date']>;
@@ -1954,6 +1961,7 @@ export type SitePageContextEntriesFilterInput = {
   html?: Maybe<StringQueryOperatorInput>;
   slug?: Maybe<StringQueryOperatorInput>;
   title?: Maybe<StringQueryOperatorInput>;
+  audioUrl?: Maybe<StringQueryOperatorInput>;
   videoUrl?: Maybe<StringQueryOperatorInput>;
   youtubeUrl?: Maybe<StringQueryOperatorInput>;
   createdAt?: Maybe<DateQueryOperatorInput>;
@@ -2113,6 +2121,7 @@ export type SitePageFieldsEnum =
   | 'context___entries___html'
   | 'context___entries___slug'
   | 'context___entries___title'
+  | 'context___entries___audioUrl'
   | 'context___entries___videoUrl'
   | 'context___entries___youtubeUrl'
   | 'context___entries___createdAt'
@@ -2124,6 +2133,7 @@ export type SitePageFieldsEnum =
   | 'context___article___title'
   | 'context___article___createdAt'
   | 'context___article___htmlString'
+  | 'context___article___audioUrl'
   | 'context___article___video___youtubeUrl'
   | 'context___article___video___iframeTitle'
   | 'pluginCreator___id'
@@ -2168,11 +2178,11 @@ export type SitePageFieldsEnum =
   | 'pluginCreator___name'
   | 'pluginCreator___version'
   | 'pluginCreator___pluginOptions___path'
+  | 'pluginCreator___pluginOptions___typeCheck'
   | 'pluginCreator___pluginOptions___pathCheck'
   | 'pluginCreator___pluginOptions___allExtensions'
   | 'pluginCreator___pluginOptions___isTSX'
   | 'pluginCreator___pluginOptions___jsxPragma'
-  | 'pluginCreator___pluginOptions___typeCheck'
   | 'pluginCreator___nodeAPIs'
   | 'pluginCreator___ssrAPIs'
   | 'pluginCreator___pluginFilepath'
@@ -2359,11 +2369,11 @@ export type SitePluginFieldsEnum =
   | 'name'
   | 'version'
   | 'pluginOptions___path'
+  | 'pluginOptions___typeCheck'
   | 'pluginOptions___pathCheck'
   | 'pluginOptions___allExtensions'
   | 'pluginOptions___isTSX'
   | 'pluginOptions___jsxPragma'
-  | 'pluginOptions___typeCheck'
   | 'nodeAPIs'
   | 'ssrAPIs'
   | 'pluginFilepath'
@@ -2478,20 +2488,20 @@ export type SitePluginPackageJsonPeerDependenciesFilterListInput = {
 
 export type SitePluginPluginOptions = {
   path?: Maybe<Scalars['String']>;
+  typeCheck?: Maybe<Scalars['Boolean']>;
   pathCheck?: Maybe<Scalars['Boolean']>;
   allExtensions?: Maybe<Scalars['Boolean']>;
   isTSX?: Maybe<Scalars['Boolean']>;
   jsxPragma?: Maybe<Scalars['String']>;
-  typeCheck?: Maybe<Scalars['Boolean']>;
 };
 
 export type SitePluginPluginOptionsFilterInput = {
   path?: Maybe<StringQueryOperatorInput>;
+  typeCheck?: Maybe<BooleanQueryOperatorInput>;
   pathCheck?: Maybe<BooleanQueryOperatorInput>;
   allExtensions?: Maybe<BooleanQueryOperatorInput>;
   isTSX?: Maybe<BooleanQueryOperatorInput>;
   jsxPragma?: Maybe<StringQueryOperatorInput>;
-  typeCheck?: Maybe<BooleanQueryOperatorInput>;
 };
 
 export type SitePluginSortInput = {

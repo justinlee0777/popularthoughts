@@ -2,6 +2,7 @@ import React from 'react';
 
 import { calculateDateString } from 'functions/calculate-date-string';
 
+import AudioContent from '../audio-content/audio-content';
 import VideoContent from '../video-content/video-content';
 import YoutubeVideo from '../youtube-video/youtube-video';
 import { ArticleContentConfig } from './article-content.config';
@@ -13,6 +14,7 @@ export default function ArticleContent(
 	const className = `article-content ${config.className}`;
 
 	let youtube: JSX.Element;
+	let audio: JSX.Element;
 	let video: JSX.Element;
 
 	if (config.article.video.youtubeUrl) {
@@ -23,6 +25,15 @@ export default function ArticleContent(
 				className="youtube-content"
 				youtubeUrl={youtubeConfig.youtubeUrl}
 				iframeTitle={youtubeConfig.iframeTitle}
+			/>
+		);
+	}
+
+	if (config.article.audioUrl) {
+		audio = (
+			<AudioContent
+				className="audio-content"
+				audioUrl={config.article.audioUrl}
 			/>
 		);
 	}
@@ -47,6 +58,7 @@ export default function ArticleContent(
 			</time>
 			<div className="divider" />
 			{youtube}
+			{audio}
 			{video}
 			<div
 				className="rendered-html"

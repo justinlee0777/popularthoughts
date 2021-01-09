@@ -17,6 +17,8 @@ function getArticleType(entry) {
 	if (entry.youtubeUrl || entry.videoUrl) {
 		// Having video takes primacy over any textual content.
 		return 'Video';
+	} else if (entry.audioUrl) {
+		return 'Audio commentary';
 	} else {
 		return 'Article';
 	}
@@ -56,6 +58,7 @@ async function getArticles(graphql) {
 						frontmatter {
 							title
 							slug
+							audioUrl
 							youtubeUrl
 							videoUrl
 							iframeTitle
@@ -89,6 +92,23 @@ async function getVideos(graphql) {
 }
 
 /**
+ * Get hosted audio.
+ */
+async function getAudio(graphql) {
+	return graphql(`
+		{
+			allFile(filter: { extension: { eq: "mp3" } }) {
+				edges {
+					node {
+						publicURL
+					}
+				}
+			}
+		}
+	`);
+}
+
+/**
  * Create the main pages that list created content ex. Home, Video.
  */
 async function createMainPages(actions, navbarConfig, articles) {
@@ -103,6 +123,7 @@ async function createMainPages(actions, navbarConfig, articles) {
 			html: node.html,
 			slug: frontmatter.slug,
 			title: frontmatter.title,
+			audioUrl: frontmatter.audioUrl,
 			videoUrl: frontmatter.videoUrl,
 			youtubeUrl: frontmatter.youtubeUrl,
 			createdAt: frontmatter.createdAt,
@@ -141,24 +162,38 @@ async function createMainPages(actions, navbarConfig, articles) {
 /**
  * Create content pages that feature an article or a video.
  */
-async function createArticleContentPages(actions, tabs, articles, videos) {
+async function createArticleContentPages(
+	actions,
+	tabs,
+	articles,
+	videos,
+	audio
+) {
 	const allMarkdownRemark = articles.allMarkdownRemark;
 	const markdown = allMarkdownRemark.edges.map(e => e.node);
 	const videoUrls = videos.allFile.edges.map(e => e.node.publicURL);
+	const audioUrls = audio.allFile.edges.map(e => e.node.publicURL);
 
 	markdown.forEach(md => {
 		const frontmatter = md.frontmatter;
 
 		let videoUrl;
+		let audioUrl;
 		if (frontmatter.videoUrl) {
 			const vu = frontmatter.videoUrl;
 			videoUrl = videoUrls.find(url => url.includes(vu));
+		}
+
+		if (frontmatter.audioUrl) {
+			const au = frontmatter.audioUrl;
+			audioUrl = audioUrls.find(url => url.includes(au));
 		}
 
 		const article = {
 			title: frontmatter.title,
 			createdAt: frontmatter.createdAt,
 			htmlString: md.html,
+			audioUrl,
 			video: {
 				videoUrl,
 				youtubeUrl: frontmatter.youtubeUrl,
@@ -186,7 +221,8 @@ exports.createPages = async function ({ actions, graphql }) {
 	const { data: navbarConfig } = await getNavBar(graphql);
 	const { data: articles } = await getArticles(graphql);
 	const { data: videos } = await getVideos(graphql);
+	const { data: audio } = await getAudio(graphql);
 
 	const tabs = await createMainPages(actions, navbarConfig, articles);
-	await createArticleContentPages(actions, tabs, articles, videos);
+	await createArticleContentPages(actions, tabs, articles, videos, audio);
 };

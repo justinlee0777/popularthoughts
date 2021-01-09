@@ -22,6 +22,7 @@ export interface MainSiteConfig {
 		title: string;
 		createdAt: string;
 		htmlString?: string;
+		audioUrl?: string;
 		video: {
 			videoUrl?: string;
 			youtubeUrl?: string;
