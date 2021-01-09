@@ -4,7 +4,7 @@
     text-decoration: none;
 }
 
-.link:hover,
+.link:hover:not(.social),
 .link.selected {
     background-color: white;
     color: black;
@@ -12,6 +12,15 @@
 
 .link:not(:last-of-type) {
     margin-right: 8px;
+}
+
+.link.youtube {
+    align-self: flex-start;
+    margin-left: auto;
+}
+
+.link.youtube img {
+    height: 28px;
 }
 
 .nav-bar {
