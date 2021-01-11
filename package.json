@@ -6,7 +6,7 @@
   "license": "0BSD",
   "scripts": {
     "build": "gatsby clean && gatsby build && rm -f public.zip && zip -r public public/*",
-    "develop": "npm run lint:fix && gatsby develop",
+    "develop": "gatsby clean && npm run lint:fix && gatsby develop",
     "format": "prettier --write \"**/*.{js,jsx,ts,tsx,json,md}\"",
     "start": "npm run develop",
     "serve": "gatsby serve",
