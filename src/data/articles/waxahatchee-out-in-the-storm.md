@@ -1,7 +1,7 @@
 ---
 title: "Waxahatchee's Out in the Storm"
 slug: "/waxahatchee-out-in-the-storm"
-createdAt: "2021-01-02T01:58:01+0000"
+createdAt: "2021-02-01T15:42:55+0000"
 seoTitle: "Waxahatchee's Out in the Storm"
 seoDescription: "Weebforce discusses Waxahatchee's Out in the Storm."
 tags: ["music"]
