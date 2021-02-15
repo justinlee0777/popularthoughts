@@ -5,6 +5,10 @@
     width: 100%;
 }
 
+.article-header {
+    text-align: center;
+}
+
 .audio-content {
     width: 75vw;
 }

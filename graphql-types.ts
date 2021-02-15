@@ -648,10 +648,10 @@ export type FileFieldsEnum =
   | 'childMarkdownRemark___frontmatter___seoTitle'
   | 'childMarkdownRemark___frontmatter___seoDescription'
   | 'childMarkdownRemark___frontmatter___tags'
-  | 'childMarkdownRemark___frontmatter___youtubeUrl'
-  | 'childMarkdownRemark___frontmatter___iframeTitle'
-  | 'childMarkdownRemark___frontmatter___videoUrl'
   | 'childMarkdownRemark___frontmatter___audioUrl'
+  | 'childMarkdownRemark___frontmatter___iframeTitle'
+  | 'childMarkdownRemark___frontmatter___youtubeUrl'
+  | 'childMarkdownRemark___frontmatter___videoUrl'
   | 'childMarkdownRemark___excerpt'
   | 'childMarkdownRemark___rawMarkdownBody'
   | 'childMarkdownRemark___fileAbsolutePath'
@@ -924,10 +924,10 @@ export type MarkdownRemarkFieldsEnum =
   | 'frontmatter___seoTitle'
   | 'frontmatter___seoDescription'
   | 'frontmatter___tags'
-  | 'frontmatter___youtubeUrl'
-  | 'frontmatter___iframeTitle'
-  | 'frontmatter___videoUrl'
   | 'frontmatter___audioUrl'
+  | 'frontmatter___iframeTitle'
+  | 'frontmatter___youtubeUrl'
+  | 'frontmatter___videoUrl'
   | 'excerpt'
   | 'rawMarkdownBody'
   | 'fileAbsolutePath'
@@ -1054,10 +1054,10 @@ export type MarkdownRemarkFrontmatter = {
   seoTitle?: Maybe<Scalars['String']>;
   seoDescription?: Maybe<Scalars['String']>;
   tags?: Maybe<Array<Maybe<Scalars['String']>>>;
-  youtubeUrl?: Maybe<Scalars['String']>;
-  iframeTitle?: Maybe<Scalars['String']>;
-  videoUrl?: Maybe<Scalars['String']>;
   audioUrl?: Maybe<Scalars['String']>;
+  iframeTitle?: Maybe<Scalars['String']>;
+  youtubeUrl?: Maybe<Scalars['String']>;
+  videoUrl?: Maybe<Scalars['String']>;
 };
 
 
@@ -1075,10 +1075,10 @@ export type MarkdownRemarkFrontmatterFilterInput = {
   seoTitle?: Maybe<StringQueryOperatorInput>;
   seoDescription?: Maybe<StringQueryOperatorInput>;
   tags?: Maybe<StringQueryOperatorInput>;
-  youtubeUrl?: Maybe<StringQueryOperatorInput>;
-  iframeTitle?: Maybe<StringQueryOperatorInput>;
-  videoUrl?: Maybe<StringQueryOperatorInput>;
   audioUrl?: Maybe<StringQueryOperatorInput>;
+  iframeTitle?: Maybe<StringQueryOperatorInput>;
+  youtubeUrl?: Maybe<StringQueryOperatorInput>;
+  videoUrl?: Maybe<StringQueryOperatorInput>;
 };
 
 export type MarkdownRemarkGroupConnection = {

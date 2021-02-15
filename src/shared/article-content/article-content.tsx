@@ -52,7 +52,7 @@ export default function ArticleContent(
 
 	return (
 		<div className={className}>
-			<h1>{config.article.title}</h1>
+			<h1 className="article-header">{config.article.title}</h1>
 			<time className="date-time" dateTime={config.article.createdAt}>
 				{calculateDateString(config.article.createdAt)}
 			</time>
