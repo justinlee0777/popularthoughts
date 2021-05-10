@@ -20,17 +20,20 @@ export default function NavBar(config: NavBarConfig): JSX.Element {
 		);
 	});
 
-	tabs.push(
-		<Link
-			className="link social youtube"
-			key="youtube"
-			target="_blank"
-			to="https://www.youtube.com/channel/UCVmcB2t71rU_J7dfE63a8RQ"
-			rel="noopener noreferrer"
-		>
-			<img alt="Link to our Youtube channel." src={youtubeIcon} />
-		</Link>
+	return (
+		<nav className={config.className}>
+			<div className="links social">
+				<Link
+					className="link social youtube"
+					key="youtube"
+					target="_blank"
+					to="https://www.youtube.com/channel/UCVmcB2t71rU_J7dfE63a8RQ"
+					rel="noopener noreferrer"
+				>
+					<img alt="Link to our Youtube channel." src={youtubeIcon} />
+				</Link>
+			</div>
+			<div className="links categories">{tabs}</div>
+		</nav>
 	);
-
-	return <nav className={config.className}>{tabs}</nav>;
 }

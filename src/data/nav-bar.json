@@ -40,5 +40,14 @@
         ],
         "seoTitle": "Weebforce music",
         "seoDescription": "Weebforce, assemble! We thrash our way through modern culture and hopefully we find the true meaning of love at the end. We talk about music, for some reason."
+    },
+    {
+        "label": "Video games",
+        "value": "/video-games",
+        "tagCriteria": [
+            "video-game"
+        ],
+        "seoTitle": "Weebforce video games",
+        "seoDescription": "Weebforce, assemble! We're not video game people, but we talk about some video games."
     }
 ]

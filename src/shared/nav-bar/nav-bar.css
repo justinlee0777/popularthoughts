@@ -2,6 +2,7 @@
     color: white;
     padding: 4px;
     text-decoration: none;
+    white-space: nowrap;
 }
 
 .link:hover:not(.social),
@@ -15,7 +16,6 @@
 }
 
 .link.youtube {
-    align-self: flex-start;
     margin-left: auto;
 }
 
@@ -24,10 +24,19 @@
 }
 
 .nav-bar {
-    align-items: flex-end;
     background: black;
     box-sizing: border-box;
     display: flex;
+    flex-direction: column;
+    padding-top: 8px;
+}
+
+.links {
+    display: flex;
     flex-direction: row;
-    padding: 8px 24px 0;
+    padding: 0 24px;
+}
+
+.links.categories {
+    overflow-x: auto;
 }
