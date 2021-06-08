@@ -16,7 +16,7 @@ function createSEO(seo: SEO): JSX.Element {
 		/>
 	);
 }
-
+// TODO: Use CSS grid.
 export default function MainSite({
 	pageContext,
 	path,
