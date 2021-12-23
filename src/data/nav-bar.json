@@ -1,53 +1,5 @@
-[
-    {
-        "label": "Home",
-        "value": "/",
-        "seoTitle": "Weebforce",
-        "seoDescription": "Weebforce, assemble! We thrash our way through modern culture and hopefully we find the true meaning of love at the end. This is the homepage."
-    },
-    {
-        "label": "Anime",
-        "value": "/anime",
-        "tagCriteria": [
-            "anime"
-        ],
-        "seoTitle": "Weebforce anime",
-        "seoDescription": "Weebforce, assemble! We thrash our way through modern culture and hopefully we find the true meaning of love at the end. We talk about anime."
-    },
-    {
-        "label": "Animation",
-        "value": "/animation",
-        "tagCriteria": [
-            "animation"
-        ],
-        "seoTitle": "Weebforce animation",
-        "seoDescription": "Weebforce, assemble! We thrash our way through modern culture and hopefully we find the true meaning of love at the end. We talk about all things animation."
-    },
-    {
-        "label": "Film",
-        "value": "/film",
-        "tagCriteria": [
-            "film"
-        ],
-        "seoTitle": "Weebforce films",
-        "seoDescription": "Weebforce, assemble! We thrash our way through modern culture and hopefully we find the true meaning of love at the end. We talk about film."
-    },
-    {
-        "label": "Music",
-        "value": "/music",
-        "tagCriteria": [
-            "music"
-        ],
-        "seoTitle": "Weebforce music",
-        "seoDescription": "Weebforce, assemble! We thrash our way through modern culture and hopefully we find the true meaning of love at the end. We talk about music, for some reason."
-    },
-    {
-        "label": "Video games",
-        "value": "/video-games",
-        "tagCriteria": [
-            "video-game"
-        ],
-        "seoTitle": "Weebforce video games",
-        "seoDescription": "Weebforce, assemble! We're not video game people, but we talk about some video games."
-    }
-]
+{
+    "label": "Home",
+    "seoTitle": "Weebforce",
+    "seoDescription": "Art criticism and musings in a nerdy, gooey tone."
+}

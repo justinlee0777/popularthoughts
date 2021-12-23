@@ -1,3 +1,4 @@
+import { Link } from 'gatsby';
 import React from 'react';
 
 import ArticleContent from '../article-content/article-content';
@@ -17,5 +18,14 @@ export default function MainSiteContent(
 		);
 	}
 
-	return <div className={className}>{content}</div>;
+	return (
+		<React.Fragment>
+			<div className="content-header">
+				<Link className="back-link" to="/">
+					Back
+				</Link>
+			</div>
+			<div className={className}>{content}</div>
+		</React.Fragment>
+	);
 }

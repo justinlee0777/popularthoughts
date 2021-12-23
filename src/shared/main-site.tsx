@@ -16,42 +16,30 @@ function createSEO(seo: SEO): JSX.Element {
 		/>
 	);
 }
-// TODO: Use CSS grid.
+
 export default function MainSite({
 	pageContext,
-	path,
+	location,
 }: {
 	pageContext: MainSiteConfig;
-	path: string;
+	location: Location;
 }): JSX.Element {
-	const tabs = pageContext.tabs.map(tab => {
-		let selected = path.indexOf(tab.value) === 0;
-
-		if (tab.value === '/') {
-			selected = selected && path.length <= 1;
-		}
-
-		return {
-			selected,
-			...tab,
-		};
-	});
-
-	let mainSiteContent: JSX.Element;
-	let entriesContent: JSX.Element;
+	let content: JSX.Element;
 
 	if (pageContext.article) {
-		mainSiteContent = (
+		content = (
 			<MainSiteContent
 				className="content"
 				article={pageContext.article}
 			></MainSiteContent>
 		);
 	} else if (pageContext.entries) {
-		entriesContent = (
+		content = (
 			<MainSiteListing
 				className="main-site-listing"
 				entries={pageContext.entries}
+				filters={pageContext.filters}
+				location={location}
 			/>
 		);
 	}
@@ -61,9 +49,8 @@ export default function MainSite({
 	return (
 		<div className="main-site" lang="en-US">
 			{seo}
-			<NavBar className="nav-bar" tabs={tabs}></NavBar>
-			{mainSiteContent}
-			{entriesContent}
+			<NavBar className="nav-bar"></NavBar>
+			{content}
 		</div>
 	);
 }

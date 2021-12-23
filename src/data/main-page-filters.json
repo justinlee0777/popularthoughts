@@ -1,0 +1,37 @@
+[
+    {
+        "label": "Anime",
+        "value": "anime",
+        "tagCriteria": [
+            "anime"
+        ]
+    },
+    {
+        "label": "Animation",
+        "value": "animation",
+        "tagCriteria": [
+            "animation"
+        ]
+    },
+    {
+        "label": "Film",
+        "value": "film",
+        "tagCriteria": [
+            "film"
+        ]
+    },
+    {
+        "label": "Music",
+        "value": "music",
+        "tagCriteria": [
+            "music"
+        ]
+    },
+    {
+        "label": "Video games",
+        "value": "video-games",
+        "tagCriteria": [
+            "video-game"
+        ]
+    }
+]

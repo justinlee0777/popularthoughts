@@ -24,3 +24,32 @@
     min-height: 0;
     overflow-y: auto;
 }
+
+.filters {
+    align-items: center;
+    display: flex;
+    flex-direction: row;
+    margin-left: auto;
+    margin-top: 8px;
+}
+
+.filter-hint {
+    display: inline-block;
+    margin-right: 4px;
+}
+
+.filter {
+    border: 1px solid #e2e2e2;
+    cursor: pointer;
+    margin-right: 8px;
+    padding: 4px 8px;
+    text-decoration: none;
+}
+
+.filter-clear {
+    border-radius: 6px;
+}
+
+.filter.selected {
+    border-color: black;
+}

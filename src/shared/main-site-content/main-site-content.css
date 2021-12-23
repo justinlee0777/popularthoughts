@@ -3,3 +3,14 @@
     box-sizing: border-box;
     padding: 8px 24px 0;
 }
+
+.back-link {
+    box-sizing: border-box;
+    display: inline-block;
+    padding: 12px;
+    width: 40px;
+}
+
+.content-header {
+    background: #FAFAFA;
+}

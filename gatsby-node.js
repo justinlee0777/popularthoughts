@@ -1,16 +1,6 @@
 const path = require('path');
 
 /**
- * Using the criteria of a listing on the nav bar, filter out articles.
- */
-function evalTagCriteria(criteria) {
-	return entry => {
-		const tags = entry.tags ?? [];
-		return criteria.some(c => tags.includes(c));
-	};
-}
-
-/**
  * Determine whether an article is an article or a video.
  */
 function getArticleType(entry) {
@@ -30,14 +20,24 @@ function getArticleType(entry) {
 async function getNavBar(graphql) {
 	return graphql(`
 		{
-			allNavBarJson {
+			dataJson {
+				label
+				seoTitle
+				seoDescription
+			}
+		}
+	`);
+}
+
+async function getHomeFilters(graphql) {
+	return graphql(`
+		{
+			allMainPageFiltersJson {
 				edges {
 					node {
+						tagCriteria
 						label
 						value
-						tagCriteria
-						seoTitle
-						seoDescription
 					}
 				}
 			}
@@ -111,9 +111,20 @@ async function getAudio(graphql) {
 /**
  * Create the main pages that list created content ex. Home, Video.
  */
-async function createMainPages(actions, navbarConfig, articles) {
-	const allNavBarJson = navbarConfig.allNavBarJson;
-	const tabs = allNavBarJson.edges.map(e => e.node);
+async function createMainPage(
+	actions,
+	navbarConfig,
+	articles,
+	mainSiteFilters
+) {
+	const filters = mainSiteFilters.allMainPageFiltersJson.edges.map(edge => {
+		const node = edge.node;
+		return {
+			tagCriteria: node.tagCriteria,
+			value: node.value,
+			label: node.label,
+		};
+	});
 
 	const markdown = articles.allMarkdownRemark.edges.map(e => {
 		const node = e.node;
@@ -132,43 +143,25 @@ async function createMainPages(actions, navbarConfig, articles) {
 		};
 	});
 
-	tabs.forEach(tab => {
-		let m = markdown;
-
-		if (tab.tagCriteria) {
-			const mdCriteria = evalTagCriteria(tab.tagCriteria);
-
-			m = m.filter(md => mdCriteria(md));
-		}
-
-		actions.createPage({
-			path: tab.value,
-			component: path.resolve('src/shared/main-site.tsx'),
-			context: {
-				tabs,
-				entries: m,
-				seo: {
-					title: tab.seoTitle,
-					description: tab.seoDescription,
-					article: false,
-				},
+	actions.createPage({
+		path: '/',
+		component: path.resolve('src/shared/main-site.tsx'),
+		context: {
+			entries: markdown,
+			filters,
+			seo: {
+				title: navbarConfig.seoTitle,
+				description: navbarConfig.seoDescription,
+				article: false,
 			},
-		});
+		},
 	});
-
-	return tabs;
 }
 
 /**
  * Create content pages that feature an article or a video.
  */
-async function createArticleContentPages(
-	actions,
-	tabs,
-	articles,
-	videos,
-	audio
-) {
+async function createArticleContentPages(actions, articles, videos, audio) {
 	const allMarkdownRemark = articles.allMarkdownRemark;
 	const markdown = allMarkdownRemark.edges.map(e => e.node);
 	const videoUrls = videos.allFile.edges.map(e => e.node.publicURL);
@@ -205,7 +198,6 @@ async function createArticleContentPages(
 			path: frontmatter.slug,
 			component: path.resolve('src/shared/main-site.tsx'),
 			context: {
-				tabs,
 				article,
 				seo: {
 					title: frontmatter.seoTitle,
@@ -222,7 +214,8 @@ exports.createPages = async function ({ actions, graphql }) {
 	const { data: articles } = await getArticles(graphql);
 	const { data: videos } = await getVideos(graphql);
 	const { data: audio } = await getAudio(graphql);
+	const { data: mainSiteFilters } = await getHomeFilters(graphql);
 
-	const tabs = await createMainPages(actions, navbarConfig, articles);
-	await createArticleContentPages(actions, tabs, articles, videos, audio);
+	await createMainPage(actions, navbarConfig, articles, mainSiteFilters);
+	await createArticleContentPages(actions, articles, videos, audio);
 };

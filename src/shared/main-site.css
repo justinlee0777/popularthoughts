@@ -5,9 +5,9 @@
 }
 
 .main-site {
-    display: flex;
-    flex-direction: column;
+    display: grid;
     height: 100vh;
+    grid-template-rows: repeat(2, 0fr) 1fr;
     overflow-y: hidden;
 }
 
@@ -16,5 +16,5 @@
 }
 
 .nav-bar {
-    flex: 0 0 80px;
+    height: 80px;
 }

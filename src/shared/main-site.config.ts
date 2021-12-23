@@ -1,10 +1,11 @@
-import { Tab } from './tab.config';
+import { Filter } from './filter.config';
 
 export interface Entry {
 	slug: string;
 	title: string;
 	createdAt: string;
 	articleType: string;
+	tags: Array<string>;
 }
 
 export interface SEO {
@@ -14,9 +15,8 @@ export interface SEO {
 }
 
 export interface MainSiteConfig {
-	tabs: Array<Tab>;
-
 	seo: SEO;
+	filters: Array<Filter>;
 
 	article?: {
 		title: string;

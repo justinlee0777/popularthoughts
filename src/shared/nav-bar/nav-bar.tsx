@@ -7,19 +7,6 @@ import { NavBarConfig } from './nav-bar.config';
 import './nav-bar.css';
 
 export default function NavBar(config: NavBarConfig): JSX.Element {
-	const tabs = config.tabs.map((tab, i) => {
-		return (
-			<Link
-				className="link"
-				activeClassName="selected"
-				key={i}
-				to={tab.value}
-			>
-				{tab.label}
-			</Link>
-		);
-	});
-
 	return (
 		<nav className={config.className}>
 			<div className="links social">
@@ -33,7 +20,6 @@ export default function NavBar(config: NavBarConfig): JSX.Element {
 					<img alt="Link to our Youtube channel." src={youtubeIcon} />
 				</Link>
 			</div>
-			<div className="links categories">{tabs}</div>
 		</nav>
 	);
 }
