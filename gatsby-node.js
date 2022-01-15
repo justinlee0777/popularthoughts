@@ -146,8 +146,8 @@ async function createMainPage(
 			entries: markdown,
 			filters,
 			seo: {
-				title: navbarConfig.seoTitle,
-				description: navbarConfig.seoDescription,
+				title: navbarConfig.dataJson.seoTitle,
+				description: navbarConfig.dataJson.seoDescription,
 				article: false,
 			},
 		},
