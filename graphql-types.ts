@@ -409,10 +409,6 @@ export type MarkdownRemarkFrontmatter = {
   seoTitle?: Maybe<Scalars['String']>;
   seoDescription?: Maybe<Scalars['String']>;
   tags?: Maybe<Array<Maybe<Scalars['String']>>>;
-  audioUrl?: Maybe<Scalars['String']>;
-  iframeTitle?: Maybe<Scalars['String']>;
-  youtubeUrl?: Maybe<Scalars['String']>;
-  videoUrl?: Maybe<Scalars['String']>;
 };
 
 
@@ -814,10 +810,6 @@ export type MarkdownRemarkFrontmatterFilterInput = {
   seoTitle?: InputMaybe<StringQueryOperatorInput>;
   seoDescription?: InputMaybe<StringQueryOperatorInput>;
   tags?: InputMaybe<StringQueryOperatorInput>;
-  audioUrl?: InputMaybe<StringQueryOperatorInput>;
-  iframeTitle?: InputMaybe<StringQueryOperatorInput>;
-  youtubeUrl?: InputMaybe<StringQueryOperatorInput>;
-  videoUrl?: InputMaybe<StringQueryOperatorInput>;
 };
 
 export type JsonQueryOperatorInput = {
@@ -1000,10 +992,6 @@ export type FileFieldsEnum =
   | 'childrenMarkdownRemark___frontmatter___seoTitle'
   | 'childrenMarkdownRemark___frontmatter___seoDescription'
   | 'childrenMarkdownRemark___frontmatter___tags'
-  | 'childrenMarkdownRemark___frontmatter___audioUrl'
-  | 'childrenMarkdownRemark___frontmatter___iframeTitle'
-  | 'childrenMarkdownRemark___frontmatter___youtubeUrl'
-  | 'childrenMarkdownRemark___frontmatter___videoUrl'
   | 'childrenMarkdownRemark___excerpt'
   | 'childrenMarkdownRemark___rawMarkdownBody'
   | 'childrenMarkdownRemark___fileAbsolutePath'
@@ -1063,10 +1051,6 @@ export type FileFieldsEnum =
   | 'childMarkdownRemark___frontmatter___seoTitle'
   | 'childMarkdownRemark___frontmatter___seoDescription'
   | 'childMarkdownRemark___frontmatter___tags'
-  | 'childMarkdownRemark___frontmatter___audioUrl'
-  | 'childMarkdownRemark___frontmatter___iframeTitle'
-  | 'childMarkdownRemark___frontmatter___youtubeUrl'
-  | 'childMarkdownRemark___frontmatter___videoUrl'
   | 'childMarkdownRemark___excerpt'
   | 'childMarkdownRemark___rawMarkdownBody'
   | 'childMarkdownRemark___fileAbsolutePath'
@@ -2810,10 +2794,6 @@ export type MarkdownRemarkFieldsEnum =
   | 'frontmatter___seoTitle'
   | 'frontmatter___seoDescription'
   | 'frontmatter___tags'
-  | 'frontmatter___audioUrl'
-  | 'frontmatter___iframeTitle'
-  | 'frontmatter___youtubeUrl'
-  | 'frontmatter___videoUrl'
   | 'excerpt'
   | 'rawMarkdownBody'
   | 'fileAbsolutePath'

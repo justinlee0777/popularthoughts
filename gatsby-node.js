@@ -58,10 +58,6 @@ async function getArticles(graphql) {
 						frontmatter {
 							title
 							slug
-							audioUrl
-							youtubeUrl
-							videoUrl
-							iframeTitle
 							createdAt
 							seoTitle
 							seoDescription
