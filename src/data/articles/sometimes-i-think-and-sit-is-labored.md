@@ -22,7 +22,7 @@ he's dropping soy linseed, Vegemite crumbs everywhere.
 
 It's darn good piece of songwriting, maybe even poetry. The strength of poetry is measured by its immediacy and the elegance of its ideas. Already Barnett in the first 7 lines establishes an image of youth and anxiety, and has characterized this fictitious person with a kind of awkwardness, an unfinished nature.
 
-I was reminded immediately of the writing of another musician I dearly love: Elvis Costelo, whom I wrote a <a href="https://weebforce.com/elvis-costello-get-happy" target="_blank" rel="noopener noreferrer">review</a> for "Get Happy!!" In Costello's music, there is an ease for writing stories and painting scenes quickly, and a tendency for self-deprecation and shoulder-shrugging.
+I was reminded immediately of the writing of another musician I dearly love: Elvis Costelo, whom I wrote a <a href="https://popularthoughts.blog/elvis-costello-get-happy" target="_blank" rel="noopener noreferrer">review</a> for "Get Happy!!" In Costello's music, there is an ease for writing stories and painting scenes quickly, and a tendency for self-deprecation and shoulder-shrugging.
 
 Unfortunately, in that same vein, Barnett falls prey to a weakness Costello has.
 
@@ -59,6 +59,6 @@ All about palmistry, I wonder what's in store for me;
 
 but then the song does not progress in any sense, dwelling in its enervation.
 
-I think Barnett gets the broad idea right - we understand her sense of humor and her storyteller's sense, and her general feeling of millenial boredom and dread, but the precision and details aren't there. Maybe I'm too much of a Costello fan, but I'll be damned if he didn't get his lyrics right regardless of the arc of his career. If you're telling an anecdote, you're also emphasizing a specific idea in that anecdote, not _just_ how funny it was or how weird. One anecdote is roughly one verse; each successive anecdote progesses the idea of the previous one. Hell, not just Costello, in recent years <a href="https://weebforce.com/waxahatchee-out-in-the-storm" target="_blank" rel="noopener noreferrer">Waxahatchee</a> also achieved this.
+I think Barnett gets the broad idea right - we understand her sense of humor and her storyteller's sense, and her general feeling of millenial boredom and dread, but the precision and details aren't there. Maybe I'm too much of a Costello fan, but I'll be damned if he didn't get his lyrics right regardless of the arc of his career. If you're telling an anecdote, you're also emphasizing a specific idea in that anecdote, not _just_ how funny it was or how weird. One anecdote is roughly one verse; each successive anecdote progesses the idea of the previous one. Hell, not just Costello, in recent years <a href="https://popularthoughts.blog/waxahatchee-out-in-the-storm" target="_blank" rel="noopener noreferrer">Waxahatchee</a> also achieved this.
 
 I dunno, this one's a stinker. But the album coming this year might be good.

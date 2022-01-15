@@ -3,7 +3,7 @@ title: "There's a masterpiece somewhere in Spielberg's Lincoln"
 slug: "/steven-spielberg-lincoln-film"
 createdAt: "2021-03-31T18:28:26+0000"
 seoTitle: "There's a masterpiece somewhere in Spielberg's Lincoln"
-seoDescription: "The Weebforce analyze Steven Spielberg's Lincoln."
+seoDescription: "We analyze Steven Spielberg's Lincoln."
 tags: ["film"]
 ---
 

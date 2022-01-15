@@ -3,7 +3,7 @@ title: "It's ok if Rick and Morty is dumb"
 slug: "/its-ok-if-rick-and-morty-is-dumb"
 createdAt: "2021-01-09T18:37:39+0000"
 seoTitle: "It's ok if Rick and Morty is dumb"
-seoDescription: "The Weebforce argue that Rick and Morty is a bit dumb, but that's ok. It's still a great show."
+seoDescription: "Rick and Morty is a bit dumb, but that's ok. It's still a great show."
 tags: ["animation"]
 ---
 I finally got around to watching Rick and Morty season 4. 4 episodes in, I'm enjoying the heck out of it - more than I enjoyed season 3, certainly. It's probably the best work the writing team (and the animators) have done for the entire show.

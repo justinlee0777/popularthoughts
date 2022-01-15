@@ -3,7 +3,7 @@ title: "Mr. Bad Guy is the best album Queen ever made"
 slug: "/freddie-mercurys-mr-bad-guy"
 createdAt: "2021-01-19T15:40:14+0000"
 seoTitle: "Mr. Bad Guy is the best album Queen ever made"
-seoDescription: "Weebforce deliberates that Mr. Bad Guy is the best album Queen ever made. Yes, we know it's Freddie Mercury's sole solo album. Doesn't change a thing."
+seoDescription: "Mr. Bad Guy is the best album Queen ever made. Yes, we know it's Freddie Mercury's sole solo album. Doesn't change a thing."
 tags: ["music"]
 ---
 There are two moments in Bryan Singer's "Bohemian Rhapsody" that could be seen as a wink-and-nod to rock purists. In one scene, Freddie Mercury, after partying excessively I believe, enters the recording studio where the other bandmates have been waiting for him (for they clearly do no partying of their own). Freddie disrupts the peaceful climate by suggesting they do a song that gives the same vibe as a disco club - thus making "Another One Bites the Dust". In another scene, Freddie's final transition into a solo career is depicted as a betrayal to Queen, the band.

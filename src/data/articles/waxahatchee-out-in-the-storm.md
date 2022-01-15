@@ -3,7 +3,7 @@ title: "Waxahatchee's Out in the Storm"
 slug: "/waxahatchee-out-in-the-storm"
 createdAt: "2021-02-01T15:42:55+0000"
 seoTitle: "Waxahatchee's Out in the Storm"
-seoDescription: "Weebforce discusses Waxahatchee's Out in the Storm."
+seoDescription: "We discuss Waxahatchee's Out in the Storm."
 tags: ["music"]
 ---
 In his acceptance speech for "J R", William Gaddis said: "I feel like part of the vanishing breed that thinks a writer should be read and not heard, let alone seen. I think this is because there seems so often today to be a tendency to put the person in the place of his or her work, to turn the creative artist into a performing one, to find what a writer says about writing somehow more valid, or more real, than the writing itself." (Pilfered from the <a href="http://williamgaddis.org" target="_blank" rel="noopener noreferrer">William Gaddis website itself</a>.)

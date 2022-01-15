@@ -3,7 +3,7 @@ title: "Madvillainy"
 slug: "/madvillains-madvillainy"
 createdAt: "2021-01-02T01:58:01+0000"
 seoTitle: "Madvillainy"
-seoDescription: "Weebforce reflects on MF DOOM's passing away through the album \"Madvillainy\"."
+seoDescription: "We reflect on MF DOOM's passing away through the album \"Madvillainy\"."
 tags: ["music"]
 ---
 It's bizarre how little I've regarded Madvillain's (MF DOOM as MC and Madlib as producer) "Madvillainy". I always believed it was unique, and *good*, but had a huge indifference and almost disdain for it.
