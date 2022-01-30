@@ -27,10 +27,15 @@
 
 .filters {
     align-items: center;
+    box-sizing: border-box;
     display: flex;
     flex-direction: row;
+    height: 58px;
     margin-left: auto;
     margin-top: 8px;
+    max-width: 100vw;
+    overflow-x: auto;
+    padding: 0 8px;
 }
 
 .filter-hint {
@@ -41,6 +46,7 @@
 .filter {
     border: 1px solid #e2e2e2;
     cursor: pointer;
+    flex: none;
     margin-right: 8px;
     padding: 4px 8px;
     text-decoration: none;

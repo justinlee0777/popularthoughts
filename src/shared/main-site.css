@@ -8,7 +8,7 @@
     display: grid;
     height: 100vh;
     grid-template-rows: repeat(2, 0fr) 1fr;
-    overflow-y: hidden;
+    overflow: hidden;
 }
 
 .main-site-listing {
