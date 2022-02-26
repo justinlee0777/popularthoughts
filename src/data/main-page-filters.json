@@ -21,6 +21,13 @@
         ]
     },
     {
+        "label": "Literature",
+        "value": "literature",
+        "tagCriteria": [
+            "literature"
+        ]
+    },
+    {
         "label": "Music",
         "value": "music",
         "tagCriteria": [
