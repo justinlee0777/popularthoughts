@@ -7,7 +7,7 @@ seoDescription: "Fugazi's The Argument is one of the greatest albums of all time
 tags: ["music"]
 ---
 
-I believe I first listened to "The Argument". when I was 20. I had disliked it. "This is not punk," I thought. This is not The Clash, this is not Wire, this is not Gang or Four or the Buzzcocks, it's not the Minutemen nor Jesus Lizard nor Pixies nor Nirvana, nor Sleater-Kinney or Ted Leo and the Pharmacists or The Strokes or Jay Reatard. It was so boring, it went everywhere musically and was so obviously political. Punk should be simple and neat - catchy, violent, weird, and short. You could not rock out to this.
+I believe I first listened to "The Argument" when I was 20. I had disliked it. "This is not punk," I thought. This is not The Clash, this is not Wire, this is not Gang of Four or the Buzzcocks, it's not the Minutemen nor Jesus Lizard nor Pixies nor Nirvana, nor Sleater-Kinney or Ted Leo and the Pharmacists or The Strokes or Jay Reatard. It was so boring, it went everywhere musically and was so obviously political. Punk should be simple and neat - catchy, violent, weird, and short. You could not rock out to this.
 
 My only answer to that now is, "Yeah". It's none of those things; it's not simple, it's not neat, it's not weird or violent, but you can kinda rock out to it, when you're not thinking about it - it's Kafkaesque certainly, it's a journey through a bureacratic nightmare, and it's more melodic than catchy becaause it's a state of madness only achieved by very, very mad people.
 

@@ -7,7 +7,7 @@ seoDescription: "We demonstrate that video games are not art."
 tags: ["video-game"]
 ---
 
-Commercials are fascinating. On Valentine's Day Kay Jewelers ran <a href="https://www.youtube.com/watch?v=ffODZUQuGUo&feature=emb_logo">this commercial</a> to sell - of course - jewelry. The commercial begins with an acoustic ballad version of Cyndi Lauper's "Time After Time"; a man proposes to a woman with jewelry and she emphatically responds "Yes!" It proceeds to show the couple going through various life stages and at every stage of life there is more jewelry bought.
+Commercials are fascinating. On Valentine's Day Kay Jewelers ran <a href="https://www.youtube.com/watch?v=ffODZUQuGUo&feature=emb_logo" target="_blank" rel="noopener noreferrer">this commercial</a> to sell - of course - jewelry. The commercial begins with an acoustic ballad version of Cyndi Lauper's "Time After Time"; a man proposes to a woman with jewelry and she emphatically responds "Yes!" It proceeds to show the couple going through various life stages and at every stage of life there is more jewelry bought.
 
 The key ideas behind the commercial are "love", "marriage", "memories" and "happiness". The commercial is ambiguous enough to target people who are 1) not in any relationship, 2) in a relationship that may culminate in marriage, and 3) in a married relationship. For 1) and 3), those people want the concepts "love", "memories", and "happiness" in their life, for different reasons; for 2), they want the latter three. And what better way to make memories, specifically memories of love and happiness, by buying someone a diamond?
 
