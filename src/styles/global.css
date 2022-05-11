@@ -4,6 +4,14 @@ body {
     margin: 0;
 }
 
-html, body, #___gatsby, #gatsby-focus-wrapper {
+html,
+body,
+#___gatsby,
+#gatsby-focus-wrapper {
     overflow-y: hidden;
+}
+
+iframe {
+    margin: 0 auto;
+    max-width: 100%;
 }
