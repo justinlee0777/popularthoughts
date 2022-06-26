@@ -11,11 +11,13 @@ import './main-site-listing.css';
 function ListingItem({ entry }: { entry: Entry }): JSX.Element {
 	const onClick = () => navigate(entry.slug);
 
+	const tags = entry.tags.map(tag => tag.replace('-', '')).join(', ');
+
 	return (
 		<a className="entry" onClick={onClick}>
 			<span>
 				<strong className="entry-title">{entry.title}</strong>
-				<i className="article-type">{entry.articleType}</i>
+				<i className="article-type">{tags}</i>
 			</span>
 			<time dateTime={entry.createdAt}>
 				{calculateDateString(entry.createdAt)}

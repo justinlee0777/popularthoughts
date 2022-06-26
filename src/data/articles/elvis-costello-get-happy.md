@@ -1,5 +1,5 @@
 ---
-title: "Elvis Costello's a weird guy"
+title: "Elvis Costello's Get Happy!!"
 slug: "/elvis-costello-get-happy"
 createdAt: "2021-04-19T22:52:22+0000"
 seoTitle: "Elvis Costello's Get Happy"
