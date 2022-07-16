@@ -40,5 +40,12 @@
         "tagCriteria": [
             "video-game"
         ]
+    },
+    {
+        "label": "Visual art",
+        "value": "visual art",
+        "tagCriteria": [
+            "visual art"
+        ]
     }
 ]
