@@ -1,5 +1,5 @@
 import { compareDesc } from 'date-fns';
-import { Link, navigate } from 'gatsby';
+import { Link } from 'gatsby';
 import React from 'react';
 
 import { calculateDateString } from 'functions/calculate-date-string';
@@ -9,12 +9,10 @@ import { MainSiteListingConfig } from './main-site-listing.config';
 import './main-site-listing.css';
 
 function ListingItem({ entry }: { entry: Entry }): JSX.Element {
-	const onClick = () => navigate(entry.slug);
-
 	const tags = entry.tags.map(tag => tag.replace('-', '')).join(', ');
 
 	return (
-		<a className="entry" onClick={onClick}>
+		<a className="entry" href={entry.slug}>
 			<span>
 				<strong className="entry-title">{entry.title}</strong>
 				<i className="article-type">{tags}</i>

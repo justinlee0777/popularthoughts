@@ -157,7 +157,7 @@ The sad thing is that Berman understood meaning. The album is a testament to tha
 
 Christoph de Babalon's "Hectic Shakes" too dives into dark material, and never swims back upwards to the surface. For the longest time, I simply liked listening to it, and therefore it was my 2019 favorite for as long a time. But the EP is short - 4 tracks. "Purple Mountains" is ambitious, majestic indeed.
 
-For FEELS, though society has gone to shit "Post Earth", they feel more like teasing and mocking than despairing. They laugh at those heading down to Candy Land in "Car"; those with an "Awful Need" of self; they yell for a cigarette as they are "Deconstructed; after bringing in the apocalypse, "Post Earth" they numbingly check in through the "Tollbooth" and rest in their graves "Flowers" in hand, at the last finally relaxing the grimace they're worn throughout the album. It's disappointing "Post Earth" has been so neglected. The only punk record worth remembering from the 2010s.
+For FEELS, though society has gone to shit "Post Earth", they feel more like teasing and mocking than despairing. They laugh at those heading down to Candy Land in "Car"; those with an "Awful Need" of self; they yell for a cigarette as they are "Deconstructed"; after bringing in the apocalypse, "Post Earth" they numbingly check in through the "Tollbooth" and rest in their graves "Flowers" in hand, at the last finally relaxing the grimace they're worn throughout the album. It's disappointing "Post Earth" has been so neglected. The only punk record worth remembering from the 2010s.
 
 ### 2010s
 

@@ -3,7 +3,7 @@ title: "Prediction for the One Punch Man manga"
 slug: "/one-punch-man-prediction"
 createdAt: "2022-04-10T00:03:16+0000"
 seoTitle: "Prediction for the One Punch Man manga"
-seoDescription: "I indulge myself nad make a prediction for the One Punch Man manga as of chapter 162."
+seoDescription: "I indulge myself and make a prediction for the One Punch Man manga as of chapter 162."
 tags: ["anime", "animation"]
 ---
 
