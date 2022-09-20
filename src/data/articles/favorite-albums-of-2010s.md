@@ -27,7 +27,7 @@ But in a significant way, it has everything to remember. One of the key insights
 
 The Cars sigh when they think about their "Best Friend's Girl". Willie Dixon is still thinking about that "Little Red Rooster". Patsy Kline can't get over the fact that "She's Got You". But in Deerhunter's memories there is nothing really spectacular to reflect on: memories of a basement scene, of "sailing", of school, of fountain stairs, of Jay Reatard.
 
-The songs work because Deerhunter, as Bradford Cox once said, is a rock band. Revelation lies upon the shake of the hips. The murmuring guitar in "Sailing", the stomp of "Memory Boy", the quivering of "Helicopter", all convey love and death even when those words are explicitly said (or any other words adjacent for that matter).
+The songs work because Deerhunter, as Bradford Cox once said, is a rock band. Revelation lies upon the shake of the hips. The murmuring guitar in "Sailing", the stomp of "Memory Boy", the quivering of "Helicopter", all convey love and death even when those words are not explicitly said (or any other words adjacent for that matter).
 
 Regret, redoing the past, editing events are also themes in LCD Soundsystem's "This is Happening". It's a shame "Halcyon Digest" wins, but I think Murphy's irony, as much as it appeals to my cynicism, cannot overcome Cox's romanticism, which is at the heart of my cynicism.
 

@@ -65,4 +65,4 @@ A text-heavy video on how Malenia has infinite poise when she attacks, which is 
 
 This is a very large, general review of "Elden Ring" that may not sway your opinion of the game already. I have saved a timestamp on the video where Joseph Anderson begins discussing how the enemies are designed, which is an enlightening listen since he has thorough familiarity with all of Miyazaki's games, including "Sekiro", which makes his comparison to that game all the more interesting.
 
-Finally, there's the incredible community research done for <a href="https://eldenringpvp.net/balance-suggestions" target="_blank" rel="noopener noreferrer">this website</a> documenting all the flaws with PvP
+Finally, there's the incredible community research done for <a href="https://eldenringpvp.net/balance-suggestions" target="_blank" rel="noopener noreferrer">this website</a> documenting all the flaws with PvP.

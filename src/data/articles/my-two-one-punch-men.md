@@ -61,7 +61,7 @@ The only kind of epic I can think of that is existential is the life story of th
 
 "One Punch Man" is compared often to a series that I would say is successfully _wuxia_ - "Dragonball"; more specifically, "Dragonball Super". Frieza, Cell, Majin Buu, the Tournament of Power are all existential threats, but they only act as cheap stakes; none of the characters are psychologically burdened by the end of the world, they are all confidently willing to punch their way through disaster. They may doubt themselves, but they don't _fear_.
 
-We're meant to take Garou's threats seriously, but at the same time we are not supposed to believe he would go through with his menacing promises. I don't buy that. His internal monologues receive way too much screentime. (Compare to Frieza or Cell, whose thoughts we do not heart _at all_.)
+We're meant to take Garou's threats seriously, but at the same time we are not supposed to believe he would go through with his menacing promises. I don't buy that. His internal monologues receive way too much screentime. (Compare to Frieza or Cell, whose thoughts we do not hear _at all_.)
 
 If you really want to do _wuxia_, then Garou should be an anti-hero. He has a change of heart right before the climax of the story (a la Vegeta). Darkshine should be the good-but-naive sheriff, who is manipulated by the Hero Association to do bad things. The monsters are bandits; they are not organized, they are ruled by autocracy.
 
