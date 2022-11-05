@@ -7,6 +7,7 @@ import { calculateDateString } from 'functions/calculate-date-string';
 import { Entry } from '../main-site.config';
 import { MainSiteListingConfig } from './main-site-listing.config';
 import './main-site-listing.css';
+import { addWindowArrowKeyScrollListener } from 'utils/add-window-arrow-key-scroll-listener.function';
 
 function ListingItem({ entry }: { entry: Entry }): JSX.Element {
 	const tags = entry.tags.map(tag => tag.replace('-', '')).join(', ');
@@ -25,6 +26,9 @@ function ListingItem({ entry }: { entry: Entry }): JSX.Element {
 }
 
 export default class MainSiteListing extends React.Component<any, any> {
+	private destroyScrollListener: () => void | undefined;
+	private entryListingSelector = 'entry-listing';
+
 	constructor(props: MainSiteListingConfig) {
 		super(props);
 
@@ -42,6 +46,16 @@ export default class MainSiteListing extends React.Component<any, any> {
 			entries: props.entries,
 			filters: props.filters,
 		};
+	}
+
+	componentDidMount(): void {
+		this.destroyScrollListener = addWindowArrowKeyScrollListener(
+			`.${this.entryListingSelector}`
+		);
+	}
+
+	componentWillUnmount(): void {
+		this.destroyScrollListener?.();
 	}
 
 	render(): JSX.Element {
@@ -113,7 +127,9 @@ export default class MainSiteListing extends React.Component<any, any> {
 					{clearFilters}
 					{filterElements}
 				</div>
-				<div className={`entry-listing ${config.className}`}>
+				<div
+					className={`${this.entryListingSelector} ${config.className}`}
+				>
 					{entryElements}
 				</div>
 			</React.Fragment>
