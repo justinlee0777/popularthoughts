@@ -7,7 +7,7 @@ seoDescription: "I take some liberty and arrange a Florist song into poetic form
 tags: ["literature", "music"]
 ---
 
-The below was written by Emily Sprague of the band "Florist". It comes from the song "Red Bird Pt. 2 (Morning)" on their self-titled album. I have omitted the lyrics after the first refrain. Then, I merely arranged it by introducing punctuation and line breaks using her pauses as a guide.
+The below was written by Emily Sprague of the band Florist. It comes from the song "Red Bird Pt. 2 (Morning)" on their self-titled album. I have omitted the lyrics after the first refrain. Then, I merely arranged it by introducing punctuation and line breaks using her pauses as a guide.
 
 Worthy of critical analysis are the first verse's dangling words, denoting her thoughts thawing metaphorically, as well as the first sentence's halted rhyme; the second verse's frequent use of and's, creating tension; the third verse's truncated, jigsaw nature; and I don't think anything extra needs to be said for the fourth and last verse.
 
