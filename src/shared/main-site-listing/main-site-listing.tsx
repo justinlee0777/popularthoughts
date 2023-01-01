@@ -76,8 +76,8 @@ export default class MainSiteListing extends React.Component<any, any> {
 			.filter(entry =>
 				entry.tags.some(tag => filterCriteria?.has(tag) ?? true)
 			);
-		const entryElements = entries.map((e, i) => (
-			<ListingItem key={i} entry={e} />
+		const entryElements = entries.map(e => (
+			<ListingItem key={e.slug} entry={e} />
 		));
 
 		const filterElements = config.filters.map(filter => {
