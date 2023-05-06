@@ -1,29 +1,12 @@
+import './main-site-listing.css';
+
 import { compareDesc } from 'date-fns';
 import { Link } from 'gatsby';
 import React from 'react';
 
-import { calculateDateString } from 'functions/calculate-date-string';
-
-import { Entry } from '../main-site.config';
 import { MainSiteListingConfig } from './main-site-listing.config';
-import './main-site-listing.css';
 import { addWindowArrowKeyScrollListener } from 'utils/add-window-arrow-key-scroll-listener.function';
-
-function ListingItem({ entry }: { entry: Entry }): JSX.Element {
-	const tags = entry.tags.map(tag => tag.replace('-', '')).join(', ');
-
-	return (
-		<a className="entry" href={entry.slug}>
-			<span>
-				<strong className="entry-title">{entry.title}</strong>
-				<i className="article-type">{tags}</i>
-			</span>
-			<time dateTime={entry.createdAt}>
-				{calculateDateString(entry.createdAt)}
-			</time>
-		</a>
-	);
-}
+import ListingItem from 'shared/listing-item';
 
 export default class MainSiteListing extends React.Component<any, any> {
 	private destroyScrollListener: () => void | undefined;
