@@ -1,16 +1,17 @@
 ---
 title: "I hate Pixar's Soul"
-slug: "/i-hate-pixars-soul"
-createdAt: "2020-12-30T15:59:57.861Z"
+slug: '/i-hate-pixars-soul'
+createdAt: '2020-12-30T15:59:57.861Z'
 seoTitle: "I hate Pixar's Soul"
 seoDescription: "Save your time by watching any other movie than Pixar's Soul."
-tags: ["film", "animation"]
+tags: ['film', 'animation']
 ---
+
 I hated Pixar's "Soul".
 
 ### i. Set up
 
-I had the sense I was going to hate it from the trailer alone, but right off the bat something was unsettling. In the trailer, one sees Joe (the main character) teaching his music class. That is how the movie starts: the opening of the movie is almost entirely ripped from the trailer. The movie *just* starts with Joe interacting with characters who, we will find out, have absolutely nothing to do with the plot.
+I had the sense I was going to hate it from the trailer alone, but right off the bat something was unsettling. In the trailer, one sees Joe (the main character) teaching his music class. That is how the movie starts: the opening of the movie is almost entirely ripped from the trailer. The movie _just_ starts with Joe interacting with characters who, we will find out, have absolutely nothing to do with the plot.
 
 It's odd, because a film usually starts with the audience getting to know a character on a personal level. A character is usually with family or friends, or enemies or rivals. None of those kids care at all about Joe. Similarly, Joe has no specific relationship to any one student (except possibly one, though we find out that he really doesn't). All we get is that Joe really likes jazz and... he's kinda unlikeable. (I mean, his students clearly do not like him.)
 
@@ -46,9 +47,9 @@ It would have been interesting if the film delved into the creative process or t
 
 "Frustrating" is not a sufficient word. No matter which side you fall upon in this cultural debate, I think we can all agree that reducing people to an exotic culture, and then praising the exotic qualities of that culture, is ... "backwards" is one word, but the more appropriate word is "stupid". And annoying.
 
-Does anyone remember that Ray Charles film called "Ray"? I really like that film. You know why it's great? Because Ray Charles was a great and interesting musician, who *happened to be black*. There was a clear narrative, from humble beginnings to fame, and as cliche as it may be, you were at least interested in Ray's kinda-sorta-not-really life story.
+Does anyone remember that Ray Charles film called "Ray"? I really like that film. You know why it's great? Because Ray Charles was a great and interesting musician, who _happened to be black_. There was a clear narrative, from humble beginnings to fame, and as cliche as it may be, you were at least interested in Ray's kinda-sorta-not-really life story.
 
-So make *that*, Disney, instead of this wishy-washy BS.
+So make _that_, Disney, instead of this wishy-washy BS.
 
 ### iii. My idea
 
@@ -62,7 +63,7 @@ The film title is called (wait for it),
 
 Pun intended.
 
-Charles Mingus is a fascinating man and a true representation of jazz-musician-as-artist. Look no further than his autobiography to see how *weird* he is. He makes for a great character in a film centered around him.
+Charles Mingus is a fascinating man and a true representation of jazz-musician-as-artist. Look no further than his autobiography to see how _weird_ he is. He makes for a great character in a film centered around him.
 
 Charles Mingus has just finished his magnum opus, "The Black Saint and the Sinner Lady". He has reached the fame he has always desired in his career (probably not true to life, but whatever). In the course of his lifetime, as a result of his struggles with his career and with the public, he has become a remarkably jaded and temperamental man.
 

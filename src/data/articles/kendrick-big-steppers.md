@@ -1,10 +1,10 @@
 ---
 title: "Kendrick's Big Steppers"
-slug: "/kendrick-miles-morale-big-steppers"
-createdAt: "2022-07-16T16:30:55+0000"
-seoTitle: "Miles Morale and the Big Steppers"
+slug: '/kendrick-miles-morale-big-steppers'
+createdAt: '2022-07-16T16:30:55+0000'
+seoTitle: 'Miles Morale and the Big Steppers'
 seoDescription: "We talk about Kendrick's new album, Miles Morale and the Big Steppers. Or rather, everything it is not."
-tags: ["music"]
+tags: ['music']
 ---
 
 ### John Prine
@@ -57,7 +57,7 @@ No editing and no filter mean there is no narrative. It's not all that different
 
 This is a boring album. The night the album dropped, as I listened to it, I declared to a friend this is a pretty bad record and that, given the subject matter, people would give it 7.5 - 9 reviews. Because people think that social media is their lives - hold up, the people _in social media_ think social media is their lives, and so when Kendrick comments about their little lives they think an earthquake is coming. There is no earthquake - you are going to continue doing what you were doing regardless of what he was going to say. Only a <a href="https://pitchfork.com/reviews/albums/kendrick-lamar-mr-morale-and-the-big-steppers/" target="_blank" rel="noopener noreferrer">few</a> <a href="https://www.sputnikmusic.com/review/84870/Kendrick-Lamar-Mr.-Morale-and-the-Big-Steppers/" target="_blank" rel="noopener noreferrer">reviews</a> <a href="https://www.rollingstone.com/music/music-album-reviews/kendrick-reviewreview-kendrick-lamars-mr-morale-the-big-steppers-1352910/" target="_blank" rel="noopener noreferrer">got</a> it right: this is, by all evidence, an incohesive album. He is literally repeating the same subject matter from one song to the next with no resolution to the issue he has presented. And you will say, "Oh Popular Thoughts critic, this shows how wrong you are, he is presenting an issue that can't be solved," so then why does he need to feel the need to keep bringing it up in the same exact way over and over? There is a limit to everyone's patience.
 
-There are really only two songs that are interesting: "N95" and "We Cry Together". "N95" makes the listener unconsciously gulp: awkwardly titled, it reminds one of Trumpian discourse, of almost approaching a controversial topic only to U-turn into something irrelevant. But here Kendrick addresses the concept that we put a mask over our lives; we try to hide our lives in unnecessary shit in order to cover our flaws. He *commands* the listener to "take off the foo-foo / take off the clout chase, take off the wi-fi", only to declare the listener as "ugly as fuck", admonishing them: "Two ATMs, you steppin' to what?" It's a great monologue that commands the audience's attention, worthy of a single, though after the initial rush it becomes rather routine.
+There are really only two songs that are interesting: "N95" and "We Cry Together". "N95" makes the listener unconsciously gulp: awkwardly titled, it reminds one of Trumpian discourse, of almost approaching a controversial topic only to U-turn into something irrelevant. But here Kendrick addresses the concept that we put a mask over our lives; we try to hide our lives in unnecessary shit in order to cover our flaws. He _commands_ the listener to "take off the foo-foo / take off the clout chase, take off the wi-fi", only to declare the listener as "ugly as fuck", admonishing them: "Two ATMs, you steppin' to what?" It's a great monologue that commands the audience's attention, worthy of a single, though after the initial rush it becomes rather routine.
 
 "We Cry Together" feels all too real: it feels like you are in that apartment with that couple feeling awkward as you take sides with one person, then the other. It's pretty fascinating. It demonstrates, along with "U" from "To Pimp A Butterfly", that Kendrick's skill is not really in song-making, but in writing as a pure skill.
 

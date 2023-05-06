@@ -1,10 +1,10 @@
 ---
-title: "The Narrative of Fucking"
-slug: "/the-narrative-of-fucking"
-createdAt: "2021-07-25T00:17:20+00:00"
-seoTitle: "The Narrative of Fucking"
-seoDescription: "We discuss how recently the storytelling of pornography and anime have blended in disturbing ways, through the show Nagotoro."
-tags: ["animation", "anime"]
+title: 'The Narrative of Fucking'
+slug: '/the-narrative-of-fucking'
+createdAt: '2021-07-25T00:17:20+00:00'
+seoTitle: 'The Narrative of Fucking'
+seoDescription: 'We discuss how recently the storytelling of pornography and anime have blended in disturbing ways, through the show Nagotoro.'
+tags: ['animation', 'anime']
 ---
 
 Lately I've been obsessed with the value of art; in my current state of mind it boils down to this: the objective value of art, in an economic or other sense, comes from its ability to demonstrate ideas to people. I use this language carefully, because art doesn't convince people those ideas are _true_, it only demonstrates that the ideas - connections, analogies, concepts - are _plausible_.

@@ -1,10 +1,10 @@
 ---
-title: "Risk of Rain 2 is too long"
-slug: "/risk-of-rain-2"
-createdAt: "2021-11-08T22:39:21+0000"
-seoTitle: "Risk of Rain 2"
-seoDescription: "Risk of Rain 2 is too long for an old man like me."
-tags: ["video-game"]
+title: 'Risk of Rain 2 is too long'
+slug: '/risk-of-rain-2'
+createdAt: '2021-11-08T22:39:21+0000'
+seoTitle: 'Risk of Rain 2'
+seoDescription: 'Risk of Rain 2 is too long for an old man like me.'
+tags: ['video-game']
 ---
 
 As a fan of the original "Risk of Rain", "Risk of Rain 2" is too long. The basic concept is there in both games - search through a wasteland while fighting enemies, trigger an event where you're swarmed by a horde of enemies (including boss monsters), survive for the next, harder stage. It's a great concept, but the fundamental difference between both games is that in the original, "survive" means "don't die" - you can run across the whole map to avoid your foes, but at some point you have to eventually defeat them. If you had a good idea of what the layout for a map was and the behavior of certain enemies, you could totally win, albeit by handicapping yourself in the future as monsters get harder over time.

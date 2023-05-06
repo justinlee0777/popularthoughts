@@ -1,10 +1,10 @@
 ---
-title: "Bloodborne"
-slug: "/bloodborne"
-createdAt: "2021-10-11T03:07:04+0000"
-seoTitle: "Bloodborne"
-seoDescription: "We talk about Bloodborne."
-tags: ["video-game"]
+title: 'Bloodborne'
+slug: '/bloodborne'
+createdAt: '2021-10-11T03:07:04+0000'
+seoTitle: 'Bloodborne'
+seoDescription: 'We talk about Bloodborne.'
+tags: ['video-game']
 ---
 
 If any video game fits my definition of art, it'd probably be the PS4-exclusive "Bloodborne".

@@ -1,10 +1,10 @@
 ---
-title: "Courtney Barnett's \"Sometimes I Sit and Think...\" is labored"
-slug: "/courtney-barnett-sometimes-i-sit-and-think"
-createdAt: "2021-09-18T22:37:06+0000"
+title: 'Courtney Barnett''s "Sometimes I Sit and Think..." is labored'
+slug: '/courtney-barnett-sometimes-i-sit-and-think'
+createdAt: '2021-09-18T22:37:06+0000'
 seoTitle: "Courtney Barnett's Sometimes I Sit and Think"
 seoDescription: "I can't get into Courney Barnett's Sometimes I Sit and Think, and Sometimes I Just Sit."
-tags: ["music"]
+tags: ['music']
 ---
 
 Courtney Barnett's "Sometimes I Sit and Think, and Sometimes I Just Sit" on its surface feels like an album I should love. First, I love the album title - almost several times a day I think, "That album title describes exactly what my lifestyle is."

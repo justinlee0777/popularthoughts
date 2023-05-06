@@ -1,10 +1,10 @@
 ---
 title: "Hirohiko Araki's JoJolion"
-slug: "/hirohiko-araki-jojolion"
-createdAt: "2022-10-19T03:08:21+0000"
+slug: '/hirohiko-araki-jojolion'
+createdAt: '2022-10-19T03:08:21+0000'
 seoTitle: "Hirohiko Araki's JoJolion"
 seoDescription: "JoJolion is Hirohiko Araki's masterpiece."
-tags: ["anime"]
+tags: ['anime']
 ---
 
 To the shock of many, the Baltimore State Attorney's Office recently moved to vacate <a href="https://www.msn.com/en-us/news/crime/baltimore-prosecutors-move-to-vacate-adnan-syed-conviction-in-1999-murder-case-brought-to-national-fame-in-e2-80-98serial-e2-80-99-podcast/ar-AA11PCQT" target="_blank" rel="noopener noreferrer">Adnan Syed's conviction</a> of life in prison, in a trial over <a href="https://allthatsinteresting.com/adnan-syed-murder-of-hae-min-lee" target="_blank" rel="noopener noreferrer">the 1999 murder of Hae Min Lee</a>. Lee was last seen alive driving away from school to pick up her younger cousin and start her shift at a LensCrafters; her body would be found one month later in Leakin Park, the coroner determining the cause of death to be strangulation. Her ex-boyfriend, Adnan, had been regarded as obsessive, and, critcally, an acquaintance of Syed's had testified he had assisted him in concealing the body (the Attorney's office, however, has recently stated this testimony is under doubt). Syed was sentenced on February 25, 2000 - which means he has served 22 years in prison thus far. 22 years is a quarter or a fifth of his life. Regardless of his guilt or his innocence, his life so far has been plagued by a "curse" that determined the entire course of his life - a curse that drove him, irrationally, to kill his former girlfriend, or redirected its fury from the true killer onto him.

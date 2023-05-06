@@ -1,10 +1,10 @@
 ---
-title: "The 2021 Macbeth is uninspired"
-slug: "/macbeth-film-2021"
-createdAt: "2022-01-15T22:15:37+0000"
-seoTitle: "Macbeth (2021)"
+title: 'The 2021 Macbeth is uninspired'
+slug: '/macbeth-film-2021'
+createdAt: '2022-01-15T22:15:37+0000'
+seoTitle: 'Macbeth (2021)'
 seoDescription: "Joel Coen's Macbeth adds nothing new to Shakepeare's play."
-tags: ["film"]
+tags: ['film']
 ---
 
 Is it just me or have movies been somewhat backwards-looking recently? Take the 2021 "Macbeth", which is an era-appropriate adaptation of The Scottish Play, which has visual similarities to 2021's "The Green Knight" and 2022's upcoming "The Northman". Then there have been films that have looked to the 60s, such as Tarentino's "Once Upon a Time in Hollywood", "Last Night in Soho" and "Licorice Pizza". Not to mention the endless reboots or adaptations of existing IPs. I suppose it's a kind of social commentary: people hate modern times so much that they've begun looking backwards. (I think we live in the most interesting of times, ironically!)

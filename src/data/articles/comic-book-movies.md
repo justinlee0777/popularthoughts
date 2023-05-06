@@ -1,12 +1,11 @@
 ---
-title: "Comic book films are not art"
-slug: "/comic-book-films-not-art"
-createdAt: "2022-01-29T23:14:42+0000"
-seoTitle: "Comic book films are not art"
-seoDescription: "I have an argument for why comic book movies fundamentally cannot be art."
-tags: ["film"]
+title: 'Comic book films are not art'
+slug: '/comic-book-films-not-art'
+createdAt: '2022-01-29T23:14:42+0000'
+seoTitle: 'Comic book films are not art'
+seoDescription: 'I have an argument for why comic book movies fundamentally cannot be art.'
+tags: ['film']
 ---
-
 
 Yes, I'm returning back to Martin Scorsese's famous <a href="https://www.empireonline.com/movies/features/irishman-week-martin-scorsese-interview/" target="_blank" rel="noopener noreferrer">comment</a> on comic book movies, and I'm agreeing with him, but with a different type of analysis.
 

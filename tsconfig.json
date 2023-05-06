@@ -1,14 +1,14 @@
 {
-    "compilerOptions": {
-        "baseUrl": "./src",
-        "target": "ESNext",    /* or at least ES2015 */
-        "module": "ESNext",    /* or at least ES2015 */
-        "lib": ["dom"],             /* <-- required! */
-        "jsx": "preserve",          /* <-- required! */
-        "moduleResolution": "node",
-        "paths": {
-          "*": ["*"]
-        },
-        "allowSyntheticDefaultImports": true
-    }
+	"compilerOptions": {
+		"baseUrl": "./src",
+		"target": "ESNext" /* or at least ES2015 */,
+		"module": "ESNext" /* or at least ES2015 */,
+		"lib": ["dom"] /* <-- required! */,
+		"jsx": "preserve" /* <-- required! */,
+		"moduleResolution": "node",
+		"paths": {
+			"*": ["*"]
+		},
+		"allowSyntheticDefaultImports": true
+	}
 }

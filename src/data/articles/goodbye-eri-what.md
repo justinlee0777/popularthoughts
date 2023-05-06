@@ -1,10 +1,10 @@
 ---
-title: "Goodbye, Eri... What?"
-slug: "/goodbye-eri-manga"
-createdAt: "2022-05-11T19:09:16+0000"
-seoTitle: "Goodbye, Eri"
-seoDescription: "We try to understand Tatsuki Fujimoto's manga one-shot \"Goodbye, Eri\"."
-tags: ["anime"]
+title: 'Goodbye, Eri... What?'
+slug: '/goodbye-eri-manga'
+createdAt: '2022-05-11T19:09:16+0000'
+seoTitle: 'Goodbye, Eri'
+seoDescription: 'We try to understand Tatsuki Fujimoto''s manga one-shot "Goodbye, Eri".'
+tags: ['anime']
 ---
 
 We're quite sure we have Tatsuki Fujimoto's "Goodbye, Eri" figured out. A mother is dying of cancer, and she pleads with her son, our hero, to film her ultimate struggle with the disease, so that he may keep the memories of her throughout the rest of his life. Our hero is diligent; he eventually acquires hundreds of hours of footage depicting his mother as she was, a charming, caring figure in his life, and yet, at the climax, he, overwhelmed with emotion, is unable to film her final death throes. In silence, accompanied by the violent shaking of his camera symbolizing the chaotic state of his mind, he runs away from the hospital, chased only by his father's shouting.

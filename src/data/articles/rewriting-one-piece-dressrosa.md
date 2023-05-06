@@ -1,10 +1,10 @@
 ---
 title: "Rewriting One Piece's New World: Dressrosa"
-slug: "/one-piece-rewrite-dressrosa"
-createdAt: "2023-01-01T05:09:56+0000"
+slug: '/one-piece-rewrite-dressrosa'
+createdAt: '2023-01-01T05:09:56+0000'
 seoTitle: "Rewriting One Piece's New World: Dressrosa"
 seoDescription: "We rewrite One Piece's Dressrosa arc."
-tags: ["animation", "anime"]
+tags: ['animation', 'anime']
 ---
 
 Before we start, can we bring back Shirt Doflamingo? I feel like Doflamingo wearing a shirt versus Doflamingo not wearing a shirt is somehow more menacing.
@@ -33,7 +33,7 @@ As the Dressrosans are constantly beset by war, the citizens value martial train
 
 In recent times, Dressrosa, besides its bounty, is now renown as a major pirate port. Children are raised to be aggressive and paranoid, women are raised to lie, steal and swindle. Slavery is encouraged. (I never understood why there were toy slaves when Doflamingo dealt with real slaves.) Those who are competent become members of the Donquixote Pirates where they are treated as a part of Doflamingo's "family". (Dressrosa is essentially King Cobra's nightmare; it is the symbol of the ruthlessness of the New World.)
 
-His resignation has been timely. He is using this moment to send the assassins of the family (Pica, Gladius, Buffalo and Baby 5) to kill his political opponents, kings of kingdoms under the World Government's aegis. Gladius uses his Pop Man<a href="#gladius">*</a> abilities to fabricate an explosion; he pretends that he survived, and leaves to call for help. When people wonder who he is, no one knows. Buffalo tears apart ships at sea, making it look like hurricanes had destroyed them. Baby 5 poses as a maid, only to transform her fingers into a pistol, killing her target.
+His resignation has been timely. He is using this moment to send the assassins of the family (Pica, Gladius, Buffalo and Baby 5) to kill his political opponents, kings of kingdoms under the World Government's aegis. Gladius uses his Pop Man<a href="#gladius">\*</a> abilities to fabricate an explosion; he pretends that he survived, and leaves to call for help. When people wonder who he is, no one knows. Buffalo tears apart ships at sea, making it look like hurricanes had destroyed them. Baby 5 poses as a maid, only to transform her fingers into a pistol, killing her target.
 
 Law reveals that Bepo will not be able to join. Apparently, Bepo is resolving a family matter. If Law doesn't allow his subordinate to do what he wants, he will get all mopey and do nothing, bringing down the atmosphere.
 
@@ -41,7 +41,7 @@ However, the plan is to meet up with Shachi and Penguin in Dressrosa, where they
 
 A message meant for Luffy is delivered to the Sunny. It informs him that Doflamingo is offering the Flame Fruit as a reward for winning this year's competition at the colosseum. Law states this _could_ be a trap, but it may also be legitimate; with Doflamingo, it is hard to know when the truth begins and ends. Not that Luffy cares. Ace's Devil Fruit power was not Ace. What does it matter who has the abilities of the Flame Fruit? However, reading more of the letter, Luffy's eyes pop out and he is hard of breathing. Something in the letter has convinced him to win the Flame Fruit.
 
-Just as they are about to make their plans for approaching the island, they see to their aft three ships pursuing them, led by Doflamingo's Human Traficking forces: Sugar, Giolla and Violet. Sugar's abilities are like Law's: as a Hobby Woman<a href="#sugar">*</a> (I assume it's a bit of a wisecrack on people who are obsessed with niche hobbies i.e. playing with toys/action figures and are "forever young" through them) her toys only operate within a "room" around her; thus she is always seen carried by her "servants", in a litter or otherwise. (In this way she is essentially a more competent and evil Perona.) In the confusion they get swept by an especially powerful current, throwing massive amounts of water on the ship, disabling the Devil Fruit users.
+Just as they are about to make their plans for approaching the island, they see to their aft three ships pursuing them, led by Doflamingo's Human Traficking forces: Sugar, Giolla and Violet. Sugar's abilities are like Law's: as a Hobby Woman<a href="#sugar">\*</a> (I assume it's a bit of a wisecrack on people who are obsessed with niche hobbies i.e. playing with toys/action figures and are "forever young" through them) her toys only operate within a "room" around her; thus she is always seen carried by her "servants", in a litter or otherwise. (In this way she is essentially a more competent and evil Perona.) In the confusion they get swept by an especially powerful current, throwing massive amounts of water on the ship, disabling the Devil Fruit users.
 
 Law uses his abilities to cut the water in half, keeping himself dry. Momonosuke is about to be tossed overboard; he saves him, and swaps him with Caesar, and rescues his crewmate, the Stand Woman (no name, because I have no knack for funny names as Oda does). She opens up her hand as an umbrella stand, and using the umbrella Law drifts away onto the island, promising the crew they will meet up in Dressrosa some way or another. The rest of the crew is thrown into various parts of the island due to the extremely rapid current, Luffy landing (oh great fortune) in Dressrosa, Usopp rescuing Robin and landing in New Elbaf, Zoro saving Kinemon and Momonosuke landing in the kingdom of the cliffs, Franky landing on his own in the kingdom of islands, Sanji, with Nami's help, steering the Thousand Sunny with Chopper and Brook to safety nearby Green Bit. (As a result of their masteries over these waters, Sugar pursues Luffy, Giolla and Violet the Thousand Sunny, with Violet reaching them first due to her abilities. It would be funny if Sugar gloated over how the young master trusted her exclusively with the captain, wondering what to do with his bounty money. Her snotty attitude makes it all the funnier when she reveals she's actually older than most of the Straw Hats.)
 
@@ -318,7 +318,6 @@ Kyros incapacitates Dellinger and Machvise, but still struggles with the more ex
 Law's ship crashes in the midst of the colosseum fighters. Law commands his crew to wreck havoc. He recognizes Kyros as the legendary gladiator and the king's guard. "I've got a grudge, _especially_, against these guys, for setting me up for their dog and pony show. Pirates are free to do whatever they want, no?" Law transforms himself into Kyros' missing leg. "A good surgeon needs a good assistant! And I intend to cut out Doflamingo!"
 
 Kyros defeats everyone but Diamante (humorously he corrects Lao G's spine, then breaks it again). He comments that he is now restored to perfect health. Law explains that he is ensuring a healthy flow of blood and nutrients into the rest of his body. As a good doctor, Law recommends a juice break - they both take a minute to acquire some necessary vitamins.
-
 
 Diamante is a Flag Human. He is invulnerable to blunt weapons and can wrap himself around his opponents, surprising them. Perhaps he is very light as well. Still, this is not a really profound ability. I add onto these by saying he can tie the bodies of people he has defeated around his body, like flags - when someone hits him, they really hit those bodies. This is all the worse as these flags are former soldiers of Dressrosa. Of course, because of Law's surgical skills and Kyros' dexterity, they cut the seams around the flags, rendering Diamante naked - and defeated.
 

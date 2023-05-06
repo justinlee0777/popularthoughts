@@ -1,11 +1,12 @@
 ---
 title: "It's ok if Rick and Morty is dumb"
-slug: "/its-ok-if-rick-and-morty-is-dumb"
-createdAt: "2021-01-09T18:37:39+0000"
+slug: '/its-ok-if-rick-and-morty-is-dumb'
+createdAt: '2021-01-09T18:37:39+0000'
 seoTitle: "It's ok if Rick and Morty is dumb"
 seoDescription: "Rick and Morty is a bit dumb, but that's ok. It's still a great show."
-tags: ["animation"]
+tags: ['animation']
 ---
+
 I finally got around to watching Rick and Morty season 4. 4 episodes in, I'm enjoying the heck out of it - more than I enjoyed season 3, certainly. It's probably the best work the writing team (and the animators) have done for the entire show.
 
 I find Rick and Morty to be a curiously clever show, possibly more than it should be. The first episode of the season depicts Rick and Morty feeling resigned to their fate - to make one-off adventures each episode, which, as a joke, is funny, but doesn't make the show smart in any way. Being aware is one thing, then there's 4th dimensional being-aware-and-elevating-it-beyond-awareness-to-the-point-you're-not-aware-anymore.

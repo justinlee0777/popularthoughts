@@ -1,10 +1,10 @@
 ---
 title: "There's a masterpiece somewhere in Spielberg's Lincoln"
-slug: "/steven-spielberg-lincoln-film"
-createdAt: "2021-03-31T18:28:26+0000"
+slug: '/steven-spielberg-lincoln-film'
+createdAt: '2021-03-31T18:28:26+0000'
 seoTitle: "There's a masterpiece somewhere in Spielberg's Lincoln"
 seoDescription: "We analyze Steven Spielberg's Lincoln."
-tags: ["film"]
+tags: ['film']
 ---
 
 In the final arc of Steven Spielberg's "Lincoln", Lincoln threatens the uneasy advisors of the drafted Thirteenth Amendment: "I can't accomplish a goddamn thing of any human meaning or worth until we cure ourselves of slavery and end this pestilential war, and whether any of you or anyone else knows it, I know I need this!" Lincoln, as performed by Daniel Day-Lewis, throughout the film speaks lightly, even softly; he does not express personal opinion or emotions all too much. In the aforementioned scene he reveals the arc of his character: a deep personal need for order and unity among the Northern States, and even more with the Southern States, rather than a moral need for slavery to be abolished.

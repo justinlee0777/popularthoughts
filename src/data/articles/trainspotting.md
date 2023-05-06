@@ -1,10 +1,10 @@
 ---
 title: "Trainspotting's big cop-out"
-slug: "/trainspotting"
-createdAt: "2022-04-10T00:03:16+0000"
+slug: '/trainspotting'
+createdAt: '2022-04-10T00:03:16+0000'
 seoTitle: "Trainspotting's big cop-out"
-seoDescription: "The ending of Trainspotting is a huge cop-out."
-tags: ["film"]
+seoDescription: 'The ending of Trainspotting is a huge cop-out.'
+tags: ['film']
 ---
 
 If I'm watching "Trainspotting" again, I may stop after the 1-hour mark.

@@ -1,10 +1,10 @@
 ---
 title: "Dr. Stone's bad case of Premise-itis"
-slug: "/dr-stone-ending"
-createdAt: "2022-04-10T00:03:16+0000"
-seoTitle: "Dr. Stone"
+slug: '/dr-stone-ending'
+createdAt: '2022-04-10T00:03:16+0000'
+seoTitle: 'Dr. Stone'
 seoDescription: "Let's all admit Dr. Stone could have been a little better."
-tags: ["animation", "anime"]
+tags: ['animation', 'anime']
 ---
 
 I've written about the first season of "Dr. Stone" in <a href="https://www.youtube.com/watch?v=B5iyC94hh-4"  target="_blank" rel="noopener noreferrer">this video</a>. With the manga ending, I somewhat have a final impression of the series as a whole.

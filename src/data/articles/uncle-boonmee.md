@@ -1,15 +1,15 @@
 ---
-title: "Uncle Boonmee Who Can Recall His Past Lives"
-slug: "/uncle-boonmee"
-createdAt: "2022-04-10T00:03:16+0000"
-seoTitle: "Uncle Boonmee Who Can Recall His Past Lives"
+title: 'Uncle Boonmee Who Can Recall His Past Lives'
+slug: '/uncle-boonmee'
+createdAt: '2022-04-10T00:03:16+0000'
+seoTitle: 'Uncle Boonmee Who Can Recall His Past Lives'
 seoDescription: "We analyze Apichatpong Weerasethakul's film, Uncle Boonmee Who Can Recall His Past Lives."
-tags: ["film"]
+tags: ['film']
 ---
 
 The promotional material for "Uncle Boonmee Who Can Recall His Past Lives" is misleading. The <a href="https://www.youtube.com/watch?v=Jk-EoUb0nvg" target="_blank" rel="noopener noreferrer">trailer</a> focuses on two key things: the audio of a menacing jungle and a dark figure with red eyes. Red eyes, especially pupil-less, denote some kind of violent horror. Yet those concepts should not scare or depress you. The reality is, the red-eyed figure is not a monster who lives exclusively in the dark. Though it is something representing the unknown. The truth is, the eyes are an illumination in the dark, where ours are clouded and therefore apprehensive where we should not be.
 
-"Uncle Boonmee" treats life as a threadbare curtain where men and women, humans and animals, and the living and the dead freely interact. Yet they are distinct; the film is not saying there are no differences between these realms. Upon realizing this, in that startling dinner scene that truly kicks off the whole film, I stopped dreading the depressing experience I thought I would have in my mind, and began enjoying the film not as a celebration of life, but a meditation on life, that truly has no conclusion because life simply goes on, regardless of time, regardless of death. 
+"Uncle Boonmee" treats life as a threadbare curtain where men and women, humans and animals, and the living and the dead freely interact. Yet they are distinct; the film is not saying there are no differences between these realms. Upon realizing this, in that startling dinner scene that truly kicks off the whole film, I stopped dreading the depressing experience I thought I would have in my mind, and began enjoying the film not as a celebration of life, but a meditation on life, that truly has no conclusion because life simply goes on, regardless of time, regardless of death.
 
 It's natural to fear darkness; it's natural to fear silence. We're conditioned to expect something startling to emerge from the edge of the frame, as if it exited from the jungle. But the Thai jungle, where the film all but the end takes place, is simply a jungle, undramatic; even the creatures who inhabit it are unconcerned about their environment. Yet as the film progresses, we come to see the jungle primarily as a space for certain desires to play out, particularly with our own idealization of our selves, as we see in the vignettes of Boonsong and the princess. And, as the film ends, this space is no different from the urban environments of our studio apartments.
 

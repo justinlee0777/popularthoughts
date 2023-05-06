@@ -4,7 +4,7 @@ import './404.css';
 
 export default function errorPage() {
 	// eslint-disable-next-line prettier/prettier
-	const whoops = 'Whoops! There\'s no content here.';
+	const whoops = "Whoops! There's no content here.";
 
 	return (
 		<div className="content">

@@ -1,10 +1,10 @@
 ---
-title: "The Poetry of Florist"
-slug: "/poetry-of-florist"
-createdAt: "2022-08-21T20:13:52+0000"
-seoTitle: "The Poetry of Florist"
-seoDescription: "I take some liberty and arrange a Florist song into poetic format, for some reason."
-tags: ["literature", "music"]
+title: 'The Poetry of Florist'
+slug: '/poetry-of-florist'
+createdAt: '2022-08-21T20:13:52+0000'
+seoTitle: 'The Poetry of Florist'
+seoDescription: 'I take some liberty and arrange a Florist song into poetic format, for some reason.'
+tags: ['literature', 'music']
 ---
 
 The below was written by Emily Sprague of the band Florist. It comes from the song "Red Bird Pt. 2 (Morning)" on their self-titled album. I have omitted the lyrics after the first refrain. Then, I merely arranged it by introducing punctuation and line breaks using her pauses as a guide.

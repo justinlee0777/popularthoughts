@@ -1,10 +1,10 @@
 ---
-title: "Life with an Ordinary Guy Who Reincarnated into a Total Fantasy Knockout"
-slug: "/fantasy-bishoujo-juniku-ojisan-to"
-createdAt: "2022-01-29T23:14:42+0000"
-seoTitle: "Life with an Ordinary Guy Who Reincarnated into a Total Fantasy Knockout"
-seoDescription: "Life with an Ordinary Guy Who Reincarnated into a Total Fantasy Knockout has a brilliant premise."
-tags: ["animation", "anime"]
+title: 'Life with an Ordinary Guy Who Reincarnated into a Total Fantasy Knockout'
+slug: '/fantasy-bishoujo-juniku-ojisan-to'
+createdAt: '2022-01-29T23:14:42+0000'
+seoTitle: 'Life with an Ordinary Guy Who Reincarnated into a Total Fantasy Knockout'
+seoDescription: 'Life with an Ordinary Guy Who Reincarnated into a Total Fantasy Knockout has a brilliant premise.'
+tags: ['animation', 'anime']
 ---
 
 The premise of "Life with an Ordinary Guy Who Reincarnated into a Total Fantasy Knockout" is that two childhood friends, male, age 32, are transported into another world, one of them turned into a woman. And they are placed under a spell making them fall in love with each other.
@@ -41,7 +41,7 @@ The show pretty much puts the _isekai_ concept on its head. Rather than try to b
 
 It's so hard to emphasize how genius the premise is. People have been attempting this kind of idea since "Konosuba": the idea of an "adventure" gone wrong. But they've all lacked a certain creativity, a certain psychological depth.
 
-Take "Konosuba", which has been compared to "It's Always Sunny in Philadelphia", in personal conversation. The characters are basically cartoons. Of course they'd have mishaps, because they're completely detached from reality. (The most grounded character, oddly, is Megumin.) In contrast to "Always Sunny", the specific egos - and it's their egos precisely in the way - operating against, with each other is what causes the fundamental conflict in the show. Art requires specificity. Yes, it's funny if *X* strange thing happens in the adventure, but that thing has to carry the whole story, otherwise it mimics a regular fantasy adventure in all but one.
+Take "Konosuba", which has been compared to "It's Always Sunny in Philadelphia", in personal conversation. The characters are basically cartoons. Of course they'd have mishaps, because they're completely detached from reality. (The most grounded character, oddly, is Megumin.) In contrast to "Always Sunny", the specific egos - and it's their egos precisely in the way - operating against, with each other is what causes the fundamental conflict in the show. Art requires specificity. Yes, it's funny if _X_ strange thing happens in the adventure, but that thing has to carry the whole story, otherwise it mimics a regular fantasy adventure in all but one.
 
 The set-up for "Life..." absolutely holds the entire story up, because it _is_ the entire story. There's no more story after that! "How do these characters escape this fantasy world without fucking each other, thereby causing a lifetime of trauma?" If the purpose of a story is to present the audience a question, then this is the one question I desperately want answered.
 

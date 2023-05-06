@@ -1,10 +1,10 @@
 ---
-title: "Wonder Egg Priorty is the most offensive anime"
-slug: "/wonder-egg-priority-is-the-most-offensive-anime"
-createdAt: "2021-03-31T18:28:44+0000"
-seoTitle: "Wonder Egg Priority"
-seoDescription: "Wonder Egg Priority is just awful."
-tags: ["animation", "anime"]
+title: 'Wonder Egg Priorty is the most offensive anime'
+slug: '/wonder-egg-priority-is-the-most-offensive-anime'
+createdAt: '2021-03-31T18:28:44+0000'
+seoTitle: 'Wonder Egg Priority'
+seoDescription: 'Wonder Egg Priority is just awful.'
+tags: ['animation', 'anime']
 ---
 
 I've seen many awful anime, and I've heard of many awful anime as well - such as "Boku no Pico" - but with almost a decade of anime-watching behind me I can firmly say "Wonder Egg Priority" is the most offensive show I've seen up to now.

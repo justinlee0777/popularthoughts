@@ -1,10 +1,10 @@
 ---
 title: "Covers of Radiohead's Creep"
-slug: "/radiohead-creep-covers"
-createdAt: "2022-05-11T19:09:16+0000"
+slug: '/radiohead-creep-covers'
+createdAt: '2022-05-11T19:09:16+0000'
 seoTitle: "Covers of Radiohead's Creep"
-seoDescription: "We discuss what makes a good cover of Radiohead's \"Creep\" because 1. it's a great song and 2. there are way too many covers of it."
-tags: ["music"]
+seoDescription: 'We discuss what makes a good cover of Radiohead''s "Creep" because 1. it''s a great song and 2. there are way too many covers of it.'
+tags: ['music']
 ---
 
 This is the best cover of Radiohead's "Creep".

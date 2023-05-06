@@ -1,10 +1,10 @@
 ---
 title: "Rewriting One Punch Man's Monster Association Arc"
-slug: "/rewriting-one-punch-monster-association-arc"
-createdAt: "2022-08-21T20:13:52+0000"
+slug: '/rewriting-one-punch-monster-association-arc'
+createdAt: '2022-08-21T20:13:52+0000'
 seoTitle: "Rewriting One Punch Man's Monster Association Arc"
 seoDescription: "We rewrite the One Punch Man manga's Monster Association Arc, as a creative exercise."
-tags: ["animation", "anime"]
+tags: ['animation', 'anime']
 ---
 
 Hey, if they can redraw, I can rewrite.
@@ -95,7 +95,7 @@ It is up for debate whether we want to still keep Sage Centipede in the story - 
 
 To the delight of webcomic fans, I don't think I would change any details with the plot from here on out. Everyone tries to take a piece out of Garou, but they all fail. Fubuki, inconsolable, states that Garou is fear incarnate. We get the famous "A kid is going to die. ...Can't you at least stand up?" speech, followed up by Saitama's "What are you supposed to be?"
 
-Saitama flips the entire story on its head. Up to this point, it had been a story centered thematically around "power" and the self-worth and delusion that comes from having power. We went through escalating threats - Psykorochi, Black Sperm, Garou - who continued to use power more and more forcefully against those whom we look up to use power judiciously. The conflict up until this point resembled an actual existential conflict between two forces. Yet Saitama is so powerful that once he becomes the focus of the story, the idea that power can be used to control people is thrown out the window. He is not even a wall; he is an overwhelming reality that is logically impossible to overcome. He immediately makes the wielder of the most so-called "power" neurotically obsessed with their own position in the universe and just what it is that made their self think so highly of themselves. 
+Saitama flips the entire story on its head. Up to this point, it had been a story centered thematically around "power" and the self-worth and delusion that comes from having power. We went through escalating threats - Psykorochi, Black Sperm, Garou - who continued to use power more and more forcefully against those whom we look up to use power judiciously. The conflict up until this point resembled an actual existential conflict between two forces. Yet Saitama is so powerful that once he becomes the focus of the story, the idea that power can be used to control people is thrown out the window. He is not even a wall; he is an overwhelming reality that is logically impossible to overcome. He immediately makes the wielder of the most so-called "power" neurotically obsessed with their own position in the universe and just what it is that made their self think so highly of themselves.
 
 This is what makes "One Punch Man" funny: this conflict between what other people _must_ take so seriously and what to Saitama is, like, hardly an issue at all. He even has more trouble with flies.
 

@@ -1,10 +1,10 @@
 ---
-title: "Petscop"
-slug: "/petscop"
-createdAt: "2022-09-20T15:43:41+0000"
-seoTitle: "Petscop"
-seoDescription: "We talk about the Youtube horror series / ARG / Let's Play \"Petscop\"."
-tags: ["animation", "video-game"]
+title: 'Petscop'
+slug: '/petscop'
+createdAt: '2022-09-20T15:43:41+0000'
+seoTitle: 'Petscop'
+seoDescription: 'We talk about the Youtube horror series / ARG / Let''s Play "Petscop".'
+tags: ['animation', 'video-game']
 ---
 
 I'm not a big fan of horror. I'm not sure what the genre is meant for. I don't like being scared or creeped out - I like sleeping, quite frankly - and so I never really understood what the purpose of watching scary things was. So take the following essay with a grain of salt.
@@ -63,7 +63,7 @@ Within the pages of the book and the confines of the canvas, we see whatever the
 
 Video games require even more rules and, for that reason, may be even better at horror, depending on how it is employed. People still talk of the famous sanity effects in "Eternal Darkness: Sanity's Requiem" which violate the shared agreement of the game's rules between the artists and the audience. A game essentially encapsulates a subset of reality; though the player interacts with the game through their controller or their keyboard, they still bring in assumptions from our reality into the screen. Even in the most fanciful of games, such as "Super Mario Bros", the concept of gravity is retained.
 
-The reason why this famous <a href="https://lparchive.org/Animal-Crossing/" target="_blank" rel="noopener noreferrer">"Animal Crossing" Let's Play</a> works is because the author manipulates that reality. Whereas you are intended to jump from one reality downwards to another, smaller one, the author combines the two realities, taking the joke of "What if a real kid actually went in the world of 'Animal Crossing'?" to its full extent. The colorful, play-pretend appearance of the games is clashed by the protagonist's internal thoughts which contain real concerns. Perhaps the story's resolution is overdramatic, but, then again, that's probably the point. It's stupid turtles all the way down. 
+The reason why this famous <a href="https://lparchive.org/Animal-Crossing/" target="_blank" rel="noopener noreferrer">"Animal Crossing" Let's Play</a> works is because the author manipulates that reality. Whereas you are intended to jump from one reality downwards to another, smaller one, the author combines the two realities, taking the joke of "What if a real kid actually went in the world of 'Animal Crossing'?" to its full extent. The colorful, play-pretend appearance of the games is clashed by the protagonist's internal thoughts which contain real concerns. Perhaps the story's resolution is overdramatic, but, then again, that's probably the point. It's stupid turtles all the way down.
 
 In particular, video games have been an especially fertile ground for creepypastas, with "Ben Drowned" being prominent.
 

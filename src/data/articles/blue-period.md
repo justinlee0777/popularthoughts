@@ -1,10 +1,10 @@
 ---
-title: "Blue Period sucks"
-slug: "/blue-period-flaw"
-createdAt: "2021-11-08T22:39:21+0000"
+title: 'Blue Period sucks'
+slug: '/blue-period-flaw'
+createdAt: '2021-11-08T22:39:21+0000'
 seoTitle: "Blue Period's Flaw"
-seoDescription: "The anime Blue Period has one fundamental flaw: it sucks."
-tags: ["animation", "anime"]
+seoDescription: 'The anime Blue Period has one fundamental flaw: it sucks.'
+tags: ['animation', 'anime']
 ---
 
 In hindsight, it doesn't make any sense to have an anime about art.
@@ -19,7 +19,7 @@ The bigger reason the anime fails comes from the fact that it exists at all - if
 
 Unless of course the point is that the author wants to emphasize that creating art is more of a personal journey than an accomplishment to achieve, which raises the question of, why is this anime so boring? Again, if the main idea behind art is the _personal_ journey, then you need to emphasize the _person_, which the author deigns to do, the main character is as interesting as a wet sack of potatoes. This topic has been covered by the series "Beck", but it never focused on the actual nuts and bolts of how art is made, only the expressive, personal part. "Blue Period" does not do this - the main character is a blank slate, with seemingly no history or notable characteristics, and his primary role in the series is to ask "how do I art?"
 
-Truth be told, I find "Blue Period" to be particularly frustrating because I think this particular genre of fiction to be cold, mechanistic and money-grubbing, and this is especially for an anime about _art_. These types of stories transcend when the writer finds a human element to relate the story to - "Ippo" is a fantastic example, but you also have shows like "K-On!" When you don't have the human element it becomes routine and almost mercenary - yeah this series follows the same pattern as other series but it's about _rock-climbing_, *stamp*. So to apply the same formula to art, and then remove the human element that art is _supposed_ to have, is, like... insulting to me, because, obviously by this review, I take art criticism seriously.
+Truth be told, I find "Blue Period" to be particularly frustrating because I think this particular genre of fiction to be cold, mechanistic and money-grubbing, and this is especially for an anime about _art_. These types of stories transcend when the writer finds a human element to relate the story to - "Ippo" is a fantastic example, but you also have shows like "K-On!" When you don't have the human element it becomes routine and almost mercenary - yeah this series follows the same pattern as other series but it's about _rock-climbing_, _stamp_. So to apply the same formula to art, and then remove the human element that art is _supposed_ to have, is, like... insulting to me, because, obviously by this review, I take art criticism seriously.
 
 I acknowledge the author's attempt to raise visibility of the creative process behind art, but it's a failed attempt because the plot and the characters themselves are uninteresting.
 

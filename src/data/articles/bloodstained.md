@@ -1,10 +1,10 @@
 ---
-title: "Bloodstained"
-slug: "/bloodstained"
-createdAt: "2021-11-08T22:39:21+0000"
-seoTitle: "Bloodstained"
-seoDescription: "We discuss Bloodstained and the past Metroidvania games."
-tags: ["video-game"]
+title: 'Bloodstained'
+slug: '/bloodstained'
+createdAt: '2021-11-08T22:39:21+0000'
+seoTitle: 'Bloodstained'
+seoDescription: 'We discuss Bloodstained and the past Metroidvania games.'
+tags: ['video-game']
 ---
 
 As the spiritual successor to the "Castlevania" series, which have all been action games, "Bloodstained" is a pretty bad action game.

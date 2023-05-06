@@ -1,10 +1,10 @@
 ---
-title: "Dim qualities in Darkest Dungeon"
-slug: "/darkest-dungeon"
-createdAt: "2023-02-18T03:53:50+0000"
-seoTitle: "Darkest Dungeon"
-seoDescription: "We talk about some of the flawed gameplay decisions in Darkest Dungeon."
-tags: ["video-game"]
+title: 'Dim qualities in Darkest Dungeon'
+slug: '/darkest-dungeon'
+createdAt: '2023-02-18T03:53:50+0000'
+seoTitle: 'Darkest Dungeon'
+seoDescription: 'We talk about some of the flawed gameplay decisions in Darkest Dungeon.'
+tags: ['video-game']
 ---
 
 You can't spell "Darkest Dungeon" without RNG.
@@ -21,7 +21,7 @@ This is where it stops being about the concept of fairness and whether the playe
 
 For example, the hamlet could experience a massacre and require all of the Vestals - the game's best healers - in your party to bless the dead. You can't bring any healers next dungeon, but they all gain one resolve level when your party returns back to town.
 
-To emphasize, *I made that up*. There are few scenarios, where the player is put into a bad-or-worse decision, like this.
+To emphasize, _I made that up_. There are few scenarios, where the player is put into a bad-or-worse decision, like this.
 
 Bad luck is interesting if there is an in-canon explanation for it. "Dungeons & Dragons" is the best example where a natural 1 is a source of many great adventuring anecdotes. There is no good explanation for the dodges and crits in "Darkest Dungeon" except that the computer is screwing with the player. Worse, this is combined with genuine enemy intelligence, where enemy parties will dog-pile and attempt to kill one character _when they have never tried to do so before_. So, yes, the game is sometimes unfair _for no reason_.
 

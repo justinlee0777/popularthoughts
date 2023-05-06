@@ -1,10 +1,10 @@
 ---
-title: "That third episode of The Last of Us is..."
-slug: "/last-of-us-hbo"
-createdAt: "2023-02-18T03:53:50+0000"
-seoTitle: "Last of Us Episode 3"
-seoDescription: "The third episode of The Last of Us is silly."
-tags: ["film"]
+title: 'That third episode of The Last of Us is...'
+slug: '/last-of-us-hbo'
+createdAt: '2023-02-18T03:53:50+0000'
+seoTitle: 'Last of Us Episode 3'
+seoDescription: 'The third episode of The Last of Us is silly.'
+tags: ['film']
 ---
 
 ...basically a Christian romance.
@@ -19,7 +19,7 @@ Secular in its methods, Christian without realizing it (unsurprising, given the 
 
 Again: secular in its methods, Christian without realizing it. Christian in that conjugal bliss is the greatest bliss in the world; one's purpose in life inevitably is to become a familial unit. Secular in that happiness is every man's North Star, the _only_ thing to pursue until the day they die. If you try to reconcile the two, your mind will be moved to madness and you'll die a gibbering mess. You can barely squint at the unholy (or rather, nonsensical) matrimony of the theological and the Epicurean.
 
-It's also, well, simple-minded tripe. To reiterate: *no one* may intrude upon their happiness. It is a post-apocalypse, people. Except...a post-apocalpyse would have plenty of people. No one arrived to their small community (of literally just two people) and made this proposal: "I see you two folks have a good thing going on here, I don't ask for much but I'll work my hide off if you let me"? Apparently not, as Bill and Frank become so old and frail they decide that suicide is a far superior alternative than living any longer and, you know, sharing one's wisdom and resources to help others survive the post-apocalypse where suffering is rampant.
+It's also, well, simple-minded tripe. To reiterate: _no one_ may intrude upon their happiness. It is a post-apocalypse, people. Except...a post-apocalpyse would have plenty of people. No one arrived to their small community (of literally just two people) and made this proposal: "I see you two folks have a good thing going on here, I don't ask for much but I'll work my hide off if you let me"? Apparently not, as Bill and Frank become so old and frail they decide that suicide is a far superior alternative than living any longer and, you know, sharing one's wisdom and resources to help others survive the post-apocalypse where suffering is rampant.
 
 The writers intended a staged drama, but they instead wrote a message: secularism is selfish. Worse, they pinned this badge of shame on two homosexual men. And it happens their selfishness causes them to die alone and childless, rotting on a bed and eventually eaten by worms. "That's what happens to those who defy the holy book!" No, I absolutely do not think the writers knew just what it was they were writing. It's more horrifying than the post-apocalypse.
 

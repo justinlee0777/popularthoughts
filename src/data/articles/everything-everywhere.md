@@ -1,10 +1,10 @@
 ---
-title: "Everything Everywhere All At Once"
-slug: "/everything-everywhere-all-at-once"
-createdAt: "2022-06-26T04:32:37+0000"
-seoTitle: "Everything Everywhere All At Once"
-seoDescription: "\"Everything Everywhere All At Once\" is colorful on the outside, but hollow in meaning in the inside."
-tags: ["film"]
+title: 'Everything Everywhere All At Once'
+slug: '/everything-everywhere-all-at-once'
+createdAt: '2022-06-26T04:32:37+0000'
+seoTitle: 'Everything Everywhere All At Once'
+seoDescription: '"Everything Everywhere All At Once" is colorful on the outside, but hollow in meaning in the inside.'
+tags: ['film']
 ---
 
 ### Tad bit racist
@@ -43,7 +43,7 @@ You may be saying, "I mean, if you saw the film, you would know it has a lot to 
 
 No, no, no. Think about it a little bit. It really has nothing to do with the first story.
 
-How does the _logical conclusion_ of the second story, saving *all of existence as we know it*, with _explosions_, as are needed, have anything to do with reconciling with someone you love and salvaging your marriage (which really didn't seem so threatened in the first place)?
+How does the _logical conclusion_ of the second story, saving _all of existence as we know it_, with _explosions_, as are needed, have anything to do with reconciling with someone you love and salvaging your marriage (which really didn't seem so threatened in the first place)?
 
 You'll say... "Sir, it's tied up in one big bowtie of a theme... _nihilism_!"
 
@@ -77,7 +77,7 @@ What about her fundamental character made her choose to do any of these things? 
 
 This is less of an issue with the film, but with the idea of a multiverse in general. This is why I took the pain of defining it - if you think really deeply about it, the idea makes no sense. It ignores nearly every school of philosophy - it does a number on Confucianism, which believes people can _choose_ to be good, so long as they have someone to model themselves on.
 
-This idea is so flawed that the filmmakers had to scramble to fix the ending: they declared, the multiverse has no rules, true... except that it is bound together by _love_. They *needed* to do this in order to have any satisfying ending.
+This idea is so flawed that the filmmakers had to scramble to fix the ending: they declared, the multiverse has no rules, true... except that it is bound together by _love_. They _needed_ to do this in order to have any satisfying ending.
 
 If the multiverse was not bound by love, then Evelyn could very easily have decided that not only should she and her daughter kill themselves, but that they should, in an act of benevolence, kill everyone in the black hole of doom in order to save them more misery. If a multiverse can interchange _any_ material circumstances, there are universes where people starve and suffer, where people are struggling to live on a doomed Earth, where people have literally no concept of compassion or good will for one another, where people genuinely do not have a concept of love and only create children out of necessity; in fact, there may even be a multiverse where people straight-up just don't have kids, or asexually reproduce. How convenient for the filmmakers they did not show those.
 

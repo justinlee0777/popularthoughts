@@ -1,10 +1,10 @@
 ---
-title: "Diablo and The Folly of Too Many"
-slug: "/diablo-ii"
-createdAt: "2022-02-26T20:00:44+0000"
-seoTitle: "Diablo II"
+title: 'Diablo and The Folly of Too Many'
+slug: '/diablo-ii'
+createdAt: '2022-02-26T20:00:44+0000'
+seoTitle: 'Diablo II'
 seoDescription: "We look into the game mechances of the second and third Diablo games and wonder if there isn't anything fundamentally flawed in the RPG genre."
-tags: ["video-game"]
+tags: ['video-game']
 ---
 
 I'll agree that "Diablo II" is better than "Diablo III".

@@ -1,15 +1,15 @@
 ---
 title: "Elvis Costello's Armed Forces"
-slug: "/elvis-costello-armed-forces"
-createdAt: "2022-10-19T03:08:22+0000"
+slug: '/elvis-costello-armed-forces'
+createdAt: '2022-10-19T03:08:22+0000'
 seoTitle: "Elvis Costello's Armed Forces"
 seoDescription: "We take another look at Elvis Costello's second album with The Attractions, Armed Forces."
-tags: ["music"]
+tags: ['music']
 ---
 
 It's a sad day in a life when one finds out they've grown old enough to be <a href="https://www.youtube.com/watch?v=n7k4GQSGvx8" target="_blank" rel="noopener noreferrer">this lady</a>.
 
-However insecure I am about my position, I still maintain "<a href="/cyberpunk-edgerunners" target="_blank" rel="noopener noreferrer">Cyberpunk: Edgerunners</a>" is pointless, *corporate* violence. That latter modifier is key.
+However insecure I am about my position, I still maintain "<a href="/cyberpunk-edgerunners" target="_blank" rel="noopener noreferrer">Cyberpunk: Edgerunners</a>" is pointless, _corporate_ violence. That latter modifier is key.
 
 Punk is not pointless. That is something I'd like to say, anyway. I do believe its point comes from its sheer existence, though I understand that is an ambiguous, and therefore tenuous, argument to make. But I do think it's true that, at least for those that have survived - any history of the underground scene will reveal dozens of acts where an eye wanted to inspect only one, as if a single roach reveals an infestation - punk does not necessarily have to be violent. It suffices to comment. Sometimes the threat of violence is necessary for comment, as a kind of exorcism. And the bourgeois audience of "Cyberpunk: Edgerunners" have all the wealth and resources they need to comment, and they do. We have heard from them enough. Once and for all, the vitality of punk is in surprise - whether it's Black Flag's rejection of hardcore's "faster is better" philosophy, Minutemen's embrace of jazz polyrhythms, or the Butthole Surfers' setting a cymbal on fire and tearing toys apart like police dogs on stage, the only acts that survive are surprising acts. (I think that is why the Post-Punk Revival didn't take. As good as the debuts of the Strokes, Interpol, and the Yeah Yeah Yeahs were, corporate sharks quickly followed up after them, and the whole thing eventually seemed inauthentic. But post-punk was brazen about its inauthenticity - people preferred it in subtle disguises, such as in the form of Arcade Fire.)
 

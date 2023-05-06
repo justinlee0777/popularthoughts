@@ -1,10 +1,10 @@
 ---
-title: "Rewriting the factions of Fallout 4"
-slug: "/the-factions-of-fallout-4"
-createdAt: "2021-06-08T02:27:04+0000"
-seoTitle: "Fallout 4"
-seoDescription: "We talk about the factions of Fallout 4."
-tags: ["video-game"]
+title: 'Rewriting the factions of Fallout 4'
+slug: '/the-factions-of-fallout-4'
+createdAt: '2021-06-08T02:27:04+0000'
+seoTitle: 'Fallout 4'
+seoDescription: 'We talk about the factions of Fallout 4.'
+tags: ['video-game']
 ---
 
 It doesn't need to be said that the story of the game "Fallout 4" is lacking. I attempt a rewrite of the game by rewriting the factions, whose quest lines lead to the game's ending. I won't restate the story of the actual game, so the article assumes a good level of familiarity with the existing story.
@@ -113,7 +113,6 @@ The mission, to destroy synths, was ultimately a ploy to distract the Brotherhoo
 
 If I'm painting a picture of the Brotherhood that looks like incompetence, I want to emphasize they were trained, for decades, to be really good at one thing: murdering people. This specialized knowledge was extremely useful in most scenarios in the wasteland. The Brotherhood soldiers also really liked being good at what they did. To them, it made perfect sense to destroy the Railroad and the Institute. And the Minutemen if they needed to.
 
-
 ### The Railroad
 
 The Railroad is at once a new and old player in Commonwealth politics.
@@ -216,15 +215,15 @@ Factions can broker peace with each other. The Minutemen are apoltical and are s
 
 There are a number of small, fun things I would like:
 
-- There would be no 1st or 2nd Generation Synths in the Institute; the player would only see Coursers, robots and maybe even synthetic dogs.
+-   There would be no 1st or 2nd Generation Synths in the Institute; the player would only see Coursers, robots and maybe even synthetic dogs.
 
-- The player character would occasionally see "megabrahmin" that the Institute accidentally unleashed on the wasteland.
+-   The player character would occasionally see "megabrahmin" that the Institute accidentally unleashed on the wasteland.
 
-- A group of intelligent super mutants (probably from a vault) communicate with the Railroad.
+-   A group of intelligent super mutants (probably from a vault) communicate with the Railroad.
 
-- The Minutemen recruit raiders to their cause.
+-   The Minutemen recruit raiders to their cause.
 
-- The Brotherhood use the Institute's mods on soldiers (seeing Star Paladin Cross was a cyborg herself).
+-   The Brotherhood use the Institute's mods on soldiers (seeing Star Paladin Cross was a cyborg herself).
 
 Everything essential, however, has been covered. If the write-up covered up one critical flaw of the original game, the flaw would be that synths are essentially just robots with human flesh; they're not any smarter than robots nor, and this is the most important trait, are they any more creative. It's surprising the original game writers didn't focus on this particular aspect of the synths, since it's <a href="https://en.wikipedia.org/wiki/Maschinenmensch" target="_blank" rel="noopener noreferrer">pretty</a> <a href="https://en.wikipedia.org/wiki/Data_(Star_Trek)" target="_blank" rel="noopener noreferrer">well</a> <a href="https://en.wikipedia.org/wiki/Blade_Runner" target="_blank" rel="noopener noreferrer">covered</a> in popular fiction, and since Fallout is a pretty damn nerdy world (where fans love to get into the narrow of reality and fantasy) it would have been a great place to address themes of human intelligence and artificial intelligence. Alas, the game fails this potential.
 

@@ -1,10 +1,10 @@
 ---
-title: "A complaint to Mister Murray"
-slug: "/albert-murray"
-createdAt: "2022-12-01T05:02:31+0000"
+title: 'A complaint to Mister Murray'
+slug: '/albert-murray'
+createdAt: '2022-12-01T05:02:31+0000'
 seoTitle: "Library of America's Albert Murray"
-seoDescription: "I have a complaint for Albert Murray, celebrated American essayist."
-tags: ["literature"]
+seoDescription: 'I have a complaint for Albert Murray, celebrated American essayist.'
+tags: ['literature']
 ---
 
 Albert Murray is the Rakim of American essays.

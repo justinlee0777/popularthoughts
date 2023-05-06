@@ -1,10 +1,10 @@
 ---
-title: "Earwig and the Witch is not bad"
-slug: "/earwig-and-the-witch"
-createdAt: "2021-02-15T17:51:27+0000"
-seoTitle: "Earwig and the Witch"
-seoDescription: "Earwig and the Witch is not as bad as some are saying."
-tags: ["film", "animation", "anime"]
+title: 'Earwig and the Witch is not bad'
+slug: '/earwig-and-the-witch'
+createdAt: '2021-02-15T17:51:27+0000'
+seoTitle: 'Earwig and the Witch'
+seoDescription: 'Earwig and the Witch is not as bad as some are saying.'
+tags: ['film', 'animation', 'anime']
 ---
 
 ### Animation
@@ -47,9 +47,9 @@ There is a cat character in the film who does not talk until he suddenly wants t
 
 Why Mandrake writes instead of pursues any other creative activity, is unexplained. I'm not looking for an expository scene, I'm looking for a simple, "Mandrake is seen reading a book in every dinner table scene" or something similar.
 
-These are all problems with the sequence of the film. *The sequence of the film is more important than the details of the film, by an order of magnitude.* If a film has a proper sequence, it is very enjoyable rewatching it, because you never get bored by it; it is constantly introducing information and then using that information.
+These are all problems with the sequence of the film. _The sequence of the film is more important than the details of the film, by an order of magnitude._ If a film has a proper sequence, it is very enjoyable rewatching it, because you never get bored by it; it is constantly introducing information and then using that information.
 
-This is 100% a problem with the script and possibly the direction given by the director. The ideas are there - the film is a comedy, Earwig is a prankster, the witch is a stuffy tyrant, the cat is Earwig's sidekick and the character with the narrative arc is really Mandrake. But it's far too difficult for the audience to understand these ideas unless they're aware of the tropes and identify each character with the proper trope. As a result, the characters are merely presences onscreen delivering lines, walking to here and there, and they don't unify into anything interesting. *Writing is the unification and clarification of ideas.* An audience should not be doing homework to enjoy the depth of a film.
+This is 100% a problem with the script and possibly the direction given by the director. The ideas are there - the film is a comedy, Earwig is a prankster, the witch is a stuffy tyrant, the cat is Earwig's sidekick and the character with the narrative arc is really Mandrake. But it's far too difficult for the audience to understand these ideas unless they're aware of the tropes and identify each character with the proper trope. As a result, the characters are merely presences onscreen delivering lines, walking to here and there, and they don't unify into anything interesting. _Writing is the unification and clarification of ideas._ An audience should not be doing homework to enjoy the depth of a film.
 
 ### Suggestions
 

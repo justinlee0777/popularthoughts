@@ -1,10 +1,10 @@
 ---
 title: "Elvis Costello's Get Happy!!"
-slug: "/elvis-costello-get-happy"
-createdAt: "2021-04-19T22:52:22+0000"
+slug: '/elvis-costello-get-happy'
+createdAt: '2021-04-19T22:52:22+0000'
 seoTitle: "Elvis Costello's Get Happy"
-seoDescription: "We discuss how Elvis Costello is a weird musician and his album with The Attractions, Get Happy!!"
-tags: ["music"]
+seoDescription: 'We discuss how Elvis Costello is a weird musician and his album with The Attractions, Get Happy!!'
+tags: ['music']
 ---
 
 ### Elvis Costello is a strange musician

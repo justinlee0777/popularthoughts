@@ -1,10 +1,10 @@
 ---
-title: "The Worst Anime Adaptation Award goes to...Chainsaw Man"
-slug: "/chainsaw-man-anime-adaptation"
-createdAt: "2022-11-06T01:18:00+0000"
-seoTitle: "The Worst Anime Adaptation Award goes to...Chainsaw Man"
-seoDescription: "The anime adaptation of Chainsaw Man is terrible."
-tags: ["animation", "anime"]
+title: 'The Worst Anime Adaptation Award goes to...Chainsaw Man'
+slug: '/chainsaw-man-anime-adaptation'
+createdAt: '2022-11-06T01:18:00+0000'
+seoTitle: 'The Worst Anime Adaptation Award goes to...Chainsaw Man'
+seoDescription: 'The anime adaptation of Chainsaw Man is terrible.'
+tags: ['animation', 'anime']
 ---
 
 You would think there isn't much to adapting a manga - visual medium - to anime - another visual medium.
@@ -21,7 +21,7 @@ Yes, I am talking about the "Chainsaw Man" adaptation. I have never seen an adap
 
 Well, perhaps the worst adaptation in the world is the English dub of "Ghost Stories" - from the perspective of the children's novels. From the audience's perspective, perhaps not so.
 
-"Chainsaw Man" is a delightful read. It probably functions better as a comedy than a drama. Fujimoto is not particularly concerned about Denji's survival; he may be worried about the fate of innocents, but Denji, our foul-mouthed, sexually excited chainsaw-transforming teenager is someone he seems to be more interested in puppeteering from one moment to the next. Everyone immediately becomes an associate to Denji's unusualness. He is more Fonzie than Naruto. 
+"Chainsaw Man" is a delightful read. It probably functions better as a comedy than a drama. Fujimoto is not particularly concerned about Denji's survival; he may be worried about the fate of innocents, but Denji, our foul-mouthed, sexually excited chainsaw-transforming teenager is someone he seems to be more interested in puppeteering from one moment to the next. Everyone immediately becomes an associate to Denji's unusualness. He is more Fonzie than Naruto.
 
 This is in hindsight; I didn't quite understand Denji's character as I was reading it. We'll be using the word "hindsight" frequently here, because the "Chainsaw Man" adaptation was given the gift of two years of hindsight.
 

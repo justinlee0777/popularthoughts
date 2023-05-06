@@ -1,10 +1,10 @@
 ---
 title: "Why oh, why oh, One Piece's Wano"
-slug: "/one-piece-wano"
-createdAt: "2022-09-20T15:43:41+0000"
+slug: '/one-piece-wano'
+createdAt: '2022-09-20T15:43:41+0000'
 seoTitle: "One Piece's Wano Arc"
 seoDescription: "We talk about One Piece's Wano arc."
-tags: ["animation", "anime"]
+tags: ['animation', 'anime']
 ---
 
 The Straw Hats' long-awaited sojourn to the country of Wano was simply a casualty of naked ambition, and nothing more.

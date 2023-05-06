@@ -1,10 +1,10 @@
 ---
-title: "The ending of Rashomon"
-slug: "/rashomon-ending"
-createdAt: "2022-04-10T00:03:16+0000"
-seoTitle: "The ending of Rashomon"
+title: 'The ending of Rashomon'
+slug: '/rashomon-ending'
+createdAt: '2022-04-10T00:03:16+0000'
+seoTitle: 'The ending of Rashomon'
 seoDescription: "We analyze the ending of Kurosawa's Rashomon."
-tags: ["film"]
+tags: ['film']
 ---
 
 When the woodcutter accepts the abandoned baby in the ending of "Rashomon", one suspects Kurosawa is making a false moral equivalency to pacify the audience. The justice required for the actions of the inimitable cast of sinners is complex, whereas the justice for a child is simple, because children are relatively innocent of sin.

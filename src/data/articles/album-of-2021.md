@@ -1,10 +1,10 @@
 ---
-title: "The Best Album of 2021"
-slug: "/best-album-2021"
-createdAt: "2022-01-15T22:15:37+0000"
-seoTitle: "The Best Album of 2021"
-seoDescription: "We review the year 2021 in music and cover my favorite album of 2021: Dream Unending's \"Tide Turns Eternal\"."
-tags: ["music"]
+title: 'The Best Album of 2021'
+slug: '/best-album-2021'
+createdAt: '2022-01-15T22:15:37+0000'
+seoTitle: 'The Best Album of 2021'
+seoDescription: 'We review the year 2021 in music and cover my favorite album of 2021: Dream Unending''s "Tide Turns Eternal".'
+tags: ['music']
 ---
 
 Continuing a trend from 2020, 2021 is a continuation of: 1. the increasing retro-looking sounds for "alternative" music, 2. the dominance of older bands (who actually still have a vision), and 3. the solidification of the dominance rap has over the mainstream.

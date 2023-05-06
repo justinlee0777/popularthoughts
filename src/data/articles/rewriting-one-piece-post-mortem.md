@@ -1,10 +1,10 @@
 ---
 title: "Rewriting One Piece's New World: Conclusion"
-slug: "/one-piece-rewrite-conclusion"
-createdAt: "2023-01-01T05:09:36+0000"
+slug: '/one-piece-rewrite-conclusion'
+createdAt: '2023-01-01T05:09:36+0000'
 seoTitle: "Rewriting One Piece's New World: Conclusion"
-seoDescription: "After rewriting One Piece, we analyze the series as a whole and Oda as an artist."
-tags: ["animation", "anime"]
+seoDescription: 'After rewriting One Piece, we analyze the series as a whole and Oda as an artist.'
+tags: ['animation', 'anime']
 ---
 
 How long have I been reading "One Piece"? When did the DS game "Jump Ultimate Stars" come out? Has it really been, perhaps, 15 years?
@@ -27,7 +27,7 @@ But there's little _expression_ in this type of story, which is the purpose of a
 
 And the fighting, fighting, fighting. I hated the fighting, unless it had a nice resolution at the end. I really like Chopper's brush-up with Caesar in the rewrite, an ending more creative than I thought I could come up with. Doflamingo's denouement with Luffy as his foil was really satisfying, especially after I admitted I did not like the original fight at all and struggled to retain certain elements from the original.
 
-Action ought to be a series of arguments. Powerscalers do not like that. They wonder why X did not beat Y. As a writer, the story's meaning is more important than myself vicariously acting as these supermen. I prefer a one-sided fight unless the fighters need to "argue"  i.e. the wonderful fight between Ashura and Zoro in the rewrite where the former impresses upon the latter as a venerable mountain after exchanging blows.
+Action ought to be a series of arguments. Powerscalers do not like that. They wonder why X did not beat Y. As a writer, the story's meaning is more important than myself vicariously acting as these supermen. I prefer a one-sided fight unless the fighters need to "argue" i.e. the wonderful fight between Ashura and Zoro in the rewrite where the former impresses upon the latter as a venerable mountain after exchanging blows.
 
 George Morikawa's "Hajime no Ippo" has veeeery long action scenes, of boxers dueling one another, but that proceeds in an argumentative structure: opponents try to pull ahead of the other in the early rounds with their athleticism and wit. A match entering the later rounds is a testament to the drive and skill of a fighter. "Ippo" is a major influence on me.
 

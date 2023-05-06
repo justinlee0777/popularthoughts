@@ -1,10 +1,10 @@
 ---
-title: "Whiplash (2014)"
-slug: "/whiplash-film"
-createdAt: "2022-05-11T19:09:16+0000"
-seoTitle: "Whiplash (2014)"
-seoDescription: "We discuss Damien Chazelle's 2014 film \"Whiplash\"."
-tags: ["film"]
+title: 'Whiplash (2014)'
+slug: '/whiplash-film'
+createdAt: '2022-05-11T19:09:16+0000'
+seoTitle: 'Whiplash (2014)'
+seoDescription: 'We discuss Damien Chazelle''s 2014 film "Whiplash".'
+tags: ['film']
 ---
 
 This <a href="https://www.newyorker.com/culture/richard-brody/whiplash-getting-jazz-right-movies" target="_blank" rel="noopener noreferrer">review</a> captures pretty well why "Whiplash" is not accurate to jazz or art in general. Playing the standards over and over is not a way to become a great artist; further, the idea that a great artist is predicated on trauma is only fit for superhero movies.

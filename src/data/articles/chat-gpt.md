@@ -1,10 +1,10 @@
 ---
-title: "ChatGPT and art"
-slug: "/chatgpt-and-art"
-createdAt: "2023-02-18T03:53:50+0000"
-seoTitle: "ChatGPT and art"
+title: 'ChatGPT and art'
+slug: '/chatgpt-and-art'
+createdAt: '2023-02-18T03:53:50+0000'
+seoTitle: 'ChatGPT and art'
 seoDescription: "We discuss the possible effects of ChatGPT and OpenAI's other projects on art."
-tags: ["film", "music", "visual art", "literature"]
+tags: ['film', 'music', 'visual art', 'literature']
 ---
 
 I feel pretty lucky to have a Computer Science degree, especially during these times. Full disclosure: I'm a software developer by trade, which explains this _totally awesome_ and _impressive, technologically and design-wise_, website. I have a pretty good understanding of the technology that is becoming important in our lives, and so I don't get mystified by the speculation coming from a certain product (which is the best way to describe most software). But it's highly unlikely I would ever write a technology blog because they are as numerous as the stars, and used for all variety of reasons, genuine or deceitful, and I talk about current trends all the time with others anyway. I prefer talking about art because I find it more objective, hilariously enough. The furthest my real life and my articles have intersected is in the realm of video games, whose challenges I'm somewhat familiar with.
@@ -37,7 +37,7 @@ The works will never be good on their own merit. It will probably always stay pa
 
 Mediocrity is the enemy of mankind. Things that are inoffensive and trivial are among the most dangerous to men, right up there with snakes and bears. Mediocrity is entirely undetectable and possesses the property of not attracting thought or analysis.
 
-One will occasionally find in people a misconception on what an "economy" is. An economy doesn't describe merely what, how and why people buy and say. An economy more generally describes the activity of a people; it happens that one of the, if not 
+One will occasionally find in people a misconception on what an "economy" is. An economy doesn't describe merely what, how and why people buy and say. An economy more generally describes the activity of a people; it happens that one of the, if not
 _the_, most efficient and useful ways to describe an economy is through the dollar signs thrown around. One can't merely look at an economy as suppliers and producers, because it biases the observer into breaking it down into wants and needs. Rather than saying what a a person "wants", a more useful way to look at a product is to question who is "willing to buy", and who is "willing to allocate time to get, grow, or create it". An Oreo is at once one of the grossest confectionaries in the world, high in fat and sugar, and also readily available and satisfies the minimum of a person's craving for sweets. The fame and power of the product lays in its satisfying consumers at an immense volume. Which is pretty impressive.
 
 ChatGPT can create convincing email scams for people who need only click once. It can start disinformation campaigns for people who do not fact-check. It can write passable academic essays for people uninterested in writing. The reason these are considerable issues, as compared to life before ChatGPT, is that actors can do so 1) quickly and 2) with virtually no effort. The scale of the problem would be the issue.
@@ -105,7 +105,6 @@ As the airplane takes off, Chuck gazes out the window, a sense of peace in his h
 Fade to black.<br/><br/>
 The End.<br/><br/>
 </p>
-
 
 <button><strong onclick="document.getElementById('ted-3-script').classList.toggle('hide')">Write a script for Ted 3.</strong></button>
 
@@ -186,7 +185,6 @@ I've been taking care of him ever since he showed up here, lost and alone. I pro
 Ted turns to the old man, tears streaming down his face.<br/><br/>
 The End.<br/><br/>
 </p>
-
 
 <button><strong onclick="document.getElementById('harry-potter-fanfic').classList.toggle('hide')">Write Harry Potter fan fiction.</strong></button>
 

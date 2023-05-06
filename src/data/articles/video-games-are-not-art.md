@@ -1,10 +1,10 @@
 ---
-title: "No, video games are not art"
-slug: "/video-games-are-not-art"
-createdAt: "2021-05-08T17:29:00+0000"
-seoTitle: "No, video games are not art"
-seoDescription: "We demonstrate that video games are not art."
-tags: ["video-game"]
+title: 'No, video games are not art'
+slug: '/video-games-are-not-art'
+createdAt: '2021-05-08T17:29:00+0000'
+seoTitle: 'No, video games are not art'
+seoDescription: 'We demonstrate that video games are not art.'
+tags: ['video-game']
 ---
 
 Commercials are fascinating. On Valentine's Day Kay Jewelers ran <a href="https://www.youtube.com/watch?v=ffODZUQuGUo&feature=emb_logo" target="_blank" rel="noopener noreferrer">this commercial</a> to sell - of course - jewelry. The commercial begins with an acoustic ballad version of Cyndi Lauper's "Time After Time"; a man proposes to a woman with jewelry and she emphatically responds "Yes!" It proceeds to show the couple going through various life stages and at every stage of life there is more jewelry bought.

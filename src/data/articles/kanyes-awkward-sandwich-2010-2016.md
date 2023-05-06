@@ -1,11 +1,12 @@
 ---
 title: "Kanye's awkward sandwich (2010 - 2016)"
-slug: "/kanyes-awkward-albums-2010-to-2016"
-createdAt: "2021-06-08T03:23:59+0000"
+slug: '/kanyes-awkward-albums-2010-to-2016'
+createdAt: '2021-06-08T03:23:59+0000'
 seoTitle: "Kanye's awkward sandwitch (2010 - 2016)"
 seoDescription: "We discuss Kanye's awkward sandwich - My Beautiful Dark Twisted Fantasy, Yeezus, and The Life of Pablo."
-tags: ["music"]
+tags: ['music']
 ---
+
 Before I begin this discussion ("discussion" in several quotes), let's get this out of the way: Kanye West is a great musician, and who cares what he has said in public. The latter literally has no impact on the strength of his work.
 
 Which has been interesting. I basically grew up with Kanye - besides "808s & Heartbreak", my own adolescent and early adult life accompanied Kanye's "dark" period. Kanye is entirely capable of surprising us still, but I think in retrospect we'll see "My Beautiful Dark Twisted Fantasy" (2010), "Yeezus" (2013), and "The Life of Pablo" (2016) as encompassing an interesting, dark, and surreal period in his artistic career.
@@ -50,7 +51,7 @@ Funnily enough, 'til only a few days ago, I thought "Yeezus" and "The Life of Pa
 
 The album's lack of focus is not to its detriment, it's actually quite refreshing. Kanye by far is the most interesting part of his albums, so some of the thrill is seeing where he goes. The problem here is that he vacillates just as he did in "My Beautiful Dark Twisted Fantasy" - he wants to be aggressive and humble at the same time. Luckily most of the tracks are short, which is a huge improvement over "Fantasy".
 
-The tracks that stand out in my eyes are "Highlights", "Waves", "Real Friends", "Facts" and "Fade". There could stand to be less Ty Dolla Sign and Post Malone. If you really analyze those tracks, Kanye is the *least* in them; he is almost submerged in the instrumentals. I think he should have focused on that - that feeling that life is running away from you and things are kinda just *happening*, good and bad alike. A better fit is somewhere out there, but I'm thinking, conceptually, of The Stooges' "Funhouse", where Iggy Pop has lyrics, yowls, and then fades into the sludge. (Or Funkadelic's "Maggot Brain". I probably should have just started with "Maggot Brain".) Kanye shouldn't bother with morality - morality as a currency is valuable to the crowd, but it pretty much never makes any good music, in the case it serves as the foundation.
+The tracks that stand out in my eyes are "Highlights", "Waves", "Real Friends", "Facts" and "Fade". There could stand to be less Ty Dolla Sign and Post Malone. If you really analyze those tracks, Kanye is the _least_ in them; he is almost submerged in the instrumentals. I think he should have focused on that - that feeling that life is running away from you and things are kinda just _happening_, good and bad alike. A better fit is somewhere out there, but I'm thinking, conceptually, of The Stooges' "Funhouse", where Iggy Pop has lyrics, yowls, and then fades into the sludge. (Or Funkadelic's "Maggot Brain". I probably should have just started with "Maggot Brain".) Kanye shouldn't bother with morality - morality as a currency is valuable to the crowd, but it pretty much never makes any good music, in the case it serves as the foundation.
 
 ### Looking ahead
 

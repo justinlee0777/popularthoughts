@@ -1,12 +1,11 @@
 ---
-title: "The Collected Stories of Lydia Davis"
-slug: "/collected-stories-of-lydia-davis"
-createdAt: "2022-12-01T05:02:31+0000"
-seoTitle: "The Collected Stories of Lydia Davis"
-seoDescription: "We discuss the Collected Stories of Lydia Davis."
-tags: ["literature"]
+title: 'The Collected Stories of Lydia Davis'
+slug: '/collected-stories-of-lydia-davis'
+createdAt: '2022-12-01T05:02:31+0000'
+seoTitle: 'The Collected Stories of Lydia Davis'
+seoDescription: 'We discuss the Collected Stories of Lydia Davis.'
+tags: ['literature']
 ---
-
 
 "Story" starts "The Collected Stories of Lydia Davis". It is a rough start. The story of "Story" (1986) is that the narrator is concerned with the whereabouts of her ex-husband (I assume, given the narrator of other stories), has an argument concerning it, and then tries to understand the situation logically.
 
@@ -132,7 +131,7 @@ Though we disdain to admit it, Aristotle was correct in concluding that drama wa
 
 We receive a literary lesson from the French from none other than the sculpturist Rodin. In <a href="https://www.moma.org/collection/works/81718" target="_blank" rel="noopener noreferrer">his infamous nude of Balzac</a>, we learn that the truly great - writers, artists, thoughts, questions, phenomenon - cannot be humiliated; so, laugh away. Beckett's carving life into a grey and grotesque hollow did not remove life's beautiful qualities, it accentuated them. I believe Davis in her later phase inhabits this space. She doesn't play with plot or meaning, she plays with the language itself, manipulating the peculiar phonetic qualities of English itself, as we see in "Oral History (with Hiccups)" (2001):
 
-> \[...\] I will set up my machine d   ownstairs in the living room. We will put a bunck bed for the girls in my s   on's old room. It is a fair-sized room with one cl   oset and one window, and the bathroom is just down the h   all. \[...\] If we can't w   ork things out right away, they can always go to their r   oom and c   ool off until they're ready to come back out and be c   ivil. Excuse me.
+> \[...\] I will set up my machine d ownstairs in the living room. We will put a bunck bed for the girls in my s on's old room. It is a fair-sized room with one cl oset and one window, and the bathroom is just down the h all. \[...\] If we can't w ork things out right away, they can always go to their r oom and c ool off until they're ready to come back out and be c ivil. Excuse me.
 
 Whereas the French take their humor to be art and thus very seriously, there is something very American about taking nothing seriously, even our art and language.
 

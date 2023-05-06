@@ -1,10 +1,10 @@
 ---
 title: "Jay-Z's 4:44"
-slug: "/jay-z-4-44"
-createdAt: "2022-05-11T19:09:16+0000"
+slug: '/jay-z-4-44'
+createdAt: '2022-05-11T19:09:16+0000'
 seoTitle: "Jay-Z's 4:44"
-seoDescription: "We discuss Jay-Z's \"4:44\" which is, I daresay, a modern masterpiece?"
-tags: ["music"]
+seoDescription: 'We discuss Jay-Z''s "4:44" which is, I daresay, a modern masterpiece?'
+tags: ['music']
 ---
 
 The album begins with the self-destruction, or suicide, of our hero.
