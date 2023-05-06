@@ -1,9 +1,10 @@
+import './main-site.css';
+
 import React from 'react';
 
 import MainSiteContent from './main-site-content/main-site-content';
 import MainSiteListing from './main-site-listing/main-site-listing';
 import { MainSiteConfig, SEO } from './main-site.config';
-import './main-site.css';
 import NavBar from './nav-bar/nav-bar';
 import SEOComponent from './seo';
 
@@ -39,7 +40,7 @@ export default function MainSite({
 				className="main-site-listing"
 				entries={pageContext.entries}
 				filters={pageContext.filters}
-				location={location}
+				locationSearch={location.search}
 			/>
 		);
 	}
