@@ -1,7 +1,6 @@
 import './main-site-listing.css';
 
 import { compareDesc } from 'date-fns';
-import { Link } from 'gatsby';
 import React, { useEffect, useState } from 'react';
 
 import { MainSiteListingConfig } from './main-site-listing.config';
@@ -9,19 +8,13 @@ import { addWindowArrowKeyScrollListener } from 'utils/add-window-arrow-key-scro
 import ListingItem from 'shared/listing-item';
 
 export default function MainSiteListing({
-	locationSearch,
 	className,
 	entries,
 	filters,
 }: MainSiteListingConfig) {
 	const entryListingSelector = 'entry-listing';
 
-	const searchParams = new URLSearchParams(locationSearch);
-	const filterParam = searchParams.get('filter');
-
-	const [currentFilter, setCurrentFilter] = useState<Array<string>>(
-		filterParam?.split(',') ?? []
-	);
+	const [currentFilter, setCurrentFilter] = useState<Array<string>>([]);
 
 	const filterCriteria = new Set(currentFilter);
 
@@ -50,18 +43,16 @@ export default function MainSiteListing({
 		}
 
 		const tagCriteria = filter.tagCriteria;
-		const param = `?filter=${tagCriteria.join(',')}`;
 		const filterFn = () => setCurrentFilter(tagCriteria);
 
 		return (
-			<Link
+			<button
 				className={filterClass}
 				key={filter.value}
-				to={param}
 				onClick={filterFn}
 			>
 				{filter.label}
-			</Link>
+			</button>
 		);
 	});
 
@@ -71,9 +62,9 @@ export default function MainSiteListing({
 		const clearFn = () => setCurrentFilter([]);
 
 		clearFilters = (
-			<Link className="filter filter-clear" to="/" onClick={clearFn}>
+			<button className="filter filter-clear" onClick={clearFn}>
 				Clear
-			</Link>
+			</button>
 		);
 	}
 

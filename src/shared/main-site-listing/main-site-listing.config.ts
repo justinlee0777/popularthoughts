@@ -4,7 +4,5 @@ import { MainSiteConfig } from '../main-site.config';
 
 export interface MainSiteListingConfig extends Pick<MainSiteConfig, 'entries'> {
 	filters: Array<Filter>;
-	locationSearch: string;
-	currentFilter?: Array<string>;
 	className?: string;
 }

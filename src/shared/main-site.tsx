@@ -5,7 +5,6 @@ import React from 'react';
 import MainSiteContent from './main-site-content/main-site-content';
 import MainSiteListing from './main-site-listing/main-site-listing';
 import { MainSiteConfig, SEO } from './main-site.config';
-import NavBar from './nav-bar/nav-bar';
 import SEOComponent from './seo';
 
 function createSEO(seo: SEO): JSX.Element {
@@ -20,10 +19,8 @@ function createSEO(seo: SEO): JSX.Element {
 
 export default function MainSite({
 	pageContext,
-	location,
 }: {
 	pageContext: MainSiteConfig;
-	location: Location;
 }): JSX.Element {
 	let content: JSX.Element;
 
@@ -40,7 +37,6 @@ export default function MainSite({
 				className="main-site-listing"
 				entries={pageContext.entries}
 				filters={pageContext.filters}
-				locationSearch={location.search}
 			/>
 		);
 	}
