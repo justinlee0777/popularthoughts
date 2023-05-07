@@ -50,7 +50,6 @@ export default function MainSite({
 	return (
 		<div className="main-site" lang="en-US">
 			{seo}
-			<NavBar className="nav-bar"></NavBar>
 			{content}
 		</div>
 	);
