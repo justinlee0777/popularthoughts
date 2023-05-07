@@ -1,11 +1,12 @@
 import './main-site-listing.css';
 
 import { compareDesc } from 'date-fns';
-import React, { useEffect, useState } from 'react';
+import React, { useEffect, useRef, useState } from 'react';
 
 import { MainSiteListingConfig } from './main-site-listing.config';
 import { addWindowArrowKeyScrollListener } from 'utils/add-window-arrow-key-scroll-listener.function';
 import ListingItem from 'shared/listing-item';
+import infiniteScroll from 'utils/infinite-scroll.function';
 
 export default function MainSiteListing({
 	className,
@@ -13,13 +14,36 @@ export default function MainSiteListing({
 	filters,
 }: MainSiteListingConfig) {
 	const entryListingSelector = 'entry-listing';
+	const initialEntriesShown = 10;
+
+	const listingElementRef = useRef<HTMLDivElement>(null);
 
 	const [currentFilter, setCurrentFilter] = useState<Array<string>>([]);
+	const [entriesShown, setEntriesShown] = useState(initialEntriesShown);
 
 	const filterCriteria = new Set(currentFilter);
 
 	useEffect(() => {
-		return addWindowArrowKeyScrollListener(`.${entryListingSelector}`);
+		if (listingElementRef) {
+			const destroyArrowKeyListener = addWindowArrowKeyScrollListener(
+				`.${entryListingSelector}`
+			);
+			const destroyInfiniteScroll = infiniteScroll(
+				listingElementRef.current,
+				() =>
+					setEntriesShown(
+						Math.min(
+							entriesShown + initialEntriesShown,
+							entries.length
+						)
+					)
+			);
+
+			return () => {
+				destroyArrowKeyListener();
+				destroyInfiniteScroll();
+			};
+		}
 	});
 
 	const renderedEntries = [...entries]
@@ -30,7 +54,8 @@ export default function MainSiteListing({
 		)
 		.sort((e1, e2) => {
 			return compareDesc(new Date(e1.createdAt), new Date(e2.createdAt));
-		});
+		})
+		.slice(0, entriesShown);
 	const entryElements = renderedEntries.map(e => (
 		<ListingItem key={e.slug} entry={e} />
 	));
@@ -75,7 +100,10 @@ export default function MainSiteListing({
 				{clearFilters}
 				{filterElements}
 			</div>
-			<div className={`${entryListingSelector} ${className}`}>
+			<div
+				className={`${entryListingSelector} ${className}`}
+				ref={listingElementRef}
+			>
 				{entryElements}
 			</div>
 		</React.Fragment>
