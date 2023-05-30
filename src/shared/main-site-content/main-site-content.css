@@ -7,10 +7,23 @@
 .back-link {
     box-sizing: border-box;
     display: inline-block;
+    flex: 0 0 40px;
     padding: 12px;
-    width: 40px;
 }
 
 .content-header {
+    align-items: center;
     background: #FAFAFA;
+    display: flex;
+    flex-direction: row;
+}
+
+.toggle-text {
+    font-size: 12px;
+    margin-left: auto;
+    margin-right: 18px;
+}
+
+.toggle {
+    margin-right: 18px;
 }

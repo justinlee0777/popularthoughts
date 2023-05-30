@@ -1,0 +1,33 @@
+.switch {
+    align-items: center;
+    background: white;
+    border-color: black;
+    border-radius: 24px;
+    border-style: solid;
+    display: inline-flex;
+    height: 14px;
+    position: relative;
+    transition: 0.333s filter;
+    width: 35px;
+}
+
+.switchKnob {
+    background: white;
+    border-color: black;
+    border-radius: 50%;
+    border-style: solid;
+    box-sizing: border-box;
+    height: 21px;
+    min-width: 21px;
+    transform: translateX(-21px);
+    transition: transform 0.333s;
+}
+
+.switchActive {
+    background: black;
+}
+
+.switchActive .switchKnob {
+    background: black;
+    transform: translateX(14px);
+}
