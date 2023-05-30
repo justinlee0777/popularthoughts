@@ -1,13 +1,14 @@
 import './main-site-content.css';
 
 import { Link } from 'gatsby';
-import React, { useState } from 'react';
+import React, { useEffect, useState } from 'react';
 
 import Switch from 'shared/switch/switch';
 
 import { addWindowArrowKeyScrollListener } from '../../utils/add-window-arrow-key-scroll-listener.function';
 import ArticleContent from '../article-content/article-content';
 import { MainSiteContentConfig } from './main-site-content.config';
+import loadBookerlyFont from 'functions/load-bookerly-font.function';
 
 export default function MainSiteContent(
 	config: MainSiteContentConfig
@@ -16,6 +17,7 @@ export default function MainSiteContent(
 	const className = `${mainSiteContentSelector} ${config.className}`;
 
 	const [showBook, setShowBook] = useState(false);
+	const [bookerlyLoaded, setBookerlyLoaded] = useState(false);
 
 	let content: JSX.Element;
 
@@ -24,14 +26,23 @@ export default function MainSiteContent(
 			<ArticleContent
 				article={config.article}
 				showBook={showBook}
+				bookerlyLoaded={bookerlyLoaded}
 				className="article"
 			/>
 		);
 	}
 
-	React.useEffect(function setUpScrollListener(): () => void {
+	useEffect(function setUpScrollListener(): () => void {
 		return addWindowArrowKeyScrollListener(`.${mainSiteContentSelector}`);
-	});
+	}, []);
+
+	useEffect(() => {
+		(async function () {
+			await loadBookerlyFont();
+
+			setBookerlyLoaded(true);
+		})();
+	}, []);
 
 	return (
 		<React.Fragment>

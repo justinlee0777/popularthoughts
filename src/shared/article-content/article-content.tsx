@@ -17,14 +17,17 @@ import YoutubeVideo from '../youtube-video/youtube-video';
 import { ArticleContentConfig } from './article-content.config';
 import './article-content.css';
 
-function createFlexibleBook(text: string): FlexibleBookElement {
+function createFlexibleBook(
+	text: string,
+	bookerlyLoaded: boolean
+): FlexibleBookElement {
 	return FlexibleBookComponent(
 		{
 			text,
 			containerStyle: {
-				computedFontFamily: 'Arial',
-				computedFontSize: '16px',
-				lineHeight: 32,
+				computedFontFamily: bookerlyLoaded ? 'Bookerly' : 'Arial',
+				computedFontSize: '14px',
+				lineHeight: 28,
 				padding: {
 					top: 36,
 					right: 18,
@@ -61,24 +64,26 @@ function createFlexibleBook(text: string): FlexibleBookElement {
 export default function ArticleContent(
 	config: ArticleContentConfig
 ): JSX.Element {
+	const { article, showBook, bookerlyLoaded } = config;
+
 	const className = `article-content ${config.className}`;
 	const renderedHtmlRef = useRef<HTMLDivElement>(null);
 
 	useBook(
 		renderedHtmlRef,
 		() =>
-			config.showBook
-				? createFlexibleBook(config.article.htmlString)
+			showBook
+				? createFlexibleBook(article.htmlString, bookerlyLoaded)
 				: null,
-		[config, config.showBook]
+		[article, showBook, bookerlyLoaded]
 	);
 
 	let youtube: JSX.Element;
 	let audio: JSX.Element;
 	let video: JSX.Element;
 
-	if (config.article.video.youtubeUrl) {
-		const youtubeConfig = config.article.video;
+	if (article.video.youtubeUrl) {
+		const youtubeConfig = article.video;
 
 		youtube = (
 			<YoutubeVideo
@@ -89,17 +94,17 @@ export default function ArticleContent(
 		);
 	}
 
-	if (config.article.audioUrl) {
+	if (article.audioUrl) {
 		audio = (
 			<AudioContent
 				className="audio-content"
-				audioUrl={config.article.audioUrl}
+				audioUrl={article.audioUrl}
 			/>
 		);
 	}
 
-	if (config.article.video.videoUrl) {
-		const videoConfig = config.article.video;
+	if (article.video.videoUrl) {
+		const videoConfig = article.video;
 
 		video = (
 			<VideoContent
@@ -112,19 +117,19 @@ export default function ArticleContent(
 
 	return (
 		<div className={className}>
-			<h1 className="article-header">{config.article.title}</h1>
-			<time className="date-time" dateTime={config.article.createdAt}>
-				{calculateDateString(config.article.createdAt)}
+			<h1 className="article-header">{article.title}</h1>
+			<time className="date-time" dateTime={article.createdAt}>
+				{calculateDateString(article.createdAt)}
 			</time>
 			<div className="divider" />
 			{youtube}
 			{audio}
 			{video}
 			<div className="rendered-html" ref={renderedHtmlRef}>
-				{!config.showBook && (
+				{!showBook && (
 					<div
 						dangerouslySetInnerHTML={{
-							__html: config.article.htmlString,
+							__html: article.htmlString,
 						}}
 					/>
 				)}
