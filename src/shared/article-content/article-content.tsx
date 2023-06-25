@@ -1,11 +1,16 @@
 import React, { useRef } from 'react';
+
+import { NewlineTransformer } from 'prospero/web/transformers';
+import { FlexibleBookComponent } from 'prospero/web/flexible-book';
 import {
-	DefaultBookThemeClassName,
-	DoublePageBookPreset,
-	FlexibleBookComponent,
-	NewlineProcessor,
-	SinglePageBookPreset,
-} from 'prospero/web';
+	listenToClickEvents,
+	listenToKeyboardEvents,
+} from 'prospero/web/book/listeners';
+import { DefaultBookTheme } from 'prospero/web/book/theming';
+import {
+	DoublePageBookAnimation,
+	SinglePageBookAnimation,
+} from 'prospero/web/book/animations';
 import { useBook } from 'prospero/web/react';
 import { FlexibleBookElement } from 'prospero/types';
 
@@ -24,7 +29,7 @@ function createFlexibleBook(
 	return FlexibleBookComponent(
 		{
 			text,
-			containerStyle: {
+			pageStyles: {
 				computedFontFamily: bookerlyLoaded ? 'Bookerly' : 'Arial',
 				computedFontSize: '14px',
 				lineHeight: 28,
@@ -36,18 +41,30 @@ function createFlexibleBook(
 				},
 			},
 			mediaQueryList: [
-				SinglePageBookPreset(),
+				{
+					pagesShown: 1,
+					listeners: [listenToClickEvents],
+					theme: DefaultBookTheme,
+					animation: new SinglePageBookAnimation(),
+				},
 				{
 					pattern: {
 						minWidth: 800,
 					},
-					config: DoublePageBookPreset(),
+					config: {
+						pagesShown: 2,
+						listeners: [
+							listenToClickEvents,
+							listenToKeyboardEvents,
+						],
+						theme: DefaultBookTheme,
+						animation: new DoublePageBookAnimation(),
+					},
 				},
 			],
 		},
 		{
-			bookClassNames: [DefaultBookThemeClassName],
-			createProcessors: () => [new NewlineProcessor()],
+			transformers: [new NewlineTransformer()],
 			forHTML: true,
 		},
 		{
