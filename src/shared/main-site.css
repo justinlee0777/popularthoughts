@@ -6,9 +6,22 @@
 
 .main-site {
     display: grid;
+    font-size: 16px;
     height: 100vh;
     grid-template-rows: 0fr 1fr;
     overflow: hidden;
+}
+
+.font-picker-spinner {
+    right: 8px;
+    position: absolute;
+    top: 0;
+}
+
+@media (max-width: 600px) {
+    .main-site {
+        font-size: 12px;
+    }
 }
 
 .main-site-listing {

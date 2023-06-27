@@ -6,14 +6,12 @@
   "license": "0BSD",
   "scripts": {
     "build": "gatsby clean && gatsby build && rm -f public.zip && zip -r public public/*",
-    "develop": "gatsby clean && npm run lint:fix && gatsby develop",
+    "develop": "gatsby clean && gatsby develop",
     "format": "prettier --write \"**/*.{js,jsx,ts,tsx,json,md}\"",
     "start": "npm run develop",
     "serve": "gatsby serve",
     "clean": "gatsby clean",
-    "test": "echo \"Write tests! -> https://gatsby.dev/unit-testing\" && exit 1",
-    "lint": "eslint --ignore-path .gitignore . --ext ts --ext tsx --ext js --ext jsx",
-    "lint:fix": "eslint --fix --ignore-path .gitignore . --ext ts --ext tsx --ext js --ext jsx"
+    "test": "echo \"Write tests! -> https://gatsby.dev/unit-testing\" && exit 1"
   },
   "dependencies": {
     "classnames": "^2.3.2",
@@ -27,12 +25,6 @@
   },
   "devDependencies": {
     "@types/css-font-loading-module": "^0.0.8",
-    "@typescript-eslint/eslint-plugin": "^2.34.0",
-    "@typescript-eslint/parser": "^2.34.0",
-    "eslint": "^7.16.0",
-    "eslint-config-prettier": "^7.1.0",
-    "eslint-plugin-prettier": "^3.3.0",
-    "eslint-plugin-react": "^7.21.5",
     "gatsby-plugin-react-helmet": "^5.4.0",
     "gatsby-plugin-resolve-src": "^2.1.0",
     "gatsby-plugin-ts": "^3.1.0",

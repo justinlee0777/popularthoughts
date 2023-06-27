@@ -1,11 +1,16 @@
 import './main-site.css';
 
-import React from 'react';
+import React, { useMemo, useState } from 'react';
+
+import downloadFont from 'functions/load-font.function';
 
 import MainSiteContent from './main-site-content/main-site-content';
 import MainSiteListing from './main-site-listing/main-site-listing';
 import { MainSiteConfig, SEO } from './main-site.config';
 import SEOComponent from './seo';
+import FontPicker from './font-picker/font-picker';
+import Font from './font-picker/font.model';
+import Spinner from './spinner/spinner';
 
 function createSEO(seo: SEO): JSX.Element {
 	return (
@@ -22,12 +27,55 @@ export default function MainSite({
 }: {
 	pageContext: MainSiteConfig;
 }): JSX.Element {
+	const fonts = useMemo(
+		() => [
+			{
+				family: 'Arial',
+			},
+			{
+				family: 'Bookerly',
+				url: '/Bookerly-Regular.ttf',
+			},
+			{
+				family: 'Helvetica',
+			},
+		],
+		[]
+	);
+
+	const [font, setFont] = useState<Font>(fonts[0]);
+
+	const [fontLoading, setFontLoading] = useState(false);
+
+	const loadFont = useMemo(
+		() => async (selectedFont: Font) => {
+			if (selectedFont.url) {
+				try {
+					setFontLoading(true);
+
+					await downloadFont(
+						selectedFont.family,
+						selectedFont.url,
+						selectedFont.descriptors
+					);
+				} finally {
+					setFontLoading(false);
+					setFont(selectedFont);
+				}
+			} else {
+				setFont(selectedFont);
+			}
+		},
+		[]
+	);
+
 	let content: JSX.Element;
 
 	if (pageContext.article) {
 		content = (
 			<MainSiteContent
 				className="content"
+				fontFamily={font.family}
 				article={pageContext.article}
 			></MainSiteContent>
 		);
@@ -44,8 +92,19 @@ export default function MainSite({
 	const seo = createSEO(pageContext.seo);
 
 	return (
-		<div className="main-site" lang="en-US">
+		<div
+			className="main-site"
+			lang="en-US"
+			style={{ fontFamily: font.family }}
+		>
 			{seo}
+			<FontPicker
+				fonts={fonts}
+				selectedFont={font.family}
+				onFontSelect={loadFont}
+			>
+				{fontLoading && <Spinner className="font-picker-spinner" />}
+			</FontPicker>
 			{content}
 		</div>
 	);

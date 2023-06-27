@@ -2,5 +2,4 @@ import { MainSiteContentConfig } from 'shared/main-site-content/main-site-conten
 
 export type ArticleContentConfig = MainSiteContentConfig & {
 	showBook: boolean;
-	bookerlyLoaded: boolean;
 };

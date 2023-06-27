@@ -1,0 +1,7 @@
+.font-picker {
+    display: inline-flex;
+    font-size: .83em;
+    margin-left: auto;
+    position: relative;
+    text-transform: capitalize;
+}

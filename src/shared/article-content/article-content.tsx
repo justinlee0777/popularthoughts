@@ -24,13 +24,13 @@ import './article-content.css';
 
 function createFlexibleBook(
 	text: string,
-	bookerlyLoaded: boolean
+	fontFamily: string
 ): FlexibleBookElement {
 	return FlexibleBookComponent(
 		{
 			text,
 			pageStyles: {
-				computedFontFamily: bookerlyLoaded ? 'Bookerly' : 'Arial',
+				computedFontFamily: fontFamily,
 				computedFontSize: '14px',
 				lineHeight: 28,
 				padding: {
@@ -81,7 +81,7 @@ function createFlexibleBook(
 export default function ArticleContent(
 	config: ArticleContentConfig
 ): JSX.Element {
-	const { article, showBook, bookerlyLoaded } = config;
+	const { article, showBook, fontFamily } = config;
 
 	const className = `article-content ${config.className}`;
 	const renderedHtmlRef = useRef<HTMLDivElement>(null);
@@ -90,9 +90,9 @@ export default function ArticleContent(
 		renderedHtmlRef,
 		() =>
 			showBook
-				? createFlexibleBook(article.htmlString, bookerlyLoaded)
+				? createFlexibleBook(article.htmlString, fontFamily)
 				: null,
-		[article, showBook, bookerlyLoaded]
+		[article, showBook, fontFamily]
 	);
 
 	let youtube: JSX.Element;
