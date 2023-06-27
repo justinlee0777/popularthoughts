@@ -27,6 +27,7 @@ export default function MainSite({
 }: {
 	pageContext: MainSiteConfig;
 }): JSX.Element {
+	const fontStorageKey = useMemo(() => 'saved-font', []);
 	const fonts = useMemo(
 		() => [
 			{
@@ -56,7 +57,13 @@ export default function MainSite({
 		[]
 	);
 
-	const [font, setFont] = useState<Font>(fonts[0]);
+	const startingFont = useMemo(() => {
+		const fontFamily = localStorage.getItem(fontStorageKey);
+
+		return fonts.find(font => font.family === fontFamily) ?? fonts[0];
+	}, [fontStorageKey, fonts]);
+
+	const [font, setFont] = useState<Font>(startingFont);
 
 	const [fontLoading, setFontLoading] = useState(false);
 
@@ -74,9 +81,11 @@ export default function MainSite({
 				} finally {
 					setFontLoading(false);
 					setFont(selectedFont);
+					localStorage.setItem(fontStorageKey, selectedFont.family);
 				}
 			} else {
 				setFont(selectedFont);
+				localStorage.setItem(fontStorageKey, selectedFont.family);
 			}
 		},
 		[]
