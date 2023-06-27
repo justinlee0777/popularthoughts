@@ -37,7 +37,20 @@ export default function MainSite({
 				url: '/Bookerly-Regular.ttf',
 			},
 			{
+				family: 'EB Garamond',
+				url:
+					'https://fonts.gstatic.com/s/ebgaramond/v26/SlGDmQSNjdsmc35JDF1K5E55YMjF_7DPuGi-6_RkBI9_WamXgHlI.woff2',
+			},
+			{
 				family: 'Helvetica',
+			},
+			{
+				family: 'Roboto',
+				url:
+					'https://fonts.gstatic.com/s/roboto/v30/KFOmCnqEu92Fr1Mu7mxKKTU1Kvnz.woff2',
+			},
+			{
+				family: 'Times New Roman',
 			},
 		],
 		[]
