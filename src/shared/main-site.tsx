@@ -1,6 +1,6 @@
 import './main-site.css';
 
-import React, { useMemo, useState } from 'react';
+import React, { useEffect, useMemo, useState } from 'react';
 
 import downloadFont from 'functions/load-font.function';
 
@@ -57,13 +57,7 @@ export default function MainSite({
 		[]
 	);
 
-	const startingFont = useMemo(() => {
-		const fontFamily = localStorage.getItem(fontStorageKey);
-
-		return fonts.find(font => font.family === fontFamily) ?? fonts[0];
-	}, [fontStorageKey, fonts]);
-
-	const [font, setFont] = useState<Font>(startingFont);
+	const [font, setFont] = useState<Font>(fonts[0]);
 
 	const [fontLoading, setFontLoading] = useState(false);
 
@@ -90,6 +84,15 @@ export default function MainSite({
 		},
 		[]
 	);
+
+	useEffect(() => {
+		const fontFamily = localStorage.getItem(fontStorageKey);
+
+		const savedFont =
+			fonts.find(font => font.family === fontFamily) ?? fonts[0];
+
+		loadFont(savedFont);
+	}, [fonts]);
 
 	let content: JSX.Element;
 
