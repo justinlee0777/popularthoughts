@@ -3,11 +3,9 @@ export default async function loadFont(
 	url: string,
 	descriptors?: FontFaceDescriptors
 ) {
-	if (!document.fonts.check(`12px ${family}`)) {
-		const fontFace = new FontFace(family, `url(${url})`, descriptors);
+	const fontFace = new FontFace(family, `url(${url})`, descriptors);
 
-		document.fonts.add(fontFace);
+	document.fonts.add(fontFace);
 
-		await fontFace.load();
-	}
+	await fontFace.load();
 }
