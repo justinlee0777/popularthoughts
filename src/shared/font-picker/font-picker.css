@@ -1,7 +1,13 @@
 .font-picker {
     display: inline-flex;
     font-size: .83em;
+    height: 3.5em;
     margin-left: auto;
+    overflow-x: auto;
     position: relative;
     text-transform: capitalize;
+}
+
+.font-picker-item {
+    flex: none;
 }

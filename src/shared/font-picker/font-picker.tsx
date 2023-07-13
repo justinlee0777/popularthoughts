@@ -17,7 +17,7 @@ export default function FontPicker({
 				const radioId = `radio-${font.family};`;
 
 				return (
-					<div key={font.family}>
+					<div className="font-picker-item" key={font.family}>
 						<input
 							type="radio"
 							id={radioId}
