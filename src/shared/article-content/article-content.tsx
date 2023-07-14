@@ -70,7 +70,7 @@ function createFlexibleBook(
 		{
 			styles: {
 				width: '80vw',
-				height: '90vh',
+				height: '80vh',
 				maxWidth: '1200px',
 				margin: 'auto',
 			},

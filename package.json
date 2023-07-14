@@ -18,7 +18,7 @@
     "date-fns": "^2.16.1",
     "gatsby": "^4.21.1",
     "gatsby-plugin-graphql-codegen": "^3.1.0",
-    "prospero": "^0.1.7",
+    "prospero": "^0.1.8",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "react-helmet": "^6.1.0"
