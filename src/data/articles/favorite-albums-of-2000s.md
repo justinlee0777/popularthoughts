@@ -17,6 +17,8 @@ There's no use in commenting on it, honestly. I'm a bit of a Taoist at heart, so
 
 Anyway, on this 2000s list: the idea began in 2022, and so I felt it didn't hurt to finish it off, as the list had cooled substantially but also raised some interesting questions. Same rules as <a href="/favorite-albums-2010s">last time</a>: whatever I listen to the most, wins.
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?si=7WNt1QmhlVzffFbp&amp;list=PLhDzA_SHzv9FvGrtslPyVUlCIHq3kwKat" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 ### 2000
 
 All anyone says of Luomo's "Vocalcity" are the clicks and cuts, but rarely does anyone mention the complete frigidity, and sudden spots of warmth, that come from his approach. The beat that holds "Class" together is ironically the same that characterizes the heartless beat of the Holter monitor, yet those clicks and cuts give the effect of ice melting and breaking apart by their planes of cleavage. It is the sound of the guarded soul slowly thawing, revealing itself to intimacy, in spite of robotic refrains of "There's nothing in the world, that you can do for me" and "Nothing to do, always can do", such that, when we arrive to "Synkro", we are submerged underneath the water, which no longer feels so frozen, as a result of our feet moving. The album culminates with the refrain in "Tessio": "I guess you turn me on / when you're gone; / for me, it didn't go wrong, / we just made another song," admitting finally the human warmth that was lurking behind the music. I think Vladislav Delay himself dislikes/is indifferent to the album because it seems shallow to him, a reminder of the vain clubbing in the early 2000s. To him I retort: Junichiro Tanizaki said, "Elegance is frigid." In form and in execution, "Vocalcity" is the epitome of elegance. It's fine if people, furthermore, dance to it.
@@ -49,6 +51,18 @@ When is Missy Elliott coming back? We're waiting to get our freak on. I'm not as
 
 During my years in college I enjoyed resting on the hill beside the library and listening to albums, beginning to end, singing them out loud when no one was around. (It's sad how such pleasures can't be had again, in my older years.) "Yankee Hotel Foxtrot" was my favorite to sing, just as the sun vanished below the horizon. Of the indie albums of the last two decades, it still impresses as the most sincere, even when it's at its most ambitious. It's never juvenile, never backward-looking, and it has that sienna burn all over it from Tweedy's struggles in Chicago.
 
+---
+
+(09/14/2023)
+
+It's weird, because something like "Jesus, Etc." would seem puerile in the voice of a contemporary singer. With Tweedy, the singer of "Summerteeth", who sang of beating and murdering women, we know it's a part of his complicated fantasy. No need to look backwards in history, that quality is in his voice: he's no child, but he wants to believe. It must come from all those novels he was reading at the time, particularly William Gass's "In the Heart of the Heart of the Country".
+
+And, on re-analysis, one of the strengths of "Yankee Hotel Foxtrot" comes from its novelistic approach. No, not the novels the New Yorker reviews, but novels that stand distant from hashtags and the stock market, novels that take place in another world i.e. the writer's body and soul. Are the lyrics occasionally precious? Yes, but they're not clever, as in, they're not more clever than the audience. "I want a good life, with a nose for things: / fresh wind and bright skies, to enjoy my suffering." He's a sad sack for sure, but at least he admits it.
+
+When I wrote this initially I thought, Well, what hasn't been said of "Yankee Hotel Foxtrot"? The answer is, Everything. I kept looking at this entry and thought only of things that could be added. But we're leaving it at this, because it's already too much of a distraction.
+
+---
+
 "Geogaddi" is such fascinating music, isn't it? Creepy and catchy.
 
 ### 2003
@@ -56,6 +70,24 @@ During my years in college I enjoyed resting on the hill beside the library and 
 "If you don't know by now... / Take me down... / Infatuation..." Those words have haunted me over and over again. The violence and madness behind The Rapture's "Echoes" are endlessly fascinating, especially as dance music. I'm always drawn by the intensity Jenner sings lines such as, "I called you on the telephone, cuz I was lonely," though one wonders if he is only acting out ANOHNI's pain. If so, good act. He and Vito Roccoforte's drums play a game where they try to be louder than the other, drilling the beat and Jenner's cries into your brain; Gabriel Andruzzi's keyboards relate the human drama. "I can't believe she came here today and took me away, took me away" is juvenile in its face, until Jenner grinds his teeth crying "And if you focus very hard / the train will come out for you at last, / and if you're stuck out in the yard...", his mouth coming out in a froth. The next song, appropriately, is the muted sob, "Open Up Your Heart": "When you're sad, and lonely, / and your mind sees you only, / take a chance, you can fight it, / open up your heart..." sung to someone unknown, himself or a loved one. And we're not even talking about the heart attack, "House of Jealous Lovers".
 
 The Wrens' "Meadowlands" is just such a huge bummer. Great album.
+
+---
+
+(09/14/2023)
+(Edit 1)
+
+Well shit, I forgot about Ricardo Villalobos' "Alcachofa". I bet my lack of memory comes from it not being in any streaming service - though I do own a cracked CD of it, unfortunately no player at the moment.
+
+I was waiting in line at a Target when the recollection came upon me, as I was staring at the sterile white light, reflected off the sterile white walls and tiling. It was "Dexter", that murky, ominous track, which woke me from my trance. Because I like to live in an interesting world, and "Dexter" is as much an invitation for the occult as Mort Garson's "Lucifer" is. Which is to say, the darkness of things exists everywhere, even in a mega-sized retail store. No one really knows the history of the person in front or behind them, nor what goes on after hours or behind closed doors.
+
+"Alcachofa", and generally Villalobos' oeuvre, is an invitation to that mystery. "Easy Lee" comes almost at a shock to those looking for a typical dance record. We're not really sure what lurks behind the gasps of silence in Villalobos' music. Where there are vocal tracks, as in "I Try to Live (Can I Live)" and "What You Say Is More Than I Can Say", we feel no life in them, as if they're repeated by ghosts that haunt the periphery of our consciousness.
+
+Um. I actually don't know if this changes things. One, "Alcachofa" is so long. I need to think about it - which would mean, listening to it a lot, which would mean finding it somewhere. And then revisiting other 2003 albums. I won't write anything more about it here, maybe in another article.
+
+(Edit 2)
+Crap. I think I have to redo this. For a different reason.
+
+---
 
 ### 2004
 
