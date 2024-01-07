@@ -15,15 +15,15 @@ I've given myself the task of writing about one song a week for 2024 because, we
 
 I heard this song literally in the beginning of the new year and have been playing it on repeat for days. It's even more amusing that I didn't know what a Bananarama was.
 
-First off, it's very funny that the Bananaramas, through Sara Dallin, have any adjacency to the Sex Pistols. What a British detail: as overeducated and logorrheic they are, the Brits, too, find it necessary to show how brainless they are.
+First off, it's very funny that the Bananaramas, through Sara Dallin, have any adjacency to the Sex Pistols. What a British detail: as overeducated and logorrheic as they are, the Brits, too, find it necessary to show how brainless they are.
 
-And you can call "Love in the First Degree" that: Simple. More harshly, Stupid. The song is a two-minute analogy on how being in love is like being in prison. Purportedly, I assume none of the 'Ramas have ever been to prison. It starts: "Last night, I was dreaming / I was locked in a prison cell. / When I woke up, I was screaming / calling out your name." It's a waste of letters to call it cliché.
+And you can call "Love in the First Degree" that: Simple. More harshly, Stupid. The song is a two-minute analogy on how being in love is like being in prison. Purportedly, I assume none of the 'Ramas have ever been in prison. It starts: "Last night, I was dreaming / I was locked in a prison cell. / When I woke up, I was screaming / calling out your name." It's a waste of letters to call it cliché.
 
 But let's not roll our eyes too soon and examine those lines again. We're momentarily charmed by the absurd imagery, which follows those opening lines: "And the judge and the jury, / they all put the blame on me; / they didn't care for my story, / they wouldn't hear my plea."
 
 I don't know if I'm the only person in the world lured by the trick, but it seems to serve the foundation of a lot of pop: wrap the listener into the singer's sob story, and, in the second verse, expound on the drama: "Some day, I believe it: / you will come to my rescue, / and unchain the heart you're keeping, / and let me start anew." It's the ideal structure for a pop song: you don't want to begin with pouting, you want to, as it were, lay the foundation for the human drama, and then reveal the personal part of it. You want to explain, you want to demonstrate, and _then_ you can exaggerate. "Mamma Mia", as we know, is written in the exact same way.
 
-I also want to point out razor-tight the lyrics out, with each line no longer than ten syllables. Each verse begins with just two syllables: "Last night", "Some day". The first verse is exactly two sentences, and the second is one rolling sentence, because it is complicating the thought. This keeps the song quick and punchy, as if it actually and naturally were an expression of desperation. The fact that it begins with a dream enhances the feeling of madness.
+I also want to point out how razor-tight the lyrics are, with each line no longer than ten syllables. Each verse begins with just two syllables: "Last night", "Some day". The first verse is exactly two sentences, and the second is one rolling sentence, because it is complicating the thought. This keeps the song quick and punchy, as if it actually and naturally were an expression of desperation. The fact that it begins with a dream enhances the feeling of madness.
 
 Which is what characterizes the song: it's secretly the blues. It's not the ecstasy of love, it's about the torment. It, hilariously, has commonality with Aretha Franklin's "Spirit in the Dark": hear "Oh No Not My Baby". I find the melancholy, which is tongue-in-cheek, very funny, and, when I'm in the mind to take the song seriously, quite sad.
 
