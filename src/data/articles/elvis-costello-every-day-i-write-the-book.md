@@ -13,7 +13,7 @@ I've given myself the task of writing about one song a week for 2024 because, we
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/V1d4r9awjKE?si=9I9xnM64qeyGYFAh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-[Robert Christgau](https://www.robertchristgau.com/get_artist.php?name=Elvis+Costello+and+the+Attractions) said it was a song "you like so much you think you understand \[it\]". [Elvis](https://en.wikipedia.org/wiki/Everyday_I_Write_the_Book#cite_note-more-2) - no, not the other one - himself said it "was a bad Smokey Robinson song". [Later](https://www.telegraph.co.uk/culture/music/rockandpopfeatures/5540628/Elvis-Costello-interview.html), "I don't care much for the record".
+[Robert Christgau](https://www.robertchristgau.com/get_artist.php?name=Elvis+Costello+and+the+Attractions) said it was a song "you like so much you think you understand \[it\]". [Elvis](http://morethings.com/music/costello/elvis_costello_right_spectacle.htm) - no, not the other one - himself said it "was a bad Smokey Robinson song". [Later](https://www.telegraph.co.uk/culture/music/rockandpopfeatures/5540628/Elvis-Costello-interview.html), "I don't care much for the record".
 
 They're more-or-less right: lyrically it's a dumb song. "Don't tell me you don't know what love is, / when you're old enough to know better, / when you find strange hands in your sweater"? "When your dreamboat turns out to be a footnote"? We remember that Christgau called Costello's songs "precious lyrically, vocally, and musically, and gnomic for no reason at all - in short, pretentious." Ouch.
 
