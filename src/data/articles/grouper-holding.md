@@ -3,7 +3,7 @@ title: "Grouper's Holding"
 slug: '/grouper-holding'
 createdAt: '2024-07-15T04:12:21+0000'
 seoTitle: "Grouper's Holding"
-seoDescription: "For 2024, I'll talk about a song a day: this week, we'll talk about an aria from Grouper's Holding."
+seoDescription: "For 2024, I'll talk about a song a day: this week, we'll talk about Grouper's Holding."
 tags: ['music']
 ---
 
