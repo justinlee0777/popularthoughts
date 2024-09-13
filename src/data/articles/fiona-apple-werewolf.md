@@ -13,6 +13,8 @@ I've given myself the task of writing about one song a week for 2024 because, we
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/C3tH1ZsrRnU?si=At-CwAbk_QyXBHZI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
+Happy birthday, Fiona.
+
 There are songs more worthy of being written about on "Idler Wheel". (That's what I'm calling it: "Idler Wheel". Sorry Fiona.) "Daredevil" is the best all-around song, particularly that great verse beginning with "SEEK, ME, OUT!" "Periphery" is of intense psychological interest. "Anything We Want" is brutally honest. And then there's the steam of "Hot Knife".
 
 But "Werewolf" is the one I heard first. I truly don't remember what my first impression of it was. I do recall that I wrote in the style of "Werewolf" after the first few listens. That was the age when I was poring through Everyman Library's compilation of Kafka's stories.
