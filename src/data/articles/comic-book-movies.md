@@ -1,6 +1,6 @@
 ---
 title: 'Comic book films are not art'
-slug: '/comic-book-films-not-art'
+slug: 'comic-book-films-not-art'
 createdAt: '2022-01-29T23:14:42+0000'
 seoTitle: 'Comic book films are not art'
 seoDescription: 'I have an argument for why comic book movies fundamentally cannot be art.'

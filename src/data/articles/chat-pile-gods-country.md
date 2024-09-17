@@ -1,6 +1,6 @@
 ---
 title: "Chat Pile's God's Country"
-slug: '/chat-pile-gods-country'
+slug: 'chat-pile-gods-country'
 createdAt: '2022-09-20T15:43:41+0000'
 seoTitle: "Chat Pile's God's Country"
 seoDescription: 'We discuss a little Chat Pile''s "God''s Country".'

@@ -1,9 +1,8 @@
-import './main-site.css';
+import styles from './main-site.module.css';
 
 import React, { useEffect, useMemo, useState } from 'react';
 
-import downloadFont from 'functions/load-font.function';
-
+import downloadFont from '../functions/load-font.function';
 import MainSiteContent from './main-site-content/main-site-content';
 import MainSiteListing from './main-site-listing/main-site-listing';
 import { MainSiteConfig, SEO } from './main-site.config';
@@ -99,7 +98,7 @@ export default function MainSite({
 	if (pageContext.article) {
 		content = (
 			<MainSiteContent
-				className="content"
+				className={styles['content']}
 				fontFamily={font.family}
 				article={pageContext.article}
 			></MainSiteContent>
@@ -107,7 +106,7 @@ export default function MainSite({
 	} else if (pageContext.entries) {
 		content = (
 			<MainSiteListing
-				className="main-site-listing"
+				className={styles['main-site-listing']}
 				entries={pageContext.entries}
 				filters={pageContext.filters}
 			/>
@@ -118,7 +117,7 @@ export default function MainSite({
 
 	return (
 		<div
-			className="main-site"
+			className={styles['main-site']}
 			lang="en-US"
 			style={{ fontFamily: font.family }}
 		>

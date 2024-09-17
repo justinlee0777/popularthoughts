@@ -1,9 +1,9 @@
 ---
 title: "Akira Toriyama's Dragon Ball"
-slug: '/akira-toriyama-dragon-ball'
+slug: 'akira-toriyama-dragon-ball'
 createdAt: '2024-04-09T11:26:09+0000'
 seoTitle: "Akira Toriyama's Dragon Ball"
-seoDescription: "We talk about Akira Toriyama and his influential series, Dragon Ball. May he rest in peace."
+seoDescription: 'We talk about Akira Toriyama and his influential series, Dragon Ball. May he rest in peace.'
 tags: ['animation', 'anime']
 ---
 

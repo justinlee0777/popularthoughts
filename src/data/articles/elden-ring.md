@@ -1,6 +1,6 @@
 ---
 title: 'Elden Ring'
-slug: '/elden-ring'
+slug: 'elden-ring'
 createdAt: '2022-08-21T20:13:52+0000'
 seoTitle: 'Elden Ring'
 seoDescription: 'We talk about the unbalanced "Elden Ring".'

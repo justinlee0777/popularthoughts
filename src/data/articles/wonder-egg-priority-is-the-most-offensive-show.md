@@ -1,6 +1,6 @@
 ---
 title: 'Wonder Egg Priorty is the most offensive anime'
-slug: '/wonder-egg-priority-is-the-most-offensive-anime'
+slug: 'wonder-egg-priority-is-the-most-offensive-anime'
 createdAt: '2021-03-31T18:28:44+0000'
 seoTitle: 'Wonder Egg Priority'
 seoDescription: 'Wonder Egg Priority is just awful.'

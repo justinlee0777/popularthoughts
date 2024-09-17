@@ -1,6 +1,6 @@
 ---
 title: "Annie Lennox's Walking On Broken Glass"
-slug: '/annie-lennox-walking-on-broken-glass'
+slug: 'annie-lennox-walking-on-broken-glass'
 createdAt: '2024-03-17T04:32:07+0000'
 seoTitle: "Annie Lennox's Walking On Broken Glass"
 seoDescription: "For 2024, I'll talk about a song a day: this week, we'll talk about Annie Lennox's Walking On Broken Glass."

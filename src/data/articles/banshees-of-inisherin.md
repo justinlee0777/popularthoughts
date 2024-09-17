@@ -1,6 +1,6 @@
 ---
 title: 'The Banshees of Inisherin'
-slug: '/banshees-of-inisherin'
+slug: 'banshees-of-inisherin'
 createdAt: '2023-01-01T05:09:26+0000'
 seoTitle: 'The Banshees of Inisherin'
 seoDescription: '"The Banshees of Inisherin" is fecking depressing and fecking awesome.'

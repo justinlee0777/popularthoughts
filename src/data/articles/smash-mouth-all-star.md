@@ -1,6 +1,6 @@
 ---
 title: "Smash Mouth's All Star"
-slug: '/smash-mouth-all-star'
+slug: 'smash-mouth-all-star'
 createdAt: '2022-07-16T16:30:55+0000'
 seoTitle: "Smash Mouth's All Star"
 seoDescription: 'We examine Smash Mouth''s "All Star", whose existence owes a bit more than "Shrek".'

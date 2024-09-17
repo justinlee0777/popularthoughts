@@ -1,4 +1,4 @@
-import { Filter } from 'shared/filter.config';
+import { Filter } from '../../shared/filter.config';
 
 import { MainSiteConfig } from '../main-site.config';
 

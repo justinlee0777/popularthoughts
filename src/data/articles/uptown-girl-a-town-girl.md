@@ -1,6 +1,6 @@
 ---
 title: "Billy Joel's Uptown Girl / USHER's A-Town Girl"
-slug: '/uptown-girl-a-town-girl'
+slug: 'uptown-girl-a-town-girl'
 createdAt: '2024-03-04T00:41:39+0000'
 seoTitle: "Billy Joel's Uptown Girl / USHER's A-Town Girl"
 seoDescription: "For 2024, I'll talk about a song a day: this week, we'll do a compare-and-contrast of Billy Joel's Uptown Girl and USHER's A-Town Girl."

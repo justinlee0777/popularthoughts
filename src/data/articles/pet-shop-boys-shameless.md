@@ -1,6 +1,6 @@
 ---
 title: "Pet Shop Boy's Shameless"
-slug: '/pet-shop-boys-shameless'
+slug: 'pet-shop-boys-shameless'
 createdAt: '2024-01-13T23:27:16+0000'
 seoTitle: "Pet Shop Boy's Shameless"
 seoDescription: "For 2024, I'll talk about a song a day: this week, we'll talk about the Pet Shop Boy's 1993 song, Shameless."

@@ -1,6 +1,6 @@
 ---
 title: 'Petscop'
-slug: '/petscop'
+slug: 'petscop'
 createdAt: '2022-09-20T15:43:41+0000'
 seoTitle: 'Petscop'
 seoDescription: 'We talk about the Youtube horror series / ARG / Let''s Play "Petscop".'

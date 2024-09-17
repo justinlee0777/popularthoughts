@@ -1,6 +1,6 @@
 ---
 title: 'Favorite Albums of 2000s'
-slug: '/favorite-albums-2000s'
+slug: 'favorite-albums-2000s'
 createdAt: '2023-07-13T03:23:42+0000'
 seoTitle: 'Best Albums of 2000s'
 seoDescription: 'I break down my favorite albums of the 2000s, year by year.'

@@ -1,6 +1,6 @@
 ---
 title: "My Chemical Romance's I Don't Love You"
-slug: '/my-chemical-romance-i-dont-love-you'
+slug: 'my-chemical-romance-i-dont-love-you'
 createdAt: '2024-01-28T16:52:57+0000'
 seoTitle: "My Chemical Romance's I Don't Love You"
 seoDescription: "For 2024, I'll talk about a song a day: this week, we'll talk about My Chemical Romance's I Don't Love You, from 2006's The Blach Parade."

@@ -16,14 +16,14 @@ export interface SEO {
 
 export interface MainSiteConfig {
 	seo: SEO;
-	filters: Array<Filter>;
+	filters?: Array<Filter>;
 
 	article?: {
 		title: string;
 		createdAt: string;
 		htmlString?: string;
 		audioUrl?: string;
-		video: {
+		video?: {
 			videoUrl?: string;
 			youtubeUrl?: string;
 			iframeTitle?: string;

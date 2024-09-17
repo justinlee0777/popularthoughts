@@ -1,6 +1,6 @@
 ---
 title: 'The Poetry of Florist'
-slug: '/poetry-of-florist'
+slug: 'poetry-of-florist'
 createdAt: '2022-08-21T20:13:52+0000'
 seoTitle: 'The Poetry of Florist'
 seoDescription: 'I take some liberty and arrange a Florist song into poetic format, for some reason.'

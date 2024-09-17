@@ -1,6 +1,6 @@
 ---
 title: "Mozart's Crudel! Perché Finora..."
-slug: '/mozart-crudel-perche-finora'
+slug: 'mozart-crudel-perche-finora'
 createdAt: '2024-07-12T02:55:44+0000'
 seoTitle: "Mozart's Crudel! Perché Finora..."
 seoDescription: "For 2024, I'll talk about a song a day: this week, we'll talk about an aria from Mozart's The Marriage of Figaro, beginning with Crudel! Perché Finora ..."

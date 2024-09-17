@@ -1,19 +1,20 @@
-import './main-site-listing.css';
+import styles from './main-site-listing.module.css';
 
 import { compareDesc } from 'date-fns';
 import React, { useEffect, useRef, useState } from 'react';
 
 import { MainSiteListingConfig } from './main-site-listing.config';
-import { addWindowArrowKeyScrollListener } from 'utils/add-window-arrow-key-scroll-listener.function';
-import ListingItem from 'shared/listing-item';
-import infiniteScroll from 'utils/infinite-scroll.function';
+import { addWindowArrowKeyScrollListener } from '../../utils/add-window-arrow-key-scroll-listener.function';
+import ListingItem from '../../shared/listing-item';
+import infiniteScroll from '../../utils/infinite-scroll.function';
+import classNames from 'classnames';
 
 export default function MainSiteListing({
 	className,
 	entries,
 	filters,
 }: MainSiteListingConfig) {
-	const entryListingSelector = 'entry-listing';
+	const entryListingSelector = styles['entry-listing'];
 	const initialEntriesShown = 10;
 
 	const listingElementRef = useRef<HTMLDivElement>(null);
@@ -61,10 +62,10 @@ export default function MainSiteListing({
 	));
 
 	const filterElements = filters.map(filter => {
-		let filterClass = 'filter';
+		let filterClass = styles['filter'];
 
 		if (filter.tagCriteria.some(criteria => filterCriteria.has(criteria))) {
-			filterClass = `${filterClass} selected`;
+			filterClass = classNames(filterClass, styles['filter-selected']);
 		}
 
 		const tagCriteria = filter.tagCriteria;
@@ -87,7 +88,10 @@ export default function MainSiteListing({
 		const clearFn = () => setCurrentFilter([]);
 
 		clearFilters = (
-			<button className="filter filter-clear" onClick={clearFn}>
+			<button
+				className={`${styles['filter']} ${styles['filter-clear']}`}
+				onClick={clearFn}
+			>
 				Clear
 			</button>
 		);
@@ -95,8 +99,8 @@ export default function MainSiteListing({
 
 	return (
 		<React.Fragment>
-			<div className="filters">
-				<span className="filter-hint">Filter: </span>
+			<div className={styles['filters']}>
+				<span className={styles['filter-hint']}>Filter: </span>
 				{clearFilters}
 				{filterElements}
 			</div>

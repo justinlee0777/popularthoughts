@@ -1,6 +1,6 @@
 ---
 title: "Charles Mingus' Praying For Eric"
-slug: '/charles-mingus-praying-for-eric'
+slug: 'charles-mingus-praying-for-eric'
 createdAt: '2024-04-22T04:03:39+0000'
 seoTitle: "Charles Mingus' Praying For Eric"
 seoDescription: "For 2024, I'll talk about a song a day: this week, we'll talk about Charles Mingus' Praying For Eric."

@@ -1,6 +1,6 @@
 ---
 title: "Gershwin's Porgy and Bess"
-slug: '/porgy-and-bess'
+slug: 'porgy-and-bess'
 createdAt: '2022-01-15T22:15:37+0000'
 seoTitle: "Gershwin's Porgy and Bess"
 seoDescription: 'We discuss George Gershwin''s "Porgy and Bess" and its curious place in modern culture.'

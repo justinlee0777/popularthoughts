@@ -1,6 +1,6 @@
 ---
 title: "Beach Boys' Kokomo / Sloop John B / Take a Load Off Your Feet"
-slug: '/beach-boys-triple-feature'
+slug: 'beach-boys-triple-feature'
 createdAt: '2024-08-23T01:58:26+0000'
 seoTitle: "Beach Boys' Kokomo / Sloop John B / Take a Load Off Your Feet"
 seoDescription: "For 2024, I'll talk about a song a day: this week, we're having a triple feature, talking about the Beach Boys' Kokomo (1988), Sloop John B (1966) and Take a Load Off Your Feet (1971)."
@@ -19,7 +19,7 @@ I've given myself the task of writing about one song a week for 2024 because, we
 
 Everyone loves "Kokomo" (1988), except music critics, which contradiction seemed to be picked up by [Stereogum in this quote: "People _hate_ "Kokomo"](https://www.stereogum.com/2149903/the-number-ones-the-beach-boys-kokomo/columns/the-number-ones/). I mean, it was a number one hit and was nominated for a Grammy.
 
-As the same Stereogum article mentions, the most likely reason "Kokomo" is hated originates with band member Mike Love. The myth of Love's relationship with band member Brian Wilson, the guy from The Beach Boys every music nerd knows, can be summarized with ["Don't fuck with the formula"](https://en.wikipedia.org/wiki/Smile_(The_Beach_Boys_album)#%22Don't_fuck_with_the_formula%22). Whether he said it or not, it's a fair thing to argue, particularly if you said it just _once_ in your lifetime only for journalists to associate it with you _forever_. And whether Mike is an asshole or not - he certainly reads like one - he was a member of the band and free to make his case. Not like Brian was in the best mental state either, what with drugs and his social circle of sycophants. So let's set aside Love, who, as it turns out, gave Brian [ample enough time to participate in the recording](https://en.wikipedia.org/wiki/Kokomo_(song)#Recording) (and it's easier to take Love's evidence on this considering Brian's consistent problems with time).
+As the same Stereogum article mentions, the most likely reason "Kokomo" is hated originates with band member Mike Love. The myth of Love's relationship with band member Brian Wilson, the guy from The Beach Boys every music nerd knows, can be summarized with ["Don't fuck with the formula"](<https://en.wikipedia.org/wiki/Smile_(The_Beach_Boys_album)#%22Don't_fuck_with_the_formula%22>). Whether he said it or not, it's a fair thing to argue, particularly if you said it just _once_ in your lifetime only for journalists to associate it with you _forever_. And whether Mike is an asshole or not - he certainly reads like one - he was a member of the band and free to make his case. Not like Brian was in the best mental state either, what with drugs and his social circle of sycophants. So let's set aside Love, who, as it turns out, gave Brian [ample enough time to participate in the recording](<https://en.wikipedia.org/wiki/Kokomo_(song)#Recording>) (and it's easier to take Love's evidence on this considering Brian's consistent problems with time).
 
 The second most likely reason "Kokomo" is hated are the lyrics. The brilliance of The Beach Boys was used to sell travel brochures. I'm sure Jamaica and Florida had nothing but praise for The Beach Boys' late hit.
 

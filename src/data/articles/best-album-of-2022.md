@@ -1,6 +1,6 @@
 ---
 title: 'The Best Album of 2022'
-slug: '/best-album-2022'
+slug: 'best-album-2022'
 createdAt: '2022-12-01T05:02:31+0000'
 seoTitle: 'The Best Album of 2022'
 seoDescription: 'We review the year 2022 in music and cover my favorite album of 2022: Bladee and Ecco2K''s "Crest".'

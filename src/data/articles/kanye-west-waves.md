@@ -1,6 +1,6 @@
 ---
 title: "Kanye West's Waves"
-slug: '/kanye-west-waves'
+slug: 'kanye-west-waves'
 createdAt: '2024-06-21T03:24:35+0000'
 seoTitle: "Kanye West's Waves"
 seoDescription: "For 2024, I'll talk about a song a day: this week, we'll talk about Kanye West's Waves."

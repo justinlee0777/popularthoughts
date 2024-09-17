@@ -1,6 +1,6 @@
 ---
 title: 'The 2021 Macbeth is uninspired'
-slug: '/macbeth-film-2021'
+slug: 'macbeth-film-2021'
 createdAt: '2022-01-15T22:15:37+0000'
 seoTitle: 'Macbeth (2021)'
 seoDescription: "Joel Coen's Macbeth adds nothing new to Shakepeare's play."

@@ -1,6 +1,6 @@
 ---
 title: "Why oh, why oh, One Piece's Wano"
-slug: '/one-piece-wano'
+slug: 'one-piece-wano'
 createdAt: '2022-09-20T15:43:41+0000'
 seoTitle: "One Piece's Wano Arc"
 seoDescription: "We talk about One Piece's Wano arc."

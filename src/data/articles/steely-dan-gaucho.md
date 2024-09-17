@@ -1,6 +1,6 @@
 ---
 title: "Steely Dan's Gaucho"
-slug: '/steely-dan-gaucho'
+slug: 'steely-dan-gaucho'
 createdAt: '2024-08-16T13:18:25+0000'
 seoTitle: "Steely Dan's Gaucho"
 seoDescription: "For 2024, I'll talk about a song a day: this week, we talk about Steely Dan's Gaucho."
@@ -30,7 +30,7 @@ but you don't seem to understand;<br/>
 we got heavy rollers, I think you should know,<br/>
 try again tomorrow.
 
-This is where Dan's meticulousness comes in, so much so that only a [drum machine](https://en.wikipedia.org/wiki/Gaucho_(album)#Drum_recording) could fulfill their specific beat pattern. The guitar flutters after "friend", as if the singer is sighing, and the instruments pause after "but you" and resume heavier in "don't seem to understand", an even deeper, more melancholic sigh. "Heavy rollers" demands a cymbal crash as if to emphasize the seriousness of the situation, and the piano outros for "try again tomorrow", looking forward to a brighter future.
+This is where Dan's meticulousness comes in, so much so that only a [drum machine](<https://en.wikipedia.org/wiki/Gaucho_(album)#Drum_recording>) could fulfill their specific beat pattern. The guitar flutters after "friend", as if the singer is sighing, and the instruments pause after "but you" and resume heavier in "don't seem to understand", an even deeper, more melancholic sigh. "Heavy rollers" demands a cymbal crash as if to emphasize the seriousness of the situation, and the piano outros for "try again tomorrow", looking forward to a brighter future.
 
 Which doesn't come. I'm not sure what Donald Fagen's mentality was for this track, but his "Can't you see their laughing at me?" is so full of desperation and yet _so funny_. "Get rid of him! / I don't care what you do at home." The song begins the chorus with "Would you care to explain?..."
 

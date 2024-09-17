@@ -1,6 +1,6 @@
 ---
 title: "Two Angry Artists: The MFA's Guston and Turner"
-slug: '/mfa-guston-and-turner'
+slug: 'mfa-guston-and-turner'
 createdAt: '2022-07-16T16:30:55+0000'
 seoTitle: "MFA's Guston and Turner"
 seoDescription: 'We discuss two 2022 exhbitions from the Museum of Fine Art: Phillip Guston and J. M. W. Turner.'

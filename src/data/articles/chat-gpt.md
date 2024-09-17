@@ -1,6 +1,6 @@
 ---
 title: 'ChatGPT and art'
-slug: '/chatgpt-and-art'
+slug: 'chatgpt-and-art'
 createdAt: '2023-02-18T03:53:50+0000'
 seoTitle: 'ChatGPT and art'
 seoDescription: "We discuss the possible effects of ChatGPT and OpenAI's other projects on art."

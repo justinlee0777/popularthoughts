@@ -1,6 +1,6 @@
 ---
 title: 'Why the hell am I being told to call Mozart by his full name?'
-slug: '/classical-music-and-race'
+slug: 'classical-music-and-race'
 createdAt: '2022-02-26T20:00:44+0000'
 seoTitle: 'Classical music and race'
 seoDescription: "Why the hell am I being told to call Mozart by his full name? Doesn't such a suggestion reveal more about the author than society?"

@@ -1,6 +1,6 @@
 ---
 title: 'Rich Men North of Richmond'
-slug: '/rich-men-north-of-richmond'
+slug: 'rich-men-north-of-richmond'
 createdAt: '2023-09-25T22:44:08+0000'
 seoTitle: "Oliver Anthony's Rich Men North of Richmond"
 seoDescription: "Well, let's talk about Oliver Anthony's Rich Men North of Richmond."

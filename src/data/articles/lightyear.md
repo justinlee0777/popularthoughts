@@ -1,6 +1,6 @@
 ---
 title: 'Lightyear (2022)'
-slug: '/lightyear-film'
+slug: 'lightyear-film'
 createdAt: '2022-06-26T04:32:37+0000'
 seoTitle: 'Lightyear (2022)'
 seoDescription: 'The very idea of the Toy Story spin-off "Lightyear" makes no sense.'

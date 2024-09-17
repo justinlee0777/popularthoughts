@@ -1,6 +1,6 @@
 ---
 title: 'Goodbye, Eri... What?'
-slug: '/goodbye-eri-manga'
+slug: 'goodbye-eri-manga'
 createdAt: '2022-05-11T19:09:16+0000'
 seoTitle: 'Goodbye, Eri'
 seoDescription: 'We try to understand Tatsuki Fujimoto''s manga one-shot "Goodbye, Eri".'

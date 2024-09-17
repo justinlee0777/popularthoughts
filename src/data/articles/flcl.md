@@ -1,6 +1,6 @@
 ---
 title: 'FLCL'
-slug: '/flcl'
+slug: 'flcl'
 createdAt: '2023-09-25T22:44:08+0000'
 seoTitle: 'FLCL'
 seoDescription: 'What is left to say about FLCL?'

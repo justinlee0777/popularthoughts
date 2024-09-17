@@ -1,6 +1,6 @@
 ---
 title: 'Dim qualities in Darkest Dungeon'
-slug: '/darkest-dungeon'
+slug: 'darkest-dungeon'
 createdAt: '2023-02-18T03:53:50+0000'
 seoTitle: 'Darkest Dungeon'
 seoDescription: 'We talk about some of the flawed gameplay decisions in Darkest Dungeon.'

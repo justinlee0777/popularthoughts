@@ -1,6 +1,6 @@
 ---
 title: 'Courtney Barnett''s "Sometimes I Sit and Think..." is labored'
-slug: '/courtney-barnett-sometimes-i-sit-and-think'
+slug: 'courtney-barnett-sometimes-i-sit-and-think'
 createdAt: '2021-09-18T22:37:06+0000'
 seoTitle: "Courtney Barnett's Sometimes I Sit and Think"
 seoDescription: "I can't get into Courney Barnett's Sometimes I Sit and Think, and Sometimes I Just Sit."

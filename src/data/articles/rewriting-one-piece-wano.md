@@ -1,6 +1,6 @@
 ---
 title: "Rewriting One Piece's New World: Wano"
-slug: '/one-piece-rewrite-wano'
+slug: 'one-piece-rewrite-wano'
 createdAt: '2023-01-01T05:09:46+0000'
 seoTitle: "Rewriting One Piece's New World: Wano"
 seoDescription: "We rewrite One Piece's Wano arc."

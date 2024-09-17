@@ -1,6 +1,6 @@
 ---
 title: 'Top Gun: Maverick'
-slug: '/top-gun-maverick'
+slug: 'top-gun-maverick'
 createdAt: '2022-06-26T04:32:37+0000'
 seoTitle: 'Top Gun: Maverick'
 seoDescription: 'A very quick review of "Top Gun: Maverick" which has no right being as good as it is.'

@@ -1,6 +1,6 @@
 ---
 title: 'The Best Album of 2023'
-slug: '/best-album-2023'
+slug: 'best-album-2023'
 createdAt: '2023-11-27T02:25:41+0000'
 seoTitle: 'The Best Album of 2023'
 seoDescription: "We review the year 2023 in music and cover three favoriate albums: Lonnie Holley's 'Oh Me, Oh My', Jaimie Branch's posthumous 'Fly or Die Fly or Die Fly or Die ((world war))' and ANOHNI and The Johnsons' 'My Back Was A Bridge For You To Cross'."
@@ -105,7 +105,7 @@ So, back to "Future Children" - where we in our modern age decry the prevalence 
 
 ### Jaimie Branch's Fly or Die Fly or Die Fly or Die ((world war))
 
-Call Jaimie Branch a prophet: we live in her world war now. Beyond the escalated situation in the Gaza Strip, which is, uhhh, *horrifying*, 2023 also saw civil wars in Niger and Sudan. The invasion of Ukraine is still being prosecuted (and I doubt it'll end soon). I'm probably neglecting a million other things that stink of death and disease. In a way, I'm glad she isn't here to be miserable about it. But I'm also sad: at least misery lets us know we are alive. Branch held an anger throughout her life, a rage for a better world. That passion is in "Fly or Die Fly or Die Fly or Die". Living, she at least had the hope that "we're going to take over the world / and give it back to the land", in "Take Over the World". It's her music that leads me to hope that her vision will be the right one, at the end.
+Call Jaimie Branch a prophet: we live in her world war now. Beyond the escalated situation in the Gaza Strip, which is, uhhh, _horrifying_, 2023 also saw civil wars in Niger and Sudan. The invasion of Ukraine is still being prosecuted (and I doubt it'll end soon). I'm probably neglecting a million other things that stink of death and disease. In a way, I'm glad she isn't here to be miserable about it. But I'm also sad: at least misery lets us know we are alive. Branch held an anger throughout her life, a rage for a better world. That passion is in "Fly or Die Fly or Die Fly or Die". Living, she at least had the hope that "we're going to take over the world / and give it back to the land", in "Take Over the World". It's her music that leads me to hope that her vision will be the right one, at the end.
 
 It's difficult to separate "Fly or Die x3" from her death. As we're told, the album was essentially all composed, with a scattering of notes that were used to give the tracks names; her quartet, Fly or Die, and members of her family merely performed it. I'm in no conspiratorial mood, but it's...odd. It's worth going through Branch's discography because it depicts one of the greater visionaries in jazz music of the modern era. It also depicts someone who is a little messy. The previous "Fly or Die" albums aren't known for their cohesion, though they are consistent in their portrayal of despair followed by joy followed by despair, the titular "Fly or Die". That I like best in her music: as you retrospect, you are communing with her.
 

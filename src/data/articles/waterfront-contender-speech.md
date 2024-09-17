@@ -1,6 +1,6 @@
 ---
 title: 'That One Scene from On The Waterfront'
-slug: '/on-the-waterfront'
+slug: 'on-the-waterfront'
 createdAt: '2022-08-21T20:13:52+0000'
 seoTitle: 'On The Waterfront (1954)'
 seoDescription: 'We analyze that one scene - we all know it - from Elia Kazan''s "On The Waterfront".'

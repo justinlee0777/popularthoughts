@@ -1,6 +1,6 @@
 ---
 title: 'Mr. Bad Guy is the best album Queen ever made'
-slug: '/freddie-mercurys-mr-bad-guy'
+slug: 'freddie-mercurys-mr-bad-guy'
 createdAt: '2021-01-19T15:40:14+0000'
 seoTitle: 'Mr. Bad Guy is the best album Queen ever made'
 seoDescription: "Mr. Bad Guy is the best album Queen ever made. Yes, we know it's Freddie Mercury's sole solo album. Doesn't change a thing."

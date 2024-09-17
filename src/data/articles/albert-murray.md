@@ -1,6 +1,6 @@
 ---
 title: 'A complaint to Mister Murray'
-slug: '/albert-murray'
+slug: 'albert-murray'
 createdAt: '2022-12-01T05:02:31+0000'
 seoTitle: "Library of America's Albert Murray"
 seoDescription: 'I have a complaint for Albert Murray, celebrated American essayist.'

@@ -1,6 +1,6 @@
 ---
 title: 'The Collected Stories of Lydia Davis'
-slug: '/collected-stories-of-lydia-davis'
+slug: 'collected-stories-of-lydia-davis'
 createdAt: '2022-12-01T05:02:31+0000'
 seoTitle: 'The Collected Stories of Lydia Davis'
 seoDescription: 'We discuss the Collected Stories of Lydia Davis.'

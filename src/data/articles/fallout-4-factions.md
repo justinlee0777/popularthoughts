@@ -1,6 +1,6 @@
 ---
 title: 'Rewriting the factions of Fallout 4'
-slug: '/the-factions-of-fallout-4'
+slug: 'the-factions-of-fallout-4'
 createdAt: '2021-06-08T02:27:04+0000'
 seoTitle: 'Fallout 4'
 seoDescription: 'We talk about the factions of Fallout 4.'

@@ -18,7 +18,7 @@ export function smoothScroll(options: SmoothScrollOptions): ScrollFunction {
 	const distance = options.distance ?? 50;
 	const scrollTopPerFrame = distance / frames;
 
-	let intervalId: NodeJS.Timer | undefined;
+	let intervalId: NodeJS.Timeout | undefined;
 
 	return function scroll(
 		xOffset: -1 | 0 | 1 = 0,

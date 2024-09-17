@@ -1,9 +1,9 @@
 ---
 title: "Radiohead's Hail to the Thief"
-slug: '/radiohead-hail-to-the-thief'
+slug: 'radiohead-hail-to-the-thief'
 createdAt: '2023-12-31T06:36:41+0000'
 seoTitle: "Radiohead's Hail to the Thief"
-seoDescription: "We discuss the one Radiohead album I actually love: Hail to the Thief."
+seoDescription: 'We discuss the one Radiohead album I actually love: Hail to the Thief.'
 tags: ['music']
 ---
 

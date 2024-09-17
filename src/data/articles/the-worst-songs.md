@@ -1,9 +1,9 @@
 ---
-title: "The Worst Music"
-slug: '/the-worst-music'
+title: 'The Worst Music'
+slug: 'the-worst-music'
 createdAt: '2024-08-28T04:56:31+0000'
-seoTitle: "The Worst Music"
-seoDescription: "The worst music I have heard in my life came from Hololive."
+seoTitle: 'The Worst Music'
+seoDescription: 'The worst music I have heard in my life came from Hololive.'
 tags: ['anime', 'music']
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: 'Bloodstained'
-slug: '/bloodstained'
+slug: 'bloodstained'
 createdAt: '2021-11-08T22:39:21+0000'
 seoTitle: 'Bloodstained'
 seoDescription: 'We discuss Bloodstained and the past Metroidvania games.'

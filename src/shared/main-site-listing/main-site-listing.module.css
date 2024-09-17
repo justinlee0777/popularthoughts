@@ -58,6 +58,6 @@
     border-radius: 6px;
 }
 
-.filter.selected {
+.filter-selected {
     border-color: black;
 }
