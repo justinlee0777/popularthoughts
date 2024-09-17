@@ -3,12 +3,22 @@
 		"baseUrl": "./src",
 		"target": "ESNext" /* or at least ES2015 */,
 		"module": "ESNext" /* or at least ES2015 */,
-		"lib": ["dom"] /* <-- required! */,
+		"lib": ["dom", "DOM.Iterable"] /* <-- required! */,
 		"jsx": "preserve" /* <-- required! */,
 		"moduleResolution": "node",
 		"paths": {
 			"*": ["*"]
 		},
-		"allowSyntheticDefaultImports": true
-	}
+		"allowSyntheticDefaultImports": true,
+		"allowJs": true,
+		"skipLibCheck": true,
+		"strict": false,
+		"noEmit": true,
+		"incremental": true,
+		"esModuleInterop": true,
+		"resolveJsonModule": true,
+		"isolatedModules": true
+	},
+	"include": ["next-env.d.ts", "**/*.ts", "**/*.tsx"],
+	"exclude": ["node_modules"]
 }
