@@ -1,6 +1,8 @@
 import { readdir, readFile } from 'fs/promises';
 import matter from 'gray-matter';
 import { join } from 'path';
+import { remark } from 'remark';
+import html from 'remark-html';
 
 export interface PageProps {
 	slug: string;
@@ -16,12 +18,9 @@ export interface PageProps {
 	};
 }
 
-import { remark } from 'remark';
-import html from 'remark-html';
-
 async function markdownToHtmlString(markdown: string): Promise<string> {
 	return remark()
-		.use(html)
+		.use(html, { sanitize: false })
 		.process(markdown)
 		.then(content => {
 			return content.toString();
