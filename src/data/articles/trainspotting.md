@@ -1,6 +1,6 @@
 ---
 title: "Trainspotting's big cop-out"
-slug: '/trainspotting'
+slug: 'trainspotting'
 createdAt: '2022-04-10T00:03:16+0000'
 seoTitle: "Trainspotting's big cop-out"
 seoDescription: 'The ending of Trainspotting is a huge cop-out.'

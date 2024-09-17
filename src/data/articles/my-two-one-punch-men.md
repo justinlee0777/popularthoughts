@@ -1,6 +1,6 @@
 ---
 title: 'My Two One Punch Men'
-slug: '/one-punch-man-manga'
+slug: 'one-punch-man-manga'
 createdAt: '2022-08-21T20:13:52+0000'
 seoTitle: 'My Two One Punch Men'
 seoDescription: 'We talk about the now-controversial "One Punch Man" manga.'

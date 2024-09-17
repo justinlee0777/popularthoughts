@@ -1,6 +1,6 @@
 ---
 title: 'Life with an Ordinary Guy Who Reincarnated into a Total Fantasy Knockout'
-slug: '/fantasy-bishoujo-juniku-ojisan-to'
+slug: 'fantasy-bishoujo-juniku-ojisan-to'
 createdAt: '2022-01-29T23:14:42+0000'
 seoTitle: 'Life with an Ordinary Guy Who Reincarnated into a Total Fantasy Knockout'
 seoDescription: 'Life with an Ordinary Guy Who Reincarnated into a Total Fantasy Knockout has a brilliant premise.'

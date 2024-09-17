@@ -1,6 +1,6 @@
 ---
 title: 'The ending of Rashomon'
-slug: '/rashomon-ending'
+slug: 'rashomon-ending'
 createdAt: '2022-04-10T00:03:16+0000'
 seoTitle: 'The ending of Rashomon'
 seoDescription: "We analyze the ending of Kurosawa's Rashomon."

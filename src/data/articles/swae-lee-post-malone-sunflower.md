@@ -1,6 +1,6 @@
 ---
 title: "Swae Lee and Post Malone's Sunflower"
-slug: '/swae-lee-post-malone-sunflower'
+slug: 'swae-lee-post-malone-sunflower'
 createdAt: '2024-06-14T03:14:58+0000'
 seoTitle: "Swae Lee and Post Malone's Sunflower"
 seoDescription: "For 2024, I'll talk about a song a day: this week, we'll talk about Swae Lee and Post Malone's Sunflower."

@@ -1,6 +1,6 @@
 ---
 title: 'Radiohead''s "A Moon Shaped Pool"'
-slug: '/radiohead-moon-shaped-pool'
+slug: 'radiohead-moon-shaped-pool'
 createdAt: '2021-10-11T03:07:04+0000'
 seoTitle: 'Radiohead''s "A Moon Shaped Pool"'
 seoDescription: 'I''ve gotten too old for Radiohead and a recent listen to "A Moon Shaped Pool" has shown me why.'

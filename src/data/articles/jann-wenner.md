@@ -1,6 +1,6 @@
 ---
 title: 'That stupid Jann Wenner thing'
-slug: '/jann-wenner-the-masters'
+slug: 'jann-wenner-the-masters'
 createdAt: '2023-09-25T22:44:08+0000'
 seoTitle: 'Jann Wenner and His Masters'
 seoDescription: "Let's talk about that stupid Jann Wenner thing."

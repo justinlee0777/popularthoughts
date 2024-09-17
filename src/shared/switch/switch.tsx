@@ -1,4 +1,4 @@
-import './switch.css';
+import styles from './switch.module.css';
 
 import classNames from 'classnames';
 import * as React from 'react';
@@ -16,8 +16,8 @@ export default function Switch({
 }: SwitchProps): JSX.Element {
 	const onClick = () => onChange?.(!value);
 
-	const switchClassName = classNames('switch', className, {
-		switchActive: value,
+	const switchClassName = classNames(styles['switch'], className, {
+		[styles['switchActive']]: value,
 	});
 
 	return (
@@ -29,7 +29,7 @@ export default function Switch({
 			aria-label="Click to toggle."
 		>
 			<div
-				className="switchKnob"
+				className={styles['switchKnob']}
 				role="button"
 				aria-label="Click to toggle."
 				onClick={onClick}

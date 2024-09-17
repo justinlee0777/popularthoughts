@@ -1,6 +1,6 @@
 ---
 title: 'The Ending of Attack on Titan'
-slug: '/attack-on-titan-ending'
+slug: 'attack-on-titan-ending'
 createdAt: '2023-11-27T02:25:41+0000'
 seoTitle: 'The Ending of Attack on Titan'
 seoDescription: "Well. We're here. Let's talk about the ending of Attack on Titan."

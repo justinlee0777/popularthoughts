@@ -1,6 +1,6 @@
 ---
 title: 'In The Mood For Love'
-slug: '/in-the-mood-for-love'
+slug: 'in-the-mood-for-love'
 createdAt: '2023-07-13T03:23:42+0000'
 seoTitle: 'In The Mood For Love (2000)'
 seoDescription: 'We discuss Wong Kar-Wai''s "In The Mood For Love".'

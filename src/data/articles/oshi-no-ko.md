@@ -1,6 +1,6 @@
 ---
 title: 'Oshi no Ko'
-slug: '/oshi-no-ko'
+slug: 'oshi-no-ko'
 createdAt: '2023-07-13T03:23:42+0000'
 seoTitle: 'Oshi no Ko'
 seoDescription: "It's the Oshi no Ko show, where we see an author's creepy obsession with actors/actresses."

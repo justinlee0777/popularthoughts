@@ -1,6 +1,6 @@
 ---
 title: "Frankie Cosmos' too dark"
-slug: '/frankie-cosmos-too-dark'
+slug: 'frankie-cosmos-too-dark'
 createdAt: '2024-03-22T01:47:45+0000'
 seoTitle: "Frankie Cosmos' too dark"
 seoDescription: "For 2024, I'll talk about a song a day: this week, we'll talk about Frankie Cosmos' too dark."

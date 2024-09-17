@@ -1,6 +1,6 @@
 ---
 title: "The Stooges' Loose"
-slug: '/the-stooges-loose'
+slug: 'the-stooges-loose'
 createdAt: '2024-04-21T04:44:02+0000'
 seoTitle: "The Stooges' Loose"
 seoDescription: "For 2024, I'll talk about a song a day: this week, we'll talk about The Stooges' Loose."

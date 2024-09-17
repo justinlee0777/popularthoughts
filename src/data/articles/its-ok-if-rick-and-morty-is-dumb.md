@@ -1,6 +1,6 @@
 ---
 title: "It's ok if Rick and Morty is dumb"
-slug: '/its-ok-if-rick-and-morty-is-dumb'
+slug: 'its-ok-if-rick-and-morty-is-dumb'
 createdAt: '2021-01-09T18:37:39+0000'
 seoTitle: "It's ok if Rick and Morty is dumb"
 seoDescription: "Rick and Morty is a bit dumb, but that's ok. It's still a great show."

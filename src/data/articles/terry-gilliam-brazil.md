@@ -1,6 +1,6 @@
 ---
 title: 'The Ending of Brazil (1985)'
-slug: '/ending-of-brazil-1985'
+slug: 'ending-of-brazil-1985'
 createdAt: '2022-08-21T20:13:52+0000'
 seoTitle: 'Brazil (1985)'
 seoDescription: "We analyze the ending of Terry Gilliam's Brazil."

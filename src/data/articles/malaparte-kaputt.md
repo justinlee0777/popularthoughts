@@ -1,6 +1,6 @@
 ---
 title: "Curzio Malaparte's Kaputt"
-slug: '/kaputt-curzio-malaparte'
+slug: 'kaputt-curzio-malaparte'
 createdAt: '2022-02-26T22:22:52+0000'
 seoTitle: "Curzio Malaparte's Kaputt"
 seoDescription: "We discuss Curzio Malaparte's Kaputt and its odd semi-fictional qualities."

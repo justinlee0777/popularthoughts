@@ -1,6 +1,6 @@
 ---
 title: 'Bloodborne'
-slug: '/bloodborne'
+slug: 'bloodborne'
 createdAt: '2021-10-11T03:07:04+0000'
 seoTitle: 'Bloodborne'
 seoDescription: 'We talk about Bloodborne.'

@@ -1,6 +1,6 @@
 ---
 title: "Fiona Apple's Werewolf"
-slug: '/fiona-apple-werewolf'
+slug: 'fiona-apple-werewolf'
 createdAt: '2024-09-13T13:13:56+0000'
 seoTitle: "Fiona Apple's Werewolf"
 seoDescription: "For 2024, I'll talk about a song a day: this week, we're talking about Fiona Apple's Werewolf."

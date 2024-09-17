@@ -1,6 +1,6 @@
 ---
 title: "Beyoncé's Jealous"
-slug: '/beyonce-jealous'
+slug: 'beyonce-jealous'
 createdAt: '2024-08-28T04:56:31+0000'
 seoTitle: "Beyoncé's Jealous"
 seoDescription: "For 2024, I'll talk about a song a day: this week, we're talking about Beyoncé's Jealous."

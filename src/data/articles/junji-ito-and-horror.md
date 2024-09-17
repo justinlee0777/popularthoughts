@@ -1,6 +1,6 @@
 ---
 title: 'Junji Ito and Horror'
-slug: '/junji-ito'
+slug: 'junji-ito'
 createdAt: '2023-07-13T03:23:42+0000'
 seoTitle: "Junji Ito's Horror"
 seoDescription: "We discuss a little of Junji Ito's oeuvre in horror manga."

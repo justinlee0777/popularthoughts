@@ -14,13 +14,9 @@ import {
 import { useBook } from 'prospero/web/react';
 import { FlexibleBookElement } from 'prospero/types';
 
-import { calculateDateString } from 'functions/calculate-date-string';
-
-import AudioContent from '../audio-content/audio-content';
-import VideoContent from '../video-content/video-content';
-import YoutubeVideo from '../youtube-video/youtube-video';
+import { calculateDateString } from '../../functions/calculate-date-string';
 import { ArticleContentConfig } from './article-content.config';
-import './article-content.css';
+import styles from './article-content.module.css';
 
 function createFlexibleBook(
 	text: string,
@@ -83,7 +79,7 @@ export default function ArticleContent(
 ): JSX.Element {
 	const { article, showBook, fontFamily } = config;
 
-	const className = `article-content ${config.className}`;
+	const className = `${styles['article-content']} ${config.className}`;
 	const renderedHtmlRef = useRef<HTMLDivElement>(null);
 
 	useBook(
@@ -95,54 +91,14 @@ export default function ArticleContent(
 		[article, showBook, fontFamily]
 	);
 
-	let youtube: JSX.Element;
-	let audio: JSX.Element;
-	let video: JSX.Element;
-
-	if (article.video.youtubeUrl) {
-		const youtubeConfig = article.video;
-
-		youtube = (
-			<YoutubeVideo
-				className="youtube-content"
-				youtubeUrl={youtubeConfig.youtubeUrl}
-				iframeTitle={youtubeConfig.iframeTitle}
-			/>
-		);
-	}
-
-	if (article.audioUrl) {
-		audio = (
-			<AudioContent
-				className="audio-content"
-				audioUrl={article.audioUrl}
-			/>
-		);
-	}
-
-	if (article.video.videoUrl) {
-		const videoConfig = article.video;
-
-		video = (
-			<VideoContent
-				className="video-content"
-				iframeTitle={videoConfig.iframeTitle}
-				videoUrl={videoConfig.videoUrl}
-			/>
-		);
-	}
-
 	return (
 		<div className={className}>
-			<h1 className="article-header">{article.title}</h1>
-			<time className="date-time" dateTime={article.createdAt}>
+			<h1 className={styles['article-header']}>{article.title}</h1>
+			<time className={styles['date-time']} dateTime={article.createdAt}>
 				{calculateDateString(article.createdAt)}
 			</time>
-			<div className="divider" />
-			{youtube}
-			{audio}
-			{video}
-			<div className="rendered-html" ref={renderedHtmlRef}>
+			<div className={styles['divider']} />
+			<div className={styles['rendered-html']} ref={renderedHtmlRef}>
 				{!showBook && (
 					<div
 						dangerouslySetInnerHTML={{

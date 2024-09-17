@@ -1,6 +1,6 @@
 ---
 title: "Giacomo Puccini's Viene La Sera (aria from Madama Butterfly)"
-slug: '/madama-butterfly-viene-la-sera'
+slug: 'madama-butterfly-viene-la-sera'
 createdAt: '2024-02-04T04:36:23+0000'
 seoTitle: "Madama Butterfly's Viene La Sera"
 seoDescription: "For 2024, I'll talk about a song a day: this week, we'll talk about the opera Madama Butterfly's aria, Viene La Sera."
@@ -13,7 +13,7 @@ I've given myself the task of writing about one song a week for 2024 because, we
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/w1ZjmBMsJFg?si=QhwtVHhPydmhcagr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-I had no appetite for "Madama Butterfly". I was largely curious of its influence on Weezer's "Pinkerton". This was going to be a one-and-done: say I saw it and leave it at that.  Because it seemed, well, silly, infantilizing women, exoticizing Asia, while satiating the audience's need for really trashy drama, which, apparently, was an initial criticism of the show on debut. Worse, the first act has plodding music (also a debut critique). Even now I can say what Puccini's work possesses is momentum, establishing musical motifs early and incorporating them organically into later arias. I'm more in line with Mozart, whose arias are more like, well, songs, which can be listened to alone or in sequence.
+I had no appetite for "Madama Butterfly". I was largely curious of its influence on Weezer's "Pinkerton". This was going to be a one-and-done: say I saw it and leave it at that. Because it seemed, well, silly, infantilizing women, exoticizing Asia, while satiating the audience's need for really trashy drama, which, apparently, was an initial criticism of the show on debut. Worse, the first act has plodding music (also a debut critique). Even now I can say what Puccini's work possesses is momentum, establishing musical motifs early and incorporating them organically into later arias. I'm more in line with Mozart, whose arias are more like, well, songs, which can be listened to alone or in sequence.
 
 Well, I'm right, but I'm largely very wrong. I forgot there was a reason why I suspend belief for opera specifically: you must leave logic. It is one of the few places where it is safe to do so. Opera is one of the supreme mediums for the voice, the imperial "I", and, concerning the ego, there is no room for logic, only emotion.
 

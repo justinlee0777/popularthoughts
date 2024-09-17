@@ -1,6 +1,6 @@
 ---
 title: "Kendrick Lamar's The Heart Part 5"
-slug: '/kendrick-lamar-heart-pt-5'
+slug: 'kendrick-lamar-heart-pt-5'
 createdAt: '2022-05-11T19:10:16+0000'
 seoTitle: "Kendrick Lamar's The Heart Part 5"
 seoDescription: 'More of the same from Kendrick Lamar''s "The Heart Pt 5".'

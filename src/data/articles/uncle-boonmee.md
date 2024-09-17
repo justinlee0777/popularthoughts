@@ -1,6 +1,6 @@
 ---
 title: 'Uncle Boonmee Who Can Recall His Past Lives'
-slug: '/uncle-boonmee'
+slug: 'uncle-boonmee'
 createdAt: '2022-04-10T00:03:16+0000'
 seoTitle: 'Uncle Boonmee Who Can Recall His Past Lives'
 seoDescription: "We analyze Apichatpong Weerasethakul's film, Uncle Boonmee Who Can Recall His Past Lives."

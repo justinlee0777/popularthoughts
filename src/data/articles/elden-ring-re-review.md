@@ -1,9 +1,9 @@
 ---
-title: "Elden Ring Re-Review and Shadow of the Erdtree"
-slug: '/elden-ring-shadow-of-the-erdtree'
+title: 'Elden Ring Re-Review and Shadow of the Erdtree'
+slug: 'elden-ring-shadow-of-the-erdtree'
 createdAt: '2024-07-22T04:30:15+0000'
-seoTitle: "Elden Ring: Shadow of the Erdtree"
-seoDescription: "I turn about face on Elden Ring and discuss the DLC, Shadow of the Erdtree, quite a bit."
+seoTitle: 'Elden Ring: Shadow of the Erdtree'
+seoDescription: 'I turn about face on Elden Ring and discuss the DLC, Shadow of the Erdtree, quite a bit.'
 tags: ['video-game']
 ---
 
@@ -59,7 +59,7 @@ Which adds to the overall theme of the Souls series, that suffering is natural t
 
 It's definitely a mixed bag of a DLC. It's hard not to be happy as a video game player as, more game, more challenge, but the relative drought of plot details leaves some of the audience wanting. A big issue is that players are uncertain whether the Land of Shadow has any actual physical connection to the main game, as far as the journey or even the Lands Between. I think this criticism is warranted as a big part of the appeal of "Elden Ring" is the universe established.
 
-This is where we get to the complicated part of the conversation, on what hats "Elden Ring" has been trying to wear this whole time. For the main game, it was definitely trying to wear the hat of setting up this world; the gameplay is all well and good, but it was basically the same engine - design-wise, not literally - as the old Souls games. The DLC, I think, was wearing this hat too, sometimes to awkward degrees, as I don't really understand why Charo's Hidden Grave and Abyssal Woods _had_ to be in the Land of Shadow, largely because I don't know why the Land of Shadow is the Land of Shadow and distinct from the Lands Between.[*](#footnote-1) I think as development went on, this hat, and many other hats (as weapons design, boss design, map design), slowly fell off in the scramble to finish this very hotly-anticipated DLC, which may explain why [Miyazaki has said there are no current plans for a second one](https://www.ign.com/articles/hidetaka-miyazaki-elden-ring-shadow-of-the-erdtree-interview) (though the man has also lied about the ultimate size of the map, so he certainly has a penchant for understatement). It's a reminder to make anything is a huge pain in the ass. Well, if we've learned anything from "Elden Ring" itself, nothing can be perfect, and we should not strive to be perfect. It's good enough that the attempt was made, and the attempt, indeed, shows something human about us.
+This is where we get to the complicated part of the conversation, on what hats "Elden Ring" has been trying to wear this whole time. For the main game, it was definitely trying to wear the hat of setting up this world; the gameplay is all well and good, but it was basically the same engine - design-wise, not literally - as the old Souls games. The DLC, I think, was wearing this hat too, sometimes to awkward degrees, as I don't really understand why Charo's Hidden Grave and Abyssal Woods _had_ to be in the Land of Shadow, largely because I don't know why the Land of Shadow is the Land of Shadow and distinct from the Lands Between.[\*](#footnote-1) I think as development went on, this hat, and many other hats (as weapons design, boss design, map design), slowly fell off in the scramble to finish this very hotly-anticipated DLC, which may explain why [Miyazaki has said there are no current plans for a second one](https://www.ign.com/articles/hidetaka-miyazaki-elden-ring-shadow-of-the-erdtree-interview) (though the man has also lied about the ultimate size of the map, so he certainly has a penchant for understatement). It's a reminder to make anything is a huge pain in the ass. Well, if we've learned anything from "Elden Ring" itself, nothing can be perfect, and we should not strive to be perfect. It's good enough that the attempt was made, and the attempt, indeed, shows something human about us.
 
 ---
 

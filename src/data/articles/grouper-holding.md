@@ -1,6 +1,6 @@
 ---
 title: "Grouper's Holding"
-slug: '/grouper-holding'
+slug: 'grouper-holding'
 createdAt: '2024-07-15T04:12:21+0000'
 seoTitle: "Grouper's Holding"
 seoDescription: "For 2024, I'll talk about a song a day: this week, we'll talk about Grouper's Holding."
@@ -29,7 +29,7 @@ The other magic ingredient in "Ruins" is Liz's lyricism. So goes "Call Across Ro
 
 All of these qualities are necessary. Liz's mastery in composition is evident. It's always about how the music makes you feel, and thus about what you leave _out_. "Labyrinth" in particular depicts really well that feeling of hopelessness the title conveys. Only the piano is needed. But, if recorded in a studio, if the recording was cleaned up, the music wouldn't have the same impact as it does; it would feel sterile, as modern classical compositions often do. (Compare to [Okkyung Lee's "The Yellow Porcelain Bird"](https://www.youtube.com/watch?v=-6zTcFy43k4), a composition I actually like quite a bit, though we're aware the composer wants to pay attention to how the instruments are juxtaposed and the salience of each instrument over anything else.) Further, the emphasis on the playing _at the moment_, rather than creating a recording for eternity, is as important. You can never tell whether a missed beat is intentional or not. With Grouper, you know it's half-intended and half-not; in short, there is a genius to it, a can't-put-your-finger on the how and why of the record except with the idiosyncrasy of the artist herself. These elements marry together splendidly, such that an auspicious incident, in this case the microwave beep, makes the music all the more irresistible and poignant. The temporality of the composition somehow gets frozen in amber. It becomes perfect in imperfection. No wonder "Ruins" is not classified as classical music and is instead given the wilder genre of "alternative".
 
-The piano in "Holding" may make one think of Erik Satie's "Gymnopédie" series. "Holding" does indeed share the banality of Satie's famous composition - it contains that quality of meditating without any object in mind - but the tape hiss, the murk in the recording, the hesitation in the intro and the spiraling pattern evokes to the listener that the melancholy has finally erupted into full, uncontrolled sadness. 
+The piano in "Holding" may make one think of Erik Satie's "Gymnopédie" series. "Holding" does indeed share the banality of Satie's famous composition - it contains that quality of meditating without any object in mind - but the tape hiss, the murk in the recording, the hesitation in the intro and the spiraling pattern evokes to the listener that the melancholy has finally erupted into full, uncontrolled sadness.
 
 Liz murmurs:
 

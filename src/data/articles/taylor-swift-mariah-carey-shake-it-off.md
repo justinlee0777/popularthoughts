@@ -1,6 +1,6 @@
 ---
 title: "Taylor Swift's Shake It Off / Mariah Carey's Shake It Off"
-slug: '/taylor-swift-mariah-carey-shake-it-off'
+slug: 'taylor-swift-mariah-carey-shake-it-off'
 createdAt: '2024-03-10T16:18:28+0000'
 seoTitle: "Taylor Swift's Shake It Off / Mariah Carey's Shake It Off"
 seoDescription: "For 2024, I'll talk about a song a day: this week, we'll do a compare-and-contrast of Taylor Swift and Mariah Carey's respective Shake It Off singles."
@@ -45,7 +45,7 @@ This is, of course, speculation on my part (this whole blog is just speculation,
 
 This obsession with detail invades the level of the line. There's a particularly vulnerable moment in Mariah's "Shake It Off": "\[I\] gotta make that move / for somebody who / appreciates all the love I give." Mariah is gut-wrenching in "move" and "who", almost at the brink of tears (but deftly _not_, stepping away from it at the right moment), as if recalling past memories with the man that she is with now and slowly acknowledging he's not the one. Then, allowing herself release, she coos "appreciates all the love I give", returning the subject back to herself and her own agency rather than the person who gives her pain. THIRTEEN. WORDS.
 
-That doesn't mean Taylor is a lesser writer; I think hers is a curiously Millenial approach, that of needing to provide a greater context into one's emotions. Oh, we're the Psychiatrist Generation, alright: we understand we're not the masters of our emotions and we're always in need to consider them in the vast complexity of our being. The long-form narrative format works better in modern culture. 
+That doesn't mean Taylor is a lesser writer; I think hers is a curiously Millenial approach, that of needing to provide a greater context into one's emotions. Oh, we're the Psychiatrist Generation, alright: we understand we're not the masters of our emotions and we're always in need to consider them in the vast complexity of our being. The long-form narrative format works better in modern culture.
 
 In exchange, Mariah is a writer of action; where Taylor is interested in feeling, Mariah describes what she's doing, leading, inadvertently, to her diva reputation. She's really petty. "See, I grabbed all my diamonds and clothes," "So I packed up my Louis Vuitton, / jumped in your ride and took off." Mariah...only you would think of your diamonds and luxury fashion at a moment like this. (Who even has diamonds in this economy?) But what's amusing is that she wants you to share her pettiness; indeed, that is a language every human being is privy to.
 

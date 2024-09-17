@@ -1,6 +1,6 @@
 ---
 title: 'Whiplash (2014)'
-slug: '/whiplash-film'
+slug: 'whiplash-film'
 createdAt: '2022-05-11T19:09:16+0000'
 seoTitle: 'Whiplash (2014)'
 seoDescription: 'We discuss Damien Chazelle''s 2014 film "Whiplash".'

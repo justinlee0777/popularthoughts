@@ -1,6 +1,6 @@
 ---
 title: "Rewriting One Piece's New World: Conclusion"
-slug: '/one-piece-rewrite-conclusion'
+slug: 'one-piece-rewrite-conclusion'
 createdAt: '2023-01-01T05:09:36+0000'
 seoTitle: "Rewriting One Piece's New World: Conclusion"
 seoDescription: 'After rewriting One Piece, we analyze the series as a whole and Oda as an artist.'

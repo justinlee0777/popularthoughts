@@ -1,6 +1,6 @@
 ---
 title: "Tracy Chapman's Fast Car"
-slug: '/tracy-chapman-fast-car'
+slug: 'tracy-chapman-fast-car'
 createdAt: '2024-03-31T02:26:09+0000'
 seoTitle: "Tracy Chapman's Fast Car"
 seoDescription: "For 2024, I'll talk about a song a day: this week, we'll talk about Tracy Chapman's Fast Car."

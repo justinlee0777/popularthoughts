@@ -1,6 +1,6 @@
 ---
 title: "Giacomo Puccini's Nessun Dorma"
-slug: '/giacomo-puccini-nessun-dorma'
+slug: 'giacomo-puccini-nessun-dorma'
 createdAt: '2024-05-03T03:37:59+0000'
 seoTitle: "Giacomo Puccini's Nessun Dorma"
 seoDescription: "For 2024, I'll talk about a song a day: this week, we'll talk about one of the most renowned arias, Nessun Dorma."

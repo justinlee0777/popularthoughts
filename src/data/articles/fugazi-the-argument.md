@@ -1,6 +1,6 @@
 ---
 title: "Fugazi's The Argument"
-slug: '/fugazi-argument'
+slug: 'fugazi-argument'
 createdAt: '2022-02-26T20:00:44+0000'
 seoTitle: "Fugazi's The Argument"
 seoDescription: "Fugazi's The Argument is one of the greatest albums of all time. And it's really damn American."

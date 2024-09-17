@@ -1,18 +1,18 @@
-import './main-site-content.css';
+import styles from './main-site-content.module.css';
 
-import { Link } from 'gatsby';
 import React, { useEffect, useState } from 'react';
 
-import Switch from 'shared/switch/switch';
+import Switch from '../../shared/switch/switch';
 
 import { addWindowArrowKeyScrollListener } from '../../utils/add-window-arrow-key-scroll-listener.function';
 import ArticleContent from '../article-content/article-content';
 import { MainSiteContentConfig } from './main-site-content.config';
+import Link from 'next/link';
 
 export default function MainSiteContent(
 	config: MainSiteContentConfig
 ): JSX.Element {
-	const mainSiteContentSelector = 'main-site-content';
+	const mainSiteContentSelector = styles['main-site-content'];
 	const className = `${mainSiteContentSelector} ${config.className}`;
 
 	const [showBook, setShowBook] = useState(false);
@@ -36,13 +36,13 @@ export default function MainSiteContent(
 
 	return (
 		<React.Fragment>
-			<div className="content-header">
-				<Link className="back-link" to="/">
+			<div className={styles['content-header']}>
+				<Link className={styles['back-link']} href="/">
 					Back
 				</Link>
-				<div className="toggle-text">Show as book</div>
+				<div className={styles['toggle-text']}>Show as book</div>
 				<Switch
-					className="toggle"
+					className={styles['toggle']}
 					value={showBook}
 					onChange={on => setShowBook(on)}
 				/>

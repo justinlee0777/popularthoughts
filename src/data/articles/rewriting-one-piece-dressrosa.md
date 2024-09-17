@@ -1,6 +1,6 @@
 ---
 title: "Rewriting One Piece's New World: Dressrosa"
-slug: '/one-piece-rewrite-dressrosa'
+slug: 'one-piece-rewrite-dressrosa'
 createdAt: '2023-01-01T05:09:56+0000'
 seoTitle: "Rewriting One Piece's New World: Dressrosa"
 seoDescription: "We rewrite One Piece's Dressrosa arc."

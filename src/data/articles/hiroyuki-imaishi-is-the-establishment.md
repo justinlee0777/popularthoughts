@@ -1,6 +1,6 @@
 ---
 title: 'Hiroyuki Imaishi is the establishment'
-slug: '/cyberpunk-edgerunners'
+slug: 'cyberpunk-edgerunners'
 createdAt: '2022-10-19T03:08:21+0000'
 seoTitle: 'Cyberpunk: Edgerunners'
 seoDescription: '"Cyberpunk: Edgerunners" is hot garbage.'

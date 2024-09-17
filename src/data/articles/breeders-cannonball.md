@@ -1,6 +1,6 @@
 ---
 title: "The Breeders' Cannonball"
-slug: '/the-breeders-cannonbal'
+slug: 'the-breeders-cannonbal'
 createdAt: '2024-02-18T05:14:47+0000'
 seoTitle: "The Breeders' Cannonball"
 seoDescription: "For 2024, I'll talk about a song a day: this week, we'll talk about The Breeders' Cannonball."

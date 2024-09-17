@@ -1,6 +1,6 @@
 ---
 title: "Beyoncé's Hold Up"
-slug: '/beyonce-hold-up'
+slug: 'beyonce-hold-up'
 createdAt: '2024-09-04T13:13:15+0000'
 seoTitle: "Beyoncé's Hold Up"
 seoDescription: "For 2024, I'll talk about a song a day: this week, we're talking about Beyoncé's Hold Up."

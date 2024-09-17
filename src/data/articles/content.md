@@ -1,6 +1,6 @@
 ---
 title: 'On Content'
-slug: '/on-patrick-willems-everything-is-content'
+slug: 'on-patrick-willems-everything-is-content'
 createdAt: '2023-11-27T02:25:41+0000'
 seoTitle: "On Patrick Willems' Everything Is Content video"
 seoDescription: "Let's talk a little about content."
@@ -27,7 +27,7 @@ I call him a content creator primarily because there's no specific thing I can p
 
 This is, of course, the postmodern world we live in, that Gaddis feared.
 
-I agree with most of Willems' conclusions, but I don't agree with his logic - that artists are being stifled in the world of streaming, yes, but that they suffer being called "content creators"? I feel he has it backwards - businesses have _always_ wanted to commodify entertainment, there has _never_ been a decade where they haven't, unless they thought it wouldn't make them money. They call it "content" because they don't know how else to brand it. Why do people want to watch Guy Fieri go through diners, drive-ins and dives? Why do people want to watch a documentary about marijuana? Why do people want to watch a dramatization of Jeffrey Daumer's life? Why do people want to watch a sequel to "Full House" called "Fuller House"? Why do people want to watch, Jesus, a live-action adaptation of "One Piece"? I. Don't. Know. I don't know. No one knows! No one knows why anyone wants to watch them! *BUT THEY DO.* That's the point of contention!
+I agree with most of Willems' conclusions, but I don't agree with his logic - that artists are being stifled in the world of streaming, yes, but that they suffer being called "content creators"? I feel he has it backwards - businesses have _always_ wanted to commodify entertainment, there has _never_ been a decade where they haven't, unless they thought it wouldn't make them money. They call it "content" because they don't know how else to brand it. Why do people want to watch Guy Fieri go through diners, drive-ins and dives? Why do people want to watch a documentary about marijuana? Why do people want to watch a dramatization of Jeffrey Daumer's life? Why do people want to watch a sequel to "Full House" called "Fuller House"? Why do people want to watch, Jesus, a live-action adaptation of "One Piece"? I. Don't. Know. I don't know. No one knows! No one knows why anyone wants to watch them! _BUT THEY DO._ That's the point of contention!
 
 That's the real issue! The issue lies with the audience, not with corporations. The audience has been extremely receptive to this new format of entertainment. On a different note, they are also formalizing this format so it becomes predictable. This is another of Willems' gripes: we, Millenials, Zoomers etc., as we speak, are solidifying the cadence, the matter, the _expectations_ of this kind of content, so that these too, YouTube, TikTok, whatever, will become the TV of the future which creators can enter safely though not wildly successfully. This is not surprising. This is the case with every industry: minimizing risk and maximizing investment. And the audience is content with this content. If you want to blame someone, you have to blame the audience.
 

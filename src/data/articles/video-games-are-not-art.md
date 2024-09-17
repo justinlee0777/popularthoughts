@@ -1,6 +1,6 @@
 ---
 title: 'No, video games are not art'
-slug: '/video-games-are-not-art'
+slug: 'video-games-are-not-art'
 createdAt: '2021-05-08T17:29:00+0000'
 seoTitle: 'No, video games are not art'
 seoDescription: 'We demonstrate that video games are not art.'

@@ -1,6 +1,6 @@
 ---
 title: 'Risk of Rain 2 is too long'
-slug: '/risk-of-rain-2'
+slug: 'risk-of-rain-2'
 createdAt: '2021-11-08T22:39:21+0000'
 seoTitle: 'Risk of Rain 2'
 seoDescription: 'Risk of Rain 2 is too long for an old man like me.'

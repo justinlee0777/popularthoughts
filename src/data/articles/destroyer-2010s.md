@@ -1,6 +1,6 @@
 ---
 title: 'Destroyer and the 2010s'
-slug: '/destroyer-2010s'
+slug: 'destroyer-2010s'
 createdAt: '2023-12-31T06:36:41+0000'
 seoTitle: 'Destroyer and the 2020s'
 seoDescription: "We discuss the band Destroyer's 2010s output: Kaputt (2011), Poison Season (2015), ken (2017) and Have We Met (2020)."

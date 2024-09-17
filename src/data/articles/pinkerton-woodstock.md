@@ -1,6 +1,6 @@
 ---
 title: "Woodstock '99 and Weezer's Pinkerton"
-slug: '/woodstock-99-pinkerton'
+slug: 'woodstock-99-pinkerton'
 createdAt: '2022-04-10T00:03:16+0000'
 seoTitle: "Woodstock '99 and Weezer's Pinkerton"
 seoDescription: "There is an interesting '90s connection to HBO's Woodstock '99 and Weezer's Pinkerton."

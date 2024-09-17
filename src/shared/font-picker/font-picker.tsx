@@ -1,4 +1,4 @@
-import './font-picker.css';
+import styles from './font-picker.module.css';
 
 import React from 'react';
 
@@ -11,13 +11,16 @@ export default function FontPicker({
 	children,
 }: FontPickerConfig): JSX.Element {
 	return (
-		<fieldset className="font-picker">
+		<fieldset className={styles['font-picker']}>
 			<legend>Fonts</legend>
 			{fonts.map(font => {
 				const radioId = `radio-${font.family};`;
 
 				return (
-					<div className="font-picker-item" key={font.family}>
+					<div
+						className={styles['font-picker-item']}
+						key={font.family}
+					>
 						<input
 							type="radio"
 							id={radioId}

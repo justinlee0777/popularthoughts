@@ -1,6 +1,6 @@
 ---
 title: "Dead Kennedys' California Über Alles"
-slug: '/dead-kennedys-california-über-alles'
+slug: 'dead-kennedys-california-über-alles'
 createdAt: '2024-08-09T01:33:05+0000'
 seoTitle: "Dead Kennedys' California Über Alles"
 seoDescription: "For 2024, I'll talk about a song a day: this week, we talk about the Dead Kennedys' California Über Alles."

@@ -1,6 +1,6 @@
 ---
 title: 'Gura and The Future of VTubing'
-slug: '/gura-and-vtubing'
+slug: 'gura-and-vtubing'
 createdAt: '2023-07-13T03:23:42+0000'
 seoTitle: 'Gura and VTubing'
 seoDescription: 'I talk a little about one of my guilty pleasures, VTubing, and its star, Gawr Gura.'

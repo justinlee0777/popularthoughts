@@ -1,6 +1,6 @@
 ---
 title: "Hole's Asking For It"
-slug: '/hole-asking-for-it'
+slug: 'hole-asking-for-it'
 createdAt: '2024-04-12T11:26:09+0000'
 seoTitle: "Hole's Asking For It"
 seoDescription: "For 2024, I'll talk about a song a day: this week, we'll talk about Hole's Asking For It."

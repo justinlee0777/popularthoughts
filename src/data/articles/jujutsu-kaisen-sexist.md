@@ -1,6 +1,6 @@
 ---
 title: 'Jujutsu Kaisen is a bit sexist'
-slug: '/jujutsu-kaisen-sexist'
+slug: 'jujutsu-kaisen-sexist'
 createdAt: '2021-10-11T03:07:04+0000'
 seoTitle: 'Jujutsu Kaisen is a bit sexist'
 seoDescription: 'Jujutsu Kaisen may be a bit sexist.'

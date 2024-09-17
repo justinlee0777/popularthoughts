@@ -1,8 +1,8 @@
 ---
 title: 'The Wind Rises'
-slug: '/hayao-miyazaki-the-wind-rises'
+slug: 'hayao-miyazaki-the-wind-rises'
 createdAt: '2023-11-27T02:25:41+0000'
-seoTitle: "The Wind Rises"
+seoTitle: 'The Wind Rises'
 seoDescription: "Let's discuss Hayao Miyazaki's The Wind Rises, one of his masterpieces."
 tags: ['anime', 'animation', 'film']
 ---

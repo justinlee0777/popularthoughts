@@ -1,6 +1,6 @@
 ---
 title: "My Chemical Romance's Disenchanted"
-slug: '/my-chemical-romance-disenchanted'
+slug: 'my-chemical-romance-disenchanted'
 createdAt: '2024-07-22T04:30:15+0000'
 seoTitle: "My Chemical Romance's Disenchanted"
 seoDescription: "For 2024, I'll talk about a song a day: this week, we'll talk about My Chemical Romance's Disenchanted."
@@ -47,7 +47,7 @@ I've given myself the task of writing about one song a week for 2024 because, we
 
 "What's important is _subtlety_, more than anything; too much drama, and it becomes painfully human; too much sadness, and it becomes too specific; then there's the correct placement of all of these elements - the specific, the subject's life, and the general, their angest - such that the audience can correctly come to a more-or-less correct interpretation of the song's meaning. It's extremely clever to juxtapose this whole pity party to an untimely death. It's a balancing act that eludes so many great songwriters, and it's accomplished in, like, this Queen rip-off.
 
-"Well, yeah, I'm just gonna throw that out there: clearly there are similarities to Bohemian Rhapsody. One is that we don't really like the protagonist. Yeah, I mean he's dying, you can feel _bad_ for them, but you don't _like_ them because they hate everyone, mostly themself. In Rhapsody, we don't care much for the guy who killed a man. But as we come to understand the person and their struggle with grief, our opinion of them doesn't ameliorate, but we feel that fundamental connection to other human beings and their pain,  regardless of what they've done.
+"Well, yeah, I'm just gonna throw that out there: clearly there are similarities to Bohemian Rhapsody. One is that we don't really like the protagonist. Yeah, I mean he's dying, you can feel _bad_ for them, but you don't _like_ them because they hate everyone, mostly themself. In Rhapsody, we don't care much for the guy who killed a man. But as we come to understand the person and their struggle with grief, our opinion of them doesn't ameliorate, but we feel that fundamental connection to other human beings and their pain, regardless of what they've done.
 
 "It's also funny how _frivolous_ both songs are. Nothing suggests depth in either song, but both are characterized by having the right amount of detail. Oh, and the belting of both singers of their respective bands. Of particular mention is Way's singing You're such a sa-a-a-ad song, a clear cry of agony.
 

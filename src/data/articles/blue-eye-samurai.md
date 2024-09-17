@@ -1,6 +1,6 @@
 ---
 title: 'Blue Eye Samurai'
-slug: '/blue-eye-samurai'
+slug: 'blue-eye-samurai'
 createdAt: '2023-11-27T02:25:41+0000'
 seoTitle: 'Blue Eye Samurai'
 seoDescription: 'Holy moly is Blue Eye Samurai racist.'

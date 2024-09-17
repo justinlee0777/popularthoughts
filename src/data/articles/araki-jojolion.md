@@ -1,6 +1,6 @@
 ---
 title: "Hirohiko Araki's JoJolion"
-slug: '/hirohiko-araki-jojolion'
+slug: 'hirohiko-araki-jojolion'
 createdAt: '2022-10-19T03:08:21+0000'
 seoTitle: "Hirohiko Araki's JoJolion"
 seoDescription: "JoJolion is Hirohiko Araki's masterpiece."

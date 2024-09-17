@@ -1,6 +1,6 @@
 ---
 title: "Action Swingers' Miserable Life / IVY's Head Business"
-slug: '/action-swingers-miserable-life-ivy-head-business'
+slug: 'action-swingers-miserable-life-ivy-head-business'
 createdAt: '2024-08-01T22:36:12+0000'
 seoTitle: "Action Swingers' Miserable Life / IVY's Head Business"
 seoDescription: "For 2024, I'll talk about a song a day: this week is a double feature, Action Swingers' Miserable Life and IVY's Head Business."

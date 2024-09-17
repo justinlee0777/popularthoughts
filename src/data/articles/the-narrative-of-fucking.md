@@ -1,6 +1,6 @@
 ---
 title: 'The Narrative of Fucking'
-slug: '/the-narrative-of-fucking'
+slug: 'the-narrative-of-fucking'
 createdAt: '2021-07-25T00:17:20+00:00'
 seoTitle: 'The Narrative of Fucking'
 seoDescription: 'We discuss how recently the storytelling of pornography and anime have blended in disturbing ways, through the show Nagotoro.'

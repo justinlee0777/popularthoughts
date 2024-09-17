@@ -1,6 +1,6 @@
 ---
 title: 'The Best Album of 2021'
-slug: '/best-album-2021'
+slug: 'best-album-2021'
 createdAt: '2022-01-15T22:15:37+0000'
 seoTitle: 'The Best Album of 2021'
 seoDescription: 'We review the year 2021 in music and cover my favorite album of 2021: Dream Unending''s "Tide Turns Eternal".'

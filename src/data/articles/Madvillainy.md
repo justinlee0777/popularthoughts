@@ -1,6 +1,6 @@
 ---
 title: 'Madvillainy'
-slug: '/madvillains-madvillainy'
+slug: 'madvillains-madvillainy'
 createdAt: '2021-01-02T01:58:01+0000'
 seoTitle: 'Madvillainy'
 seoDescription: 'We reflect on MF DOOM''s passing away through the album "Madvillainy".'

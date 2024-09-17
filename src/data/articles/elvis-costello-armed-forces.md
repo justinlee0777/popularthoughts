@@ -1,6 +1,6 @@
 ---
 title: "Elvis Costello's Armed Forces"
-slug: '/elvis-costello-armed-forces'
+slug: 'elvis-costello-armed-forces'
 createdAt: '2022-10-19T03:08:22+0000'
 seoTitle: "Elvis Costello's Armed Forces"
 seoDescription: "We take another look at Elvis Costello's second album with The Attractions, Armed Forces."

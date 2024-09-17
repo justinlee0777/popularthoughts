@@ -1,6 +1,6 @@
 ---
 title: "A Retrospective on Neil Gaiman's Sandman"
-slug: '/neil-gaiman-sandman'
+slug: 'neil-gaiman-sandman'
 createdAt: '2022-09-20T15:43:41+0000'
 seoTitle: "Neil Gaiman's Sandman"
 seoDescription: 'I reflect a little on my history with Neil Gaiman''s "Sandman" and on the new Netflix series.'

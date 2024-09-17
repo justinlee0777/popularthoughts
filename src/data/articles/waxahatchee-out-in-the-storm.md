@@ -1,6 +1,6 @@
 ---
 title: "Waxahatchee's Out in the Storm"
-slug: '/waxahatchee-out-in-the-storm'
+slug: 'waxahatchee-out-in-the-storm'
 createdAt: '2021-02-01T15:42:55+0000'
 seoTitle: "Waxahatchee's Out in the Storm"
 seoDescription: "We discuss Waxahatchee's Out in the Storm."

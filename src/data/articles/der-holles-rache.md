@@ -1,6 +1,6 @@
 ---
 title: "Mozart's Der Holle Rache"
-slug: '/der-holle-rache'
+slug: 'der-holle-rache'
 createdAt: '2022-01-15T22:15:37+0000'
 seoTitle: "Mozart's Der Holle Rache"
 seoDescription: 'We discuss the "Der Holle Rache" aria of Mozart''s/Schikaneder''s Magic Flute.'

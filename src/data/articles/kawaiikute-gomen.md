@@ -1,6 +1,6 @@
 ---
 title: "HoneyWorks' Kawaikute Gomen"
-slug: '/honeyworks-kawaikute-gomen'
+slug: 'honeyworks-kawaikute-gomen'
 createdAt: '2024-01-20T05:30:46+0000'
 seoTitle: "HoneyWorks' Kawaikute Gomen"
 seoDescription: "For 2024, I'll talk about a song a day: this week, we'll talk about the weeby-weebiest song of all, HoneyWorks' Kawaikute Gomen."

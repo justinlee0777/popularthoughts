@@ -1,6 +1,6 @@
 ---
 title: 'Blue Period sucks'
-slug: '/blue-period-flaw'
+slug: 'blue-period-flaw'
 createdAt: '2021-11-08T22:39:21+0000'
 seoTitle: "Blue Period's Flaw"
 seoDescription: 'The anime Blue Period has one fundamental flaw: it sucks.'

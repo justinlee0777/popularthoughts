@@ -1,6 +1,6 @@
 ---
 title: 'Pale Horse, Pale Rider'
-slug: '/pale-horse-pale-rider'
+slug: 'pale-horse-pale-rider'
 createdAt: '2023-07-13T03:23:42+0000'
 seoTitle: "Katherine Anne Porter's Pale Horse, Pale Rider"
 seoDescription: 'We discuss Katherine Anne Porter''s classic trilogy, "Pale Horse, Pale Rider".'

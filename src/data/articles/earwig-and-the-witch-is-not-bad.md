@@ -1,6 +1,6 @@
 ---
 title: 'Earwig and the Witch is not bad'
-slug: '/earwig-and-the-witch'
+slug: 'earwig-and-the-witch'
 createdAt: '2021-02-15T17:51:27+0000'
 seoTitle: 'Earwig and the Witch'
 seoDescription: 'Earwig and the Witch is not as bad as some are saying.'

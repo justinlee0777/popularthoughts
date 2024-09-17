@@ -1,6 +1,6 @@
 ---
 title: "Rewriting One Punch Man's Monster Association Arc"
-slug: '/rewriting-one-punch-monster-association-arc'
+slug: 'rewriting-one-punch-monster-association-arc'
 createdAt: '2022-08-21T20:13:52+0000'
 seoTitle: "Rewriting One Punch Man's Monster Association Arc"
 seoDescription: "We rewrite the One Punch Man manga's Monster Association Arc, as a creative exercise."
