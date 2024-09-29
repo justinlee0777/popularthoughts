@@ -9,7 +9,7 @@ tags: ['animation', 'anime']
 
 Well okay, saying "Jujutsu Kaisen" _specifically_ is sexist is going a bit far, but the mangaka's philosophy, shared by other content creators, is definitely an unusual bit of sexism.
 
-There's a notable scene that's caused a bit of a stir where the girl in "Jujutsu Kaisen", the confluence of shape and color called "Nobara", fights a witch thing who lectures here on how women have to be beautiful and punch people in the face or whatever, to which Nobara says something to the effect of, Because I'm strong enough to punch anyone in the face, that makes me beautiful. All this, people say, is some demonstration of "Jujutsu Kaisen's" commitment to feminism.
+There's a notable scene that's caused a bit of a stir where the girl in "Jujutsu Kaisen", the confluence of shape and color called "Nobara", fights a witch thing who lectures her on how women have to be beautiful and punch people in the face or whatever, to which Nobara says something to the effect of, Because I'm strong enough to punch anyone in the face, that makes me beautiful. All this, people say, is some demonstration of "Jujutsu Kaisen's" commitment to feminism.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/CrOgGawQsOE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" style="display: block; margin: auto" allowfullscreen></iframe>
 
