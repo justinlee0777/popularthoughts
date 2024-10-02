@@ -15,7 +15,7 @@ I actually pored through Kazuo Umezu's "Drifting Classroom" in a day. I'm not su
 
 I read through Junji Ito's "Gyo" with the same avidity - it's very short, so that helps - but for different reasons. Spoilers ahead.
 
-When I got to the panel at the end of Chapter , where tubes are stuck up the butt of the constantly-farting woman to power a spider machine, I began laughing.
+When I got to the panel at the end of Chapter 11, where tubes are stuck up the butt of the constantly-farting woman to power a spider machine, I began laughing.
 
 How is "Gyo" not a comedy?
 
