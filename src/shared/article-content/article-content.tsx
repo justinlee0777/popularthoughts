@@ -41,6 +41,10 @@ function createFlexibleBook(
 					pagesShown: 1,
 					listeners: [listenToClickEvents],
 					theme: DefaultBookTheme,
+					pictureInPicture: {
+						affectedElements: 'iframe',
+						autoLock: true,
+					},
 					animation: new SinglePageBookAnimation(),
 				},
 				{
@@ -54,14 +58,23 @@ function createFlexibleBook(
 							listenToKeyboardEvents,
 						],
 						theme: DefaultBookTheme,
+						pictureInPicture: {
+							affectedElements: 'iframe',
+							autoLock: true,
+						},
 						animation: new DoublePageBookAnimation(),
 					},
 				},
 			],
 		},
 		{
-			transformers: [new NewlineTransformer()],
-			forHTML: true,
+			transformers: [
+				{
+					transform(text) {
+						return text.replace(/\n/g, '');
+					},
+				},
+			],
 		},
 		{
 			styles: {
