@@ -108,3 +108,9 @@ As an aside, I think, of English, Nanashi Mumei's ["mumei"](https://www.youtube.
 We're still on track for [the future](/gura-and-vtubing) I predicted. With this write-up, I'm gathering closer to the idea that this is all a huge joke. But, by the efforts of extremely gifted individual talents, I'm also beginning to believe there's a beautiful vein of ore of expression here. The 2nd EN concert, which this write-up comes coolly from the heels of, was another joke, but less of one than the 1st concert, because of Advent, of course (yes, I'm an unabashed fan). By gum they can't sing and they can't dance, but they're happy to be there, and their joy infects the audience. It's also gratifying to see FUWAMOCO in their proper venue, when they've spent either a good chunk or their entire adult lives trying to be actual real Japanese idols. The power of this medium is that people who deserve to be on that stage can get on that stage regardless of their looks or background. The illness of this medium is that people who don't deserve ... The internet gave blessings and curses.
 
 I will say this about Gura: she gave visibility to this whole fuckin' medium. Perhaps not singlehandedly, but her hand is heaviest. If she decides not to continue, it's up to her. The nice thing about her absence is that she has not given me anything to be ashamed of her. But I do miss her.
+
+---
+
+Addendum 10/10/24:
+
+[Bijou's new song](https://www.youtube.com/watch?v=M3pjFfKBonI) is not bad. YUC'e had a good understanding of how to use the talent and what traits to emphasize and which to diminish. Fine; in hindsight, I was being extremely mean. I suppose if there are any good reasons to correct an article, it's to make an earnest attempt to apologize. Which means, of the aforementioned artists, the two are exceptionally delusional.

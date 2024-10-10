@@ -16,3 +16,7 @@ iframe {
     margin: 0 auto;
     max-width: 100%;
 }
+
+.pipOverlay {
+    max-height: 25vh !important;
+}
