@@ -3,7 +3,7 @@
 		"baseUrl": "./src",
 		"target": "ESNext" /* or at least ES2015 */,
 		"module": "ESNext" /* or at least ES2015 */,
-		"lib": ["dom", "DOM.Iterable"] /* <-- required! */,
+		"lib": ["dom", "DOM.Iterable", "es2022"] /* <-- required! */,
 		"jsx": "preserve" /* <-- required! */,
 		"moduleResolution": "node",
 		"paths": {

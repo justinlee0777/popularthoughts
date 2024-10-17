@@ -4,3 +4,4 @@ package-lock.json
 public
 .next
 out
+src/data/articles

@@ -20,3 +20,7 @@ iframe {
 .pipOverlay {
     max-height: 25vh !important;
 }
+
+.verse {
+    white-space: pre;
+}
