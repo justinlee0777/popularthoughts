@@ -71,7 +71,7 @@ function createFlexibleBook(
 			transformers: [
 				{
 					transform(text) {
-						return text.replaceAll(/(<\/\w+>)\n+/g, '$1');
+						return text.replaceAll(/(<.+>)\n+/g, '$1');
 					},
 				},
 			],
