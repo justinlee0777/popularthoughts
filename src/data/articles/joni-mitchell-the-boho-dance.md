@@ -7,9 +7,11 @@ seoDescription: "For 2024, I'll talk about a song a day: this week, we're talkin
 tags: ['music']
 ---
 
-I've given myself the task of writing about one, err, three songs a week for 2024 because, well, I think it'd be fun.
+I've given myself the task of writing about one song a week for 2024 because, well, I think it'd be fun.
 
 ### Joni Mitchell's The Boho Dance
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/I9wExpOXk-U?si=MA2Min_Z217R60X1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 IT'S JONI MITCHELL MONTH MOTHERFUCKERS!!! Joni Mitchell is my favorite songwriter - with an asterisk - so I wanted to spend four weeks talking about four exceptional songs from exceptional albums by an exceptional artist. I'll focus, for these write-ups, on two: 1975's "The Hissing of Summer Lawns" and 1974's "Court and Spark".
 
