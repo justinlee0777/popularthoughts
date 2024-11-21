@@ -3,7 +3,7 @@ title: 'The Best Album of 2023'
 slug: 'best-album-2023'
 createdAt: '2023-11-27T02:25:41+0000'
 seoTitle: 'The Best Album of 2023'
-seoDescription: "We review the year 2023 in music and cover three favoriate albums: Lonnie Holley's 'Oh Me, Oh My', Jaimie Branch's posthumous 'Fly or Die Fly or Die Fly or Die ((world war))' and ANOHNI and The Johnsons' 'My Back Was A Bridge For You To Cross'."
+seoDescription: "We review the year 2023 in music and cover three favorite albums: Lonnie Holley's 'Oh Me, Oh My', Jaimie Branch's posthumous 'Fly or Die Fly or Die Fly or Die ((world war))' and ANOHNI and The Johnsons' 'My Back Was A Bridge For You To Cross'."
 tags: ['music']
 ---
 
