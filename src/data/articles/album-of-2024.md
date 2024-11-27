@@ -80,7 +80,9 @@ unto itself, of the knee.
 
 This is the best poetry. When a poet tries too hard to instill meaning into their words, a la the verses you'll see in the New York City subways, the poem almost stops being poetry, it stops being real, it becomes just words. The only good poems are the ones that are almost not even worth talking about, when the poet treats the subject with such indifference that we're puzzled he doesn't see what we see. It's somewhat unfair, because of my literary background, to even put spoken word records here, but I absolutely want "Mister Sweet Whisper" to continue whispering into my ear.
 
-So now we move onto the contenders for the best album of the year.
+So now we move onto the contenders for the best album of the year, whose songs I have put into a playlist.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?si=wtnHsx-QgmmFrlPV&amp;list=PLhDzA_SHzv9FOqZDtdK1y4RrV12h4U_UB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ### DORIS' Ultimate Love Songs Collection
 
