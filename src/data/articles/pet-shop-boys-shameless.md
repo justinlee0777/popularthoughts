@@ -4,7 +4,8 @@ slug: 'pet-shop-boys-shameless'
 createdAt: '2024-01-13T23:27:16+0000'
 seoTitle: "Pet Shop Boy's Shameless"
 seoDescription: "For 2024, I'll talk about a song a day: this week, we'll talk about the Pet Shop Boy's 1993 song, Shameless."
-tags: ['music']
+tags: ['music', 'song of the week']
+rating: 3
 ---
 
 I've given myself the task of writing about one song a week for 2024 because, well, I think it'd be fun.

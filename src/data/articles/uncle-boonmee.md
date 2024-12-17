@@ -5,6 +5,7 @@ createdAt: '2022-04-10T00:03:16+0000'
 seoTitle: 'Uncle Boonmee Who Can Recall His Past Lives'
 seoDescription: "We analyze Apichatpong Weerasethakul's film, Uncle Boonmee Who Can Recall His Past Lives."
 tags: ['film']
+rating: 4
 ---
 
 The promotional material for "Uncle Boonmee Who Can Recall His Past Lives" is misleading. The <a href="https://www.youtube.com/watch?v=Jk-EoUb0nvg" target="_blank" rel="noopener noreferrer">trailer</a> focuses on two key things: the audio of a menacing jungle and a dark figure with red eyes. Red eyes, especially pupil-less, denote some kind of violent horror. Yet those concepts should not scare or depress you. The reality is, the red-eyed figure is not a monster who lives exclusively in the dark. Though it is something representing the unknown. The truth is, the eyes are an illumination in the dark, where ours are clouded and therefore apprehensive where we should not be.

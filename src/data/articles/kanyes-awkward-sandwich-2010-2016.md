@@ -5,6 +5,7 @@ createdAt: '2021-06-08T03:23:59+0000'
 seoTitle: "Kanye's awkward sandwitch (2010 - 2016)"
 seoDescription: "We discuss Kanye's awkward sandwich - My Beautiful Dark Twisted Fantasy, Yeezus, and The Life of Pablo."
 tags: ['music']
+rating: 3
 ---
 
 Before I begin this discussion ("discussion" in several quotes), let's get this out of the way: Kanye West is a great musician, and who cares what he has said in public. The latter literally has no impact on the strength of his work.

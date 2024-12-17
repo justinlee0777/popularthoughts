@@ -5,6 +5,7 @@ createdAt: '2022-07-16T16:30:55+0000'
 seoTitle: 'Miles Morale and the Big Steppers'
 seoDescription: "We talk about Kendrick's new album, Miles Morale and the Big Steppers. Or rather, everything it is not."
 tags: ['music']
+rating: 1
 ---
 
 ### John Prine

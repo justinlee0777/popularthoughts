@@ -4,7 +4,8 @@ slug: 'elvis-costello-dont-look-now'
 createdAt: '2024-10-17T18:35:31+0000'
 seoTitle: "Elvis Costello's Don't Look Now"
 seoDescription: "For 2024, I'll talk about a song a day: this week, we're talking about Elvis Costello's Don't Look Now."
-tags: ['music']
+tags: ['music', 'song of the week']
+rating: 4
 ---
 
 I've given myself the task of writing about one song a week for 2024 because, well, I think it'd be fun.

@@ -5,6 +5,7 @@ createdAt: '2021-09-18T22:37:06+0000'
 seoTitle: "Kanye's Donda"
 seoDescription: 'Welp, Donda is here.'
 tags: ['music']
+rating: 2
 ---
 
 Well, say what you will about Kanye, but at least he's interesting.

@@ -5,6 +5,7 @@ createdAt: '2024-08-28T04:56:31+0000'
 seoTitle: 'The Worst Music'
 seoDescription: 'The worst music I have heard in my life came from Hololive.'
 tags: ['anime', 'music']
+rating: 2
 ---
 
 We're talking about weeb shit here, so stay clear if you're not interested.

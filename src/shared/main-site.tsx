@@ -1,6 +1,6 @@
 import styles from './main-site.module.css';
 
-import React, { useEffect, useMemo, useState } from 'react';
+import React, { ReactNode, useEffect, useMemo, useState } from 'react';
 
 import downloadFont from '../functions/load-font.function';
 import MainSiteContent from './main-site-content/main-site-content';
@@ -10,6 +10,7 @@ import SEOComponent from './seo';
 import FontPicker from './font-picker/font-picker';
 import Font from './font-picker/font.model';
 import Spinner from './spinner/spinner';
+import NavBar from './nav-bar/nav-bar';
 
 function createSEO(seo: SEO): JSX.Element {
 	return (
@@ -23,8 +24,10 @@ function createSEO(seo: SEO): JSX.Element {
 
 export default function MainSite({
 	pageContext,
+	children,
 }: {
 	pageContext: MainSiteConfig;
+	children?: ReactNode | Array<ReactNode>;
 }): JSX.Element {
 	const fontStorageKey = useMemo(() => 'saved-font', []);
 	const fonts = useMemo(
@@ -95,7 +98,9 @@ export default function MainSite({
 
 	let content: JSX.Element;
 
-	if (pageContext.article) {
+	if ('aboutUs' in pageContext) {
+		content = <>{children}</>;
+	} else if ('article' in pageContext) {
 		content = (
 			<MainSiteContent
 				className={styles['content']}
@@ -103,13 +108,16 @@ export default function MainSite({
 				article={pageContext.article}
 			></MainSiteContent>
 		);
-	} else if (pageContext.entries) {
+	} else if ('entries' in pageContext) {
 		content = (
-			<MainSiteListing
-				className={styles['main-site-listing']}
-				entries={pageContext.entries}
-				filters={pageContext.filters}
-			/>
+			<>
+				{children}
+				<MainSiteListing
+					className={styles['main-site-listing']}
+					entries={pageContext.entries}
+					filters={pageContext.filters}
+				/>
+			</>
 		);
 	}
 
@@ -122,7 +130,9 @@ export default function MainSite({
 			style={{ fontFamily: font.family }}
 		>
 			{seo}
+			<NavBar />
 			<FontPicker
+				className={styles.fontPicker}
 				fonts={fonts}
 				selectedFont={font.family}
 				onFontSelect={loadFont}

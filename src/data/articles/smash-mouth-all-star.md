@@ -5,6 +5,7 @@ createdAt: '2022-07-16T16:30:55+0000'
 seoTitle: "Smash Mouth's All Star"
 seoDescription: 'We examine Smash Mouth''s "All Star", whose existence owes a bit more than "Shrek".'
 tags: ['music']
+rating: 3
 ---
 
 You know what, Smash Mouth's "All Star" is a great song. It may, to everyone's chagrin, end up in the American musical canon. Perhaps I should petition for its 7-inch single to be preserved by the Library of Congress.

@@ -5,6 +5,7 @@ createdAt: '2022-05-11T19:09:16+0000'
 seoTitle: "Jay-Z's 4:44"
 seoDescription: 'We discuss Jay-Z''s "4:44" which is, I daresay, a modern masterpiece?'
 tags: ['music']
+rating: 4
 ---
 
 The album begins with the self-destruction, or suicide, of our hero.

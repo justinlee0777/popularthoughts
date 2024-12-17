@@ -4,7 +4,8 @@ slug: 'joni-mitchell-boho-dance'
 createdAt: '2024-11-02T01:58:38+0000'
 seoTitle: "Joni Mitchell's The Boho Dance"
 seoDescription: "For 2024, I'll talk about a song a day: this week, we're talking about Joni Mitchell's The Boho Dance."
-tags: ['music']
+tags: ['music', 'song of the week']
+rating: 3
 ---
 
 I've given myself the task of writing about one song a week for 2024 because, well, I think it'd be fun.

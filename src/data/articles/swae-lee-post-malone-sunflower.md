@@ -4,7 +4,8 @@ slug: 'swae-lee-post-malone-sunflower'
 createdAt: '2024-06-14T03:14:58+0000'
 seoTitle: "Swae Lee and Post Malone's Sunflower"
 seoDescription: "For 2024, I'll talk about a song a day: this week, we'll talk about Swae Lee and Post Malone's Sunflower."
-tags: ['music']
+tags: ['music', 'song of the week']
+rating: 3
 ---
 
 I've given myself the task of writing about one song a week for 2024 because, well, I think it'd be fun.

@@ -5,6 +5,7 @@ createdAt: '2022-01-15T22:15:37+0000'
 seoTitle: "Mozart's Der Holle Rache"
 seoDescription: 'We discuss the "Der Holle Rache" aria of Mozart''s/Schikaneder''s Magic Flute.'
 tags: ['music']
+rating: 3
 ---
 
 The Queen of the Night's second aria is extremely cruel. If her daughter does not succeed in her plot for personal vengeance against the sage Sarastro, then she will forever reject her. The Queen's attendants coldly watch Pamina buckle over in torment.

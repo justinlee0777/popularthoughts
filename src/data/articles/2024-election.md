@@ -5,6 +5,7 @@ createdAt: '2024-11-06T15:45:03+0000'
 seoTitle: "The 2024 Election"
 seoDescription: "Wherein I admit to my displeasure I'm a little bummed out and kinda freaked out."
 tags: ['literature']
+rating: 2
 ---
 
 Oh, fuck it. The blog is for me, anyway, and I don't think anyone actually reads it. The blog is an exorcism of my own thoughts, it's pretty much me screaming into the dark (which begs the question of why I put so much effort into screaming so many words to no one, but I digress).

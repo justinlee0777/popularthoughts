@@ -5,6 +5,7 @@ createdAt: '2024-07-22T04:30:15+0000'
 seoTitle: 'Elden Ring: Shadow of the Erdtree'
 seoDescription: 'I turn about face on Elden Ring and discuss the DLC, Shadow of the Erdtree, quite a bit.'
 tags: ['video-game']
+rating: 3
 ---
 
 Alright. "Elden Ring" is ok.

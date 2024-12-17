@@ -1,0 +1,38 @@
+
+.entry {
+    border: 1px solid black;
+    display: flex;
+    flex: none;
+    flex-direction: column;
+    min-height: 0;
+    padding: 8px;
+    cursor: pointer;
+    text-decoration: none;
+    color: black;
+}
+
+@media (prefers-color-scheme: dark) {
+    .entry {
+        border-color: #efefef;
+        color: #efefef;
+    }
+}
+
+.article-type,
+.rating {
+    font-size: .86rem;
+}
+
+.rating {
+    display: inline-block;
+    margin-left: auto;
+    padding: .5em;
+}
+
+.row {
+    align-items: center;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    gap: 1em;
+}

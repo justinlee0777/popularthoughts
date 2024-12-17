@@ -5,6 +5,7 @@ createdAt: '2022-02-26T20:00:44+0000'
 seoTitle: 'Classical music and race'
 seoDescription: "Why the hell am I being told to call Mozart by his full name? Doesn't such a suggestion reveal more about the author than society?"
 tags: ['music']
+rating: 1
 ---
 
 <a href="https://slate.com/culture/2020/10/fullname-famous-composers-racism-sexism.html" target="_blank" rel="noopener noreferrer">This</a> is the most backwards article on music and race I've ever read. In the last year. Ok, in the last month.

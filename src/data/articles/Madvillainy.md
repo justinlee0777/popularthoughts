@@ -5,6 +5,7 @@ createdAt: '2021-01-02T01:58:01+0000'
 seoTitle: 'Madvillainy'
 seoDescription: 'We reflect on MF DOOM''s passing away through the album "Madvillainy".'
 tags: ['music']
+rating: 2
 ---
 
 It's bizarre how little I've regarded Madvillain's (MF DOOM as MC and Madlib as producer) "Madvillainy". I always believed it was unique, and _good_, but had a huge indifference and almost disdain for it.

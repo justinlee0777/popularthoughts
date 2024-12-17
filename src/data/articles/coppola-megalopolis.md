@@ -5,6 +5,7 @@ createdAt: '2024-10-10T04:28:54+0000'
 seoTitle: 'Megalopolis (2024)'
 seoDescription: "Let's talk about Francis Ford Coppola's Megalopolis."
 tags: ['film']
+rating: 5
 ---
 
 I fucking love this movie.

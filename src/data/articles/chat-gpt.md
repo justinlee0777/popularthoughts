@@ -5,6 +5,7 @@ createdAt: '2023-02-18T03:53:50+0000'
 seoTitle: 'ChatGPT and art'
 seoDescription: "We discuss the possible effects of ChatGPT and OpenAI's other projects on art."
 tags: ['film', 'music', 'visual art', 'literature']
+rating: 3
 ---
 
 I feel pretty lucky to have a Computer Science degree, especially during these times. Full disclosure: I'm a software developer by trade, which explains this _totally awesome_ and _impressive, technologically and design-wise_, website. I have a pretty good understanding of the technology that is becoming important in our lives, and so I don't get mystified by the speculation coming from a certain product (which is the best way to describe most software). But it's highly unlikely I would ever write a technology blog because they are as numerous as the stars, and used for all variety of reasons, genuine or deceitful, and I talk about current trends all the time with others anyway. I prefer talking about art because I find it more objective, hilariously enough. The furthest my real life and my articles have intersected is in the realm of video games, whose challenges I'm somewhat familiar with.

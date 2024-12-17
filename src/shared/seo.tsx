@@ -4,7 +4,6 @@ import { Helmet } from 'react-helmet';
 import { SEOConfig } from './seo.config';
 
 export default function SEO(seo: SEOConfig): JSX.Element {
-	// {seo.url && <meta property="og:url" content={seo.url} />}
 	let articleTag: JSX.Element;
 
 	if (seo.article) {

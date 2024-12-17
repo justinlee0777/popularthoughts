@@ -5,6 +5,7 @@ createdAt: '2023-02-18T03:53:50+0000'
 seoTitle: 'Last of Us Episode 3'
 seoDescription: 'The third episode of The Last of Us is silly.'
 tags: ['film']
+rating: 1
 ---
 
 ...basically a Christian romance.

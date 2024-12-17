@@ -4,7 +4,8 @@ slug: 'frankie-cosmos-too-dark'
 createdAt: '2024-03-22T01:47:45+0000'
 seoTitle: "Frankie Cosmos' too dark"
 seoDescription: "For 2024, I'll talk about a song a day: this week, we'll talk about Frankie Cosmos' too dark."
-tags: ['music']
+tags: ['music', 'song of the week']
+rating: 4
 ---
 
 I've given myself the task of writing about one song a week for 2024 because, well, I think it'd be fun.

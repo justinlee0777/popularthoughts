@@ -4,7 +4,8 @@ slug: 'joni-mitchell-trouble-child'
 createdAt: '2024-11-27T16:46:24+00:00'
 seoTitle: "Joni Mitchell's Trouble Child"
 seoDescription: "For 2024, I'll talk about a song a day: this week, we're talking about Joni Mitchell's Trouble Child."
-tags: ['music']
+tags: ['music', 'song of the week']
+rating: 4
 ---
 
 I've given myself the task of writing about one song a week for 2024 because, well, I think it'd be fun.

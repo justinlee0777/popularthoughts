@@ -5,6 +5,7 @@ createdAt: '2022-12-01T05:02:31+0000'
 seoTitle: "Library of America's Albert Murray"
 seoDescription: 'I have a complaint for Albert Murray, celebrated American essayist.'
 tags: ['literature']
+rating: 5
 ---
 
 Albert Murray is the Rakim of American essays.

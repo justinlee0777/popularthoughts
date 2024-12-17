@@ -5,6 +5,7 @@ createdAt: '2022-08-21T20:13:52+0000'
 seoTitle: 'Elden Ring'
 seoDescription: 'We talk about the unbalanced "Elden Ring".'
 tags: ['video-game']
+rating: 2
 ---
 
 To sum up: Very anime in a bad way.

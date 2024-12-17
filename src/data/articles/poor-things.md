@@ -5,6 +5,7 @@ createdAt: '2023-12-31T06:36:41+0000'
 seoTitle: 'Poor Things'
 seoDescription: '"Ah, the poor thing, Poor Things.'
 tags: ['film']
+rating: 4
 ---
 
 Let's do a quick one on "Poor Things": I have not read Alasdair Grey's novel. I would love to. Everything about the premise appeals to me, precisely the blur between fantasy and reality, absurdity and tragedy. I love the idea that a man has concocted a whole story from his being a cuckold. The most influential novel of the 20th century will probably be James Joyce's "Ulysses"; we have, unfortunately, many sons of the book that possess Joyce's wounded, pretentious masculinity, without, what I think is, Joyce's genuine naivete and wonder at the world. Writers are far too clever for their own good. That's why I like Gray's (supposed) cleverness against the male voice and himself, giving, at last, the female the last word in their depiction, while having a bit of fun along the way.

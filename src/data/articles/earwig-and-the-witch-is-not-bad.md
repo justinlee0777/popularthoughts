@@ -5,6 +5,7 @@ createdAt: '2021-02-15T17:51:27+0000'
 seoTitle: 'Earwig and the Witch'
 seoDescription: 'Earwig and the Witch is not as bad as some are saying.'
 tags: ['film', 'animation', 'anime']
+rating: 2
 ---
 
 ### Animation

@@ -4,7 +4,8 @@ slug: 'honeyworks-kawaikute-gomen'
 createdAt: '2024-01-20T05:30:46+0000'
 seoTitle: "HoneyWorks' Kawaikute Gomen"
 seoDescription: "For 2024, I'll talk about a song a day: this week, we'll talk about the weeby-weebiest song of all, HoneyWorks' Kawaikute Gomen."
-tags: ['music']
+tags: ['music', 'song of the week']
+rating: 4
 ---
 
 I've given myself the task of writing about one song a week for 2024 because, well, I think it'd be fun.

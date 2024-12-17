@@ -5,6 +5,7 @@ createdAt: '2023-07-13T03:23:42+0000'
 seoTitle: "Junji Ito's Horror"
 seoDescription: "We discuss a little of Junji Ito's oeuvre in horror manga."
 tags: ['animation, anime']
+rating: 5
 ---
 
 "Gyo" is really about farting, isn't it?

@@ -4,7 +4,8 @@ slug: 'dead-kennedys-california-über-alles'
 createdAt: '2024-08-09T01:33:05+0000'
 seoTitle: "Dead Kennedys' California Über Alles"
 seoDescription: "For 2024, I'll talk about a song a day: this week, we talk about the Dead Kennedys' California Über Alles."
-tags: ['music']
+tags: ['music', 'song of the week']
+rating: 3
 ---
 
 I've given myself the task of writing about one song a week for 2024 because, well, I think it'd be fun.

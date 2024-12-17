@@ -4,7 +4,8 @@ slug: 'taylor-swift-mariah-carey-shake-it-off'
 createdAt: '2024-03-10T16:18:28+0000'
 seoTitle: "Taylor Swift's Shake It Off / Mariah Carey's Shake It Off"
 seoDescription: "For 2024, I'll talk about a song a day: this week, we'll do a compare-and-contrast of Taylor Swift and Mariah Carey's respective Shake It Off singles."
-tags: ['music']
+tags: ['music', 'song of the week']
+rating: 4
 ---
 
 I've given myself the task of writing about one song a week for 2024 because, well, I think it'd be fun.

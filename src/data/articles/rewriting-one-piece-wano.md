@@ -5,6 +5,7 @@ createdAt: '2023-01-01T05:09:46+0000'
 seoTitle: "Rewriting One Piece's New World: Wano"
 seoDescription: "We rewrite One Piece's Wano arc."
 tags: ['animation', 'anime']
+rating: 2
 ---
 
 Coming right off the heels of Dressrosa, the Straw Hats (Luffy, Zoro, Usopp, Robin and Franky) travel to Zou. I like the idea that they have at least a little adventure in every island they visit. Maybe a monkey mink finds the samurai's emblem on their ship, possibly torn off Kinemon or Kanjuro's kimono, and tries to warn the other minks. The minks wouldn't know how the Straw Hats look like, as news doesn't reach their island, obviously (and Luffy isn't wearing his famous straw hat at the moment). The Straw Hats try to stop him, getting into trouble with a variety of mink scouts, before hearing the growling of Nekomamushi and Inuarashi. They manipulate their rivalry with one another, cutting a path of destruction through this cat-and-dog chase, before Kinemon arrives and stops this whole charade. Perhaps they meet up with Nami and company in this way, setting up the minks' supposed hatred for samurai. Also, I have an odd sense of humor concerning history, so I love the idea that the Straw Hats run around Zou with someone saying "This is the historic place where so-and-so did such-and-such," only for Nekomamushi and Inuarashi to destroy it.

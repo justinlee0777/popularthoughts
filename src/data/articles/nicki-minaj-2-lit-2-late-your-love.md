@@ -4,7 +4,8 @@ slug: 'nicki-minaj-2-lit-2-late-interlude'
 createdAt: '2024-12-08T05:01:21+00:00'
 seoTitle: "Nicki Minaj's 2 Lit 2 Late Interlude"
 seoDescription: "For 2024, I'll talk about a song a day: this week, we're talking about Nicki Minaj's 2 Lit 2 Late Interlude."
-tags: ['music']
+tags: ['music', 'song of the week']
+rating: 4
 ---
 
 I've given myself the task of writing about one song a week for 2024 because, well, I think it'd be fun.

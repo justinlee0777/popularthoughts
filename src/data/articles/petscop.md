@@ -5,6 +5,7 @@ createdAt: '2022-09-20T15:43:41+0000'
 seoTitle: 'Petscop'
 seoDescription: 'We talk about the Youtube horror series / ARG / Let''s Play "Petscop".'
 tags: ['animation', 'video-game']
+rating: 4
 ---
 
 I'm not a big fan of horror. I'm not sure what the genre is meant for. I don't like being scared or creeped out - I like sleeping, quite frankly - and so I never really understood what the purpose of watching scary things was. So take the following essay with a grain of salt.

@@ -4,7 +4,8 @@ slug: 'destroyer-kaputt'
 createdAt: '2024-10-04T12:06:17+0000'
 seoTitle: "Destroyer's Kaputt"
 seoDescription: "For 2024, I'll talk about a song a day: this week, we're talking about Destroyer's Kaputt."
-tags: ['music']
+tags: ['music', 'song of the week']
+rating: 2
 ---
 
 I've given myself the task of writing about one song a week for 2024 because, well, I think it'd be fun.

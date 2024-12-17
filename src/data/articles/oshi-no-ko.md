@@ -5,6 +5,7 @@ createdAt: '2023-07-13T03:23:42+0000'
 seoTitle: 'Oshi no Ko'
 seoDescription: "It's the Oshi no Ko show, where we see an author's creepy obsession with actors/actresses."
 tags: ['animation, anime']
+rating: 3
 ---
 
 Beyond a pretty good first episode and a very well-executed opening, there's not much to idolize for "Oshi no Ko". Concerning its popularity - the series riding off of the coat-tails of Aka Akasaka's previous project, "Love is War" (nevermind the Romanji for this one) - there's also not much to say; it's equal parts baffling and wasted potential, which is expected from anime. But I find something unsettling lurking beneath it.

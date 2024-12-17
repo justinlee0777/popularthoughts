@@ -4,7 +4,8 @@ slug: 'leonard-cohen-tower-of-song'
 createdAt: '2024-09-21T04:00:19+0000'
 seoTitle: "Leonard Cohen's Tower of Song"
 seoDescription: "For 2024, I'll talk about a song a day: this week, we're talking about Leonard Cohen's Tower of Song."
-tags: ['music']
+tags: ['music', 'song of the week']
+rating: 4
 ---
 
 I've given myself the task of writing about one song a week for 2024 because, well, I think it'd be fun.

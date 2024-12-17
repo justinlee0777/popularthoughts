@@ -4,7 +4,8 @@ slug: 'beyonce-hold-up'
 createdAt: '2024-09-04T13:13:15+0000'
 seoTitle: "Beyoncé's Hold Up"
 seoDescription: "For 2024, I'll talk about a song a day: this week, we're talking about Beyoncé's Hold Up."
-tags: ['music']
+tags: ['music', 'song of the week']
+rating: 3
 ---
 
 I've given myself the task of writing about one song a week for 2024 because, well, I think it'd be fun.

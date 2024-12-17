@@ -5,6 +5,7 @@ createdAt: '2023-12-31T06:36:41+0000'
 seoTitle: 'Destroyer and the 2020s'
 seoDescription: "We discuss the band Destroyer's 2010s output: Kaputt (2011), Poison Season (2015), ken (2017) and Have We Met (2020)."
 tags: ['music']
+rating: 5
 ---
 
 I found myself saying, "Of course I have hipster tastes, I listen to Destroyer, for God's sake."

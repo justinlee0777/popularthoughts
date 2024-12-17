@@ -4,7 +4,8 @@ slug: 'giacomo-puccini-nessun-dorma'
 createdAt: '2024-05-03T03:37:59+0000'
 seoTitle: "Giacomo Puccini's Nessun Dorma"
 seoDescription: "For 2024, I'll talk about a song a day: this week, we'll talk about one of the most renowned arias, Nessun Dorma."
-tags: ['music']
+tags: ['music', 'song of the week']
+rating: 4
 ---
 
 I've given myself the task of writing about one song a week for 2024 because, well, I think it'd be fun.

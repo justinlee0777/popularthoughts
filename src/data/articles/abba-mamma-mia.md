@@ -4,7 +4,8 @@ slug: 'abba-mamma-mia'
 createdAt: '2024-07-05T14:22:58+0000'
 seoTitle: "ABBA's Mamma Mia"
 seoDescription: "For 2024, I'll talk about a song a day: this week, we'll talk about ABBA's Mamma Mia."
-tags: ['music']
+tags: ['music',  'song of the week']
+rating: 3
 ---
 
 I've given myself the task of writing about one song a week for 2024 because, well, I think it'd be fun.

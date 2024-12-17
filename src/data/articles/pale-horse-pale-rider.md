@@ -5,6 +5,7 @@ createdAt: '2023-07-13T03:23:42+0000'
 seoTitle: "Katherine Anne Porter's Pale Horse, Pale Rider"
 seoDescription: 'We discuss Katherine Anne Porter''s classic trilogy, "Pale Horse, Pale Rider".'
 tags: ['literature']
+rating: 5
 ---
 
 I too had once been immured as Maria and Miranda. In the cloister of Folsom Library, where on the second floor tables were laid out in pairs in rows, I spent my first autumn in university reading Katherine Anne Porter's "Pale Horse, Pale Rider" - the trio, not the short-long, for Kate would have spit at the description "novella". (Which in itself is an interesting discussion, and I take her side: "novella" is nebulous and the short/long axes are plenty descriptive: short-shorts are hardly a page and have just one interesting thing, setting, character, theme e.g Borges' stories, long-shorts are most people's definition of short stories, are less than ten pages and have space for one arc e.g Capek's stories, short-longs perfectly describe the stories in the discussed trio, or that of Henry James', of various themes but necessarily constrained, and long-longs are the wilderness, from "As I Lay Dying" to "Ulysses". One may divide a book by its chapters or cantos, as we do for Dante, into short-shorts, longs etc. I think it's a good system, though "novella" is historical.)

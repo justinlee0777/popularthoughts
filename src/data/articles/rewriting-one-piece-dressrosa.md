@@ -5,6 +5,7 @@ createdAt: '2023-01-01T05:09:56+0000'
 seoTitle: "Rewriting One Piece's New World: Dressrosa"
 seoDescription: "We rewrite One Piece's Dressrosa arc."
 tags: ['animation', 'anime']
+rating: 2
 ---
 
 Before we start, can we bring back Shirt Doflamingo? I feel like Doflamingo wearing a shirt versus Doflamingo not wearing a shirt is somehow more menacing.

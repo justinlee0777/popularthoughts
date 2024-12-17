@@ -5,6 +5,7 @@ createdAt: '2022-10-19T03:08:22+0000'
 seoTitle: "Elvis Costello's Armed Forces"
 seoDescription: "We take another look at Elvis Costello's second album with The Attractions, Armed Forces."
 tags: ['music']
+rating: 2
 ---
 
 It's a sad day in a life when one finds out they've grown old enough to be <a href="https://www.youtube.com/watch?v=n7k4GQSGvx8" target="_blank" rel="noopener noreferrer">this lady</a>.

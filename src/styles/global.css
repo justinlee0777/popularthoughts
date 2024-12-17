@@ -1,7 +1,18 @@
+@import 'react-tooltip/dist/react-tooltip.css';
+
 body {
     font-family: Bookerly, Arial, Helvetica, sans-serif;
     line-height: 1.5;
     margin: 0;
+}
+
+@media (prefers-color-scheme: dark) {
+    body {
+        background-color: #121212;
+        color: #efefef;
+    }
+
+    a:visited { color: #6d4b8d; }
 }
 
 html,
@@ -9,6 +20,10 @@ body,
 #___gatsby,
 #gatsby-focus-wrapper {
     overflow-y: hidden;
+}
+
+a {
+	text-decoration: none;
 }
 
 iframe {
@@ -22,5 +37,5 @@ iframe {
 }
 
 .verse {
-    white-space: pre;
+    white-space: pre-line;
 }

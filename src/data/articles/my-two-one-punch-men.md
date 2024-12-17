@@ -5,6 +5,7 @@ createdAt: '2022-08-21T20:13:52+0000'
 seoTitle: 'My Two One Punch Men'
 seoDescription: 'We talk about the now-controversial "One Punch Man" manga.'
 tags: ['animation', 'anime']
+rating: 2
 ---
 
 Ahhhh the pleasure of <a href="/one-punch-man-prediction" target="_blank" rel="noopener noreferrer">being right</a>.

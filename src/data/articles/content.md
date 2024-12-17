@@ -5,6 +5,7 @@ createdAt: '2023-11-27T02:25:41+0000'
 seoTitle: "On Patrick Willems' Everything Is Content video"
 seoDescription: "Let's talk a little about content."
 tags: ['film']
+rating: 3
 ---
 
 Christ, I never thought there'd be a day where I would defend the idea of "content". Then again, I'm not a Boomer; I have to grapple with the reality of content, as a Millenial. Because it's totally our fault. It's our generation that made making videos on YouTube a profession.

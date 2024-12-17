@@ -5,6 +5,7 @@ createdAt: '2024-09-29T15:02:45+0000'
 seoTitle: 'Jujutsu Kaisen'
 seoDescription: "Let's talk about the most impactful manga of the youngest generation of readers, Jujutsu Kaisen."
 tags: ['animation', 'anime']
+rating: 3
 ---
 
 "Jujutsu Kaisen" is OK. It's just OK.

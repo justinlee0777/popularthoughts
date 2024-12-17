@@ -5,6 +5,7 @@ createdAt: '2021-10-11T03:07:04+0000'
 seoTitle: 'Radiohead''s "A Moon Shaped Pool"'
 seoDescription: 'I''ve gotten too old for Radiohead and a recent listen to "A Moon Shaped Pool" has shown me why.'
 tags: ['music']
+rating: 2
 ---
 
 Radiohead got me into music. When I was a wee teen of 17, I discovered "Kid A" and soaked myself in it. It was the first time, I recall, that I'd actually just lie down and listen to an album, not doing anything, certainly not scrolling through my phone or my desktop. Its vision and emotional impact was clear; I sought more music like it.

@@ -4,7 +4,8 @@ slug: 'joni-mitchell-in-france-they-kiss-on-main-street'
 createdAt: '2024-11-14T21:44:24+0000'
 seoTitle: "Joni Mitchell's In France They Kiss on Main Street"
 seoDescription: "For 2024, I'll talk about a song a day: this week, we're talking about Joni Mitchell's In France They Kiss on Main Street."
-tags: ['music']
+tags: ['music', 'song of the week']
+rating: 3
 ---
 
 I've given myself the task of writing about one song a week for 2024 because, well, I think it'd be fun.

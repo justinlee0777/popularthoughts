@@ -4,7 +4,8 @@ slug: 'bladee-ecco2k-desire-is-a-trap'
 createdAt: '2024-04-09T11:26:09+0000'
 seoTitle: "Bladee & Ecco2K's Desire is a Trap"
 seoDescription: "For 2024, I'll talk about a song a day: this week, we'll talk about Bladee & Ecco2K's Desire is a Trap."
-tags: ['music']
+tags: ['music', 'song of the week']
+rating: 3
 ---
 
 I've given myself the task of writing about one song a week for 2024 because, well, I think it'd be fun.

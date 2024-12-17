@@ -5,6 +5,7 @@ createdAt: '2022-01-15T22:15:37+0000'
 seoTitle: "Gershwin's Porgy and Bess"
 seoDescription: 'We discuss George Gershwin''s "Porgy and Bess" and its curious place in modern culture.'
 tags: ['music']
+rating: 3
 ---
 
 I would've killed to know what the black couple in my box were thinking as we watched the Met Opera's production of "Porgy and Bess". Where the crowd was mostly white, and the pit was pretty much all white, the only colored representation came from the stage, whose first act began with nearly 10 minutes of black actors rolling dice, almost as if they came from a "Chapelle Show" skit.

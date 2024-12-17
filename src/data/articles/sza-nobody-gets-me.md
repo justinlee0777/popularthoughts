@@ -4,7 +4,8 @@ slug: 'sza-nobody-gets-me'
 createdAt: '2024-11-08T13:47:52+0000'
 seoTitle: "SZA's Nobody Gets Me"
 seoDescription: "For 2024, I'll talk about a song a day: this week, we're talking about SZA's Nobody Gets Me."
-tags: ['music']
+tags: ['music', 'song of the week']
+rating: 4
 ---
 
 I've given myself the task of writing about one song a week for 2024 because, well, I think it'd be fun.

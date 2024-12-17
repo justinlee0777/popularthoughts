@@ -4,7 +4,8 @@ slug: 'ka-unto-the-dust-forgive-me-beautiful'
 createdAt: '2024-10-24T14:37:18+0000'
 seoTitle: "KA's Unto the Dust / Forgive Me / Beautiful"
 seoDescription: "For 2024, I'll talk about a song a day: this week, we're talking about three KA songs: \"Unto the Dust\", \"Forgive Me\" and \"Beautiful\"."
-tags: ['music']
+tags: ['music', 'song of the week']
+rating: 3
 ---
 
 I've given myself the task of writing about one, err, three songs a week for 2024 because, well, I think it'd be fun.
