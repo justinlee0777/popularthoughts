@@ -30,9 +30,9 @@ function createFlexibleBook(
 				computedFontSize: '14px',
 				lineHeight: 28,
 				padding: {
-					top: 36,
+					top: 18,
 					right: 18,
-					bottom: 36,
+					bottom: 18,
 					left: 18,
 				},
 			},
@@ -79,7 +79,7 @@ function createFlexibleBook(
 		{
 			styles: {
 				width: '80vw',
-				height: '80vh',
+				height: '74vh',
 				maxWidth: '1200px',
 				margin: 'auto',
 			},
