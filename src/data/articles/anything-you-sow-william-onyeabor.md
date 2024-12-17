@@ -4,7 +4,8 @@ slug: 'william-onyeabor-anything-you-sow'
 createdAt: '2024-06-29T03:24:35+0000'
 seoTitle: "William Onyeabor's Anything You Sow"
 seoDescription: "For 2024, I'll talk about a song a day: this week, we'll talk about William Onyeabor's Anything You Sow."
-tags: ['music']
+tags: ['music', 'song of the week']
+rating: 3
 ---
 
 I've given myself the task of writing about one song a week for 2024 because, well, I think it'd be fun.

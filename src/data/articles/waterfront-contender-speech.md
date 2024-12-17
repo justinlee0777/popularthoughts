@@ -5,6 +5,7 @@ createdAt: '2022-08-21T20:13:52+0000'
 seoTitle: 'On The Waterfront (1954)'
 seoDescription: 'We analyze that one scene - we all know it - from Elia Kazan''s "On The Waterfront".'
 tags: ['film']
+rating: 4
 ---
 
 Whether one could argue that Marlon Brando in "On The Waterfront" is overacting or acting against the script does not matter.

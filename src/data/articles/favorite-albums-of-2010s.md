@@ -4,7 +4,8 @@ slug: 'favorite-albums-2010s'
 createdAt: '2022-07-16T16:30:55+0000'
 seoTitle: 'Best Albums of 2010s'
 seoDescription: 'I break down my favorite albums of the 2010s, year by year.'
-tags: ['music']
+tags: ['music', 'best of']
+rating: 4
 ---
 
 "Wow, I'm so excited for another 'Best of' list!"

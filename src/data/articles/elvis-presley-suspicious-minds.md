@@ -4,7 +4,8 @@ slug: 'elvis-presley-suspicious-minds'
 createdAt: '2024-05-24T02:49:46+0000'
 seoTitle: "Elvis Presley's Suspicious Minds"
 seoDescription: "For 2024, I'll talk about a song a day: this week, we'll talk about Elvis Presley's Suspicious Minds, written by Mark James, from the album From Elvis in Memphis."
-tags: ['music']
+tags: ['music', 'song of the week']
+rating: 3
 ---
 
 I've given myself the task of writing about one song a week for 2024 because, well, I think it'd be fun.

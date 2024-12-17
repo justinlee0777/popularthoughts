@@ -4,7 +4,8 @@ slug: 'mozart-crudel-perche-finora'
 createdAt: '2024-07-12T02:55:44+0000'
 seoTitle: "Mozart's Crudel! Perché Finora..."
 seoDescription: "For 2024, I'll talk about a song a day: this week, we'll talk about an aria from Mozart's The Marriage of Figaro, beginning with Crudel! Perché Finora ..."
-tags: ['music']
+tags: ['music', 'song of the week']
+rating: 4
 ---
 
 I've given myself the task of writing about one song a week for 2024 because, well, I think it'd be fun.

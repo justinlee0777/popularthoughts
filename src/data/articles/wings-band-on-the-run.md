@@ -4,7 +4,8 @@ slug: 'wings-band-on-the-run'
 createdAt: '2024-02-25T03:40:45+0000'
 seoTitle: "Wings' Band on the Run"
 seoDescription: "For 2024, I'll talk about a song a day: this week, we'll talk about Wings', or Paul McCartney and Wings, take your pick, Band on the Run."
-tags: ['music']
+tags: ['music', 'song of the week']
+rating: 3
 ---
 
 I've given myself the task of writing about one song a week for 2024 because, well, I think it'd be fun.

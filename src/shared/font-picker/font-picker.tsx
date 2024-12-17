@@ -3,15 +3,17 @@ import styles from './font-picker.module.css';
 import React from 'react';
 
 import FontPickerConfig from './font-picker.config';
+import clsx from 'clsx';
 
 export default function FontPicker({
 	fonts,
 	selectedFont,
+	className,
 	onFontSelect,
 	children,
 }: FontPickerConfig): JSX.Element {
 	return (
-		<fieldset className={styles['font-picker']}>
+		<fieldset className={clsx(styles['font-picker'], className)}>
 			<legend>Fonts</legend>
 			{fonts.map(font => {
 				const radioId = `radio-${font.family};`;

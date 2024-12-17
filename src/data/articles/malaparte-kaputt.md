@@ -5,6 +5,7 @@ createdAt: '2022-02-26T22:22:52+0000'
 seoTitle: "Curzio Malaparte's Kaputt"
 seoDescription: "We discuss Curzio Malaparte's Kaputt and its odd semi-fictional qualities."
 tags: ['literature']
+rating: 5
 ---
 
 In writing, one must lie, regardless of whether it is fiction or essay. Not for the reason we commonly think: to make the writing more appeaing. The fundamental purpose for writing is to express ideas, more than facts, for, in the words of David Byrne, "Facts are lazy and facts are late, facts all come with points of view, facts don't do what you want them to..." When people state "facts", they are almost always disconnected from the complex web of information that makes that "fact" true. A writer's gift is to render that web so convincingly that no one minds what conclusions they make; we are smart enough to dismantle the web, that the ideas exist is enough.

@@ -5,6 +5,7 @@ createdAt: '2023-02-18T03:53:50+0000'
 seoTitle: 'Darkest Dungeon'
 seoDescription: 'We talk about some of the flawed gameplay decisions in Darkest Dungeon.'
 tags: ['video-game']
+rating: 2
 ---
 
 You can't spell "Darkest Dungeon" without RNG.

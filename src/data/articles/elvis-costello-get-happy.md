@@ -5,6 +5,7 @@ createdAt: '2021-04-19T22:52:22+0000'
 seoTitle: "Elvis Costello's Get Happy"
 seoDescription: 'We discuss how Elvis Costello is a weird musician and his album with The Attractions, Get Happy!!'
 tags: ['music']
+rating: 2
 ---
 
 ### Elvis Costello is a strange musician

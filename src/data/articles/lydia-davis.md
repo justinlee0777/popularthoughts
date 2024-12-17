@@ -5,6 +5,7 @@ createdAt: '2022-12-01T05:02:31+0000'
 seoTitle: 'The Collected Stories of Lydia Davis'
 seoDescription: 'We discuss the Collected Stories of Lydia Davis.'
 tags: ['literature']
+rating: 4
 ---
 
 "Story" starts "The Collected Stories of Lydia Davis". It is a rough start. The story of "Story" (1986) is that the narrator is concerned with the whereabouts of her ex-husband (I assume, given the narrator of other stories), has an argument concerning it, and then tries to understand the situation logically.

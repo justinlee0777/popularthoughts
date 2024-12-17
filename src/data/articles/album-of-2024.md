@@ -4,7 +4,8 @@ slug: 'best-album-2024'
 createdAt: '2024-11-27T16:46:24+00:00'
 seoTitle: 'The Best Album of 2024'
 seoDescription: "We review the year 2024 in music and cover a bunch of favorite albums, too many to list. Oh, and we retrospect on the decade so far."
-tags: ['music']
+tags: ['music', 'best of']
+rating: 5
 ---
 
 As always, I'm going to review the end-of lists of publications (ex. search "best albums of the year") and update this list, but there's a caveat this time.

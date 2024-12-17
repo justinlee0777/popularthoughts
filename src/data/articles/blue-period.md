@@ -5,6 +5,7 @@ createdAt: '2021-11-08T22:39:21+0000'
 seoTitle: "Blue Period's Flaw"
 seoDescription: 'The anime Blue Period has one fundamental flaw: it sucks.'
 tags: ['animation', 'anime']
+rating: 1
 ---
 
 In hindsight, it doesn't make any sense to have an anime about art.

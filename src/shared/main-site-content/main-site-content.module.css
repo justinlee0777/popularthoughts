@@ -1,6 +1,8 @@
 .main-site-content {
-    background-color: #FAFAFA;
     box-sizing: border-box;
+    flex: 1 1;
+    min-height: 0;
+    overflow-y: auto;
     padding: 8px 24px 0;
 }
 
@@ -13,7 +15,6 @@
 
 .content-header {
     align-items: center;
-    background: #FAFAFA;
     display: flex;
     flex-direction: row;
 }

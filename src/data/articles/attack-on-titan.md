@@ -5,6 +5,7 @@ createdAt: '2023-11-27T02:25:41+0000'
 seoTitle: 'The Ending of Attack on Titan'
 seoDescription: "Well. We're here. Let's talk about the ending of Attack on Titan."
 tags: ['animation', 'anime']
+rating: 5
 ---
 
 Hajime Iseyama, the author of "Attack on Titan", is hunched over his desk, storyboarding deep into the night. It's 2020. He is not concerned about having enough toilet paper or masks, but he is scribbling very intensely, very painfully, until he collapses, ink from Mikasa and Armin's faces splashing onto his. He exhales, with a mighty sigh that could shake the heavens,

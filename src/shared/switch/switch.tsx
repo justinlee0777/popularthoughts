@@ -1,6 +1,6 @@
 import styles from './switch.module.css';
 
-import classNames from 'classnames';
+import clsx from 'clsx';
 import * as React from 'react';
 
 export interface SwitchProps {
@@ -16,7 +16,7 @@ export default function Switch({
 }: SwitchProps): JSX.Element {
 	const onClick = () => onChange?.(!value);
 
-	const switchClassName = classNames(styles['switch'], className, {
+	const switchClassName = clsx(styles['switch'], className, {
 		[styles['switchActive']]: value,
 	});
 

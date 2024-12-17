@@ -5,6 +5,7 @@ createdAt: '2020-12-30T15:59:57.861Z'
 seoTitle: "I hate Pixar's Soul"
 seoDescription: "Save your time by watching any other movie than Pixar's Soul."
 tags: ['film', 'animation']
+rating: 1
 ---
 
 I hated Pixar's "Soul".

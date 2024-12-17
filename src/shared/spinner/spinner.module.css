@@ -9,6 +9,12 @@
     width: 1em;
 }
 
+@media (prefers-color-scheme: dark) {
+    .spinner {
+        border-color: white transparent;
+    }
+}
+
 @keyframes spin {
     from {
         transform: rotate(0deg);

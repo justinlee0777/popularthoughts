@@ -4,7 +4,8 @@ slug: 'bruno-mars-24k-magic-locked-out-of-heaven'
 createdAt: '2024-09-24T14:13:38+0000'
 seoTitle: "Bruno Mars' 24K Magic / Locked Out Of Heaven"
 seoDescription: "For 2024, I'll talk about a song a day: this week, we're talking about Bruno Mars' 24K Magic and Locked Out Of Heaven."
-tags: ['music']
+tags: ['music', 'song of the week']
+rating: 3
 ---
 
 I've given myself the task of writing about one song a week for 2024 because, well, I think it'd be fun. And now, now we're in the depths. This is a challenge from a friend (which means at least _one_ person other than me is going to glance at this), I don't even listen to Bruno Mars that much.

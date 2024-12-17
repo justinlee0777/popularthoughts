@@ -4,7 +4,8 @@ slug: 'taylor-swift-fortnight'
 createdAt: '2024-06-08T01:22:27+0000'
 seoTitle: "Taylor Swift's Fortnight"
 seoDescription: "For 2024, I'll talk about a song a day: this week, we'll talk about Taylor Swift's Fortnight."
-tags: ['music']
+tags: ['music', 'song of the week']
+rating: 4
 ---
 
 I've given myself the task of writing about one song a week for 2024 because, well, I think it'd be fun.

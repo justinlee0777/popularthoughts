@@ -4,7 +4,8 @@ slug: 'beach-boys-triple-feature'
 createdAt: '2024-08-23T01:58:26+0000'
 seoTitle: "Beach Boys' Kokomo / Sloop John B / Take a Load Off Your Feet"
 seoDescription: "For 2024, I'll talk about a song a day: this week, we're having a triple feature, talking about the Beach Boys' Kokomo (1988), Sloop John B (1966) and Take a Load Off Your Feet (1971)."
-tags: ['music']
+tags: ['music', 'song of the week']
+rating: 4
 ---
 
 I've given myself the task of writing about one song a week for 2024 because, well, I think it'd be fun. You can see, by today's triple feature, that I'm in the thick of it and boy oh boy I'm grasping at straws.

@@ -5,6 +5,7 @@ createdAt: '2022-06-26T04:32:37+0000'
 seoTitle: 'Everything Everywhere All At Once'
 seoDescription: '"Everything Everywhere All At Once" is colorful on the outside, but hollow in meaning in the inside.'
 tags: ['film']
+rating: 2
 ---
 
 ### Tad bit racist

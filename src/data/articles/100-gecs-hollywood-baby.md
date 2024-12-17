@@ -4,7 +4,8 @@ slug: '100-gecs-hollywood-baby'
 createdAt: '2024-02-13T03:02:21+0000'
 seoTitle: "100 gecs' Hollywood Baby"
 seoDescription: "For 2024, I'll talk about a song a day: this week, we'll talk about 100 gecs' Hollywood Baby, from their 2023 album 10,000 gecs."
-tags: ['music']
+tags: ['music', 'song of the week']
+rating: 3
 ---
 
 I've given myself the task of writing about one song a week for 2024 because, well, I think it'd be fun.

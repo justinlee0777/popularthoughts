@@ -27,6 +27,22 @@
     background: black;
 }
 
+@media (prefers-color-scheme: dark) {
+    .switch {
+        background: black;
+        border-color: white;
+    }
+
+    .switchKnob {
+        background: black;
+        border-color: white;
+    }
+
+    .switchActive {
+        background: white;
+    }
+}
+
 .switchActive .switchKnob {
     background: black;
     transform: translateX(14px);

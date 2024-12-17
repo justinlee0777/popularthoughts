@@ -5,6 +5,7 @@ createdAt: '2023-07-13T03:23:42+0000'
 seoTitle: 'In The Mood For Love (2000)'
 seoDescription: 'We discuss Wong Kar-Wai''s "In The Mood For Love".'
 tags: ['film']
+rating: 5
 ---
 
 It's rare when a movie has me actively disliking it while watching it, liking it when it ends, and loving it as I think more and more on it with distance. Yet this precarious affection may fall apart upon second viewing.

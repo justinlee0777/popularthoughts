@@ -4,7 +4,8 @@ slug: 'john-prine-thats-the-way-that-the-world-goes-round'
 createdAt: '2024-10-10T04:28:54+0000'
 seoTitle: "John Prine's That's the Way That the World Goes 'Round"
 seoDescription: "For 2024, I'll talk about a song a day: this week, we're talking about John Prine's That's the Way That the World Goes 'Round."
-tags: ['music']
+tags: ['music', 'song of the week']
+rating: 4
 ---
 
 I've given myself the task of writing about one song a week for 2024 because, well, I think it'd be fun.

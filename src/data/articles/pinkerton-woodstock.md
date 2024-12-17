@@ -5,6 +5,7 @@ createdAt: '2022-04-10T00:03:16+0000'
 seoTitle: "Woodstock '99 and Weezer's Pinkerton"
 seoDescription: "There is an interesting '90s connection to HBO's Woodstock '99 and Weezer's Pinkerton."
 tags: ['music', 'film']
+rating: 2
 ---
 
 HBO's "Woodstock '99: Peace, Love, and Rage" is half-information half-activism. The film does a decent job guiding the viewer through the management failures of the three-day event. I would have preferred if the film provided a more thorough postmortem on the festival's management.

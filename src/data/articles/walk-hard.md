@@ -5,6 +5,7 @@ createdAt: '2022-06-26T04:32:37+0000'
 seoTitle: 'Walk Hard: A Life Without You (Is No Life At All)'
 seoDescription: 'We look at one song - just one! - from the film "Walk Hard: The Dewey Cox Story".'
 tags: ['film', 'music']
+rating: 3
 ---
 
 It's admittedly a bit sad when a so-called music critic falls in love with the songs of "Walk Hard".

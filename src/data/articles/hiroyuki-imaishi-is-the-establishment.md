@@ -5,6 +5,7 @@ createdAt: '2022-10-19T03:08:21+0000'
 seoTitle: 'Cyberpunk: Edgerunners'
 seoDescription: '"Cyberpunk: Edgerunners" is hot garbage.'
 tags: ['anime', 'animation']
+rating: 3
 ---
 
 Hiroyuki Imaishi understood what his audience craved from his second best work "Panty and Stocking with Garterbelt" when he parodied it with the mirror work "Sex and Violence with Machspeed" for Hideaki Anno's Animator Expo.

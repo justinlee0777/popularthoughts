@@ -5,6 +5,7 @@ createdAt: '2021-06-08T02:27:04+0000'
 seoTitle: 'Fallout 4'
 seoDescription: 'We talk about the factions of Fallout 4.'
 tags: ['video-game']
+rating: 3
 ---
 
 It doesn't need to be said that the story of the game "Fallout 4" is lacking. I attempt a rewrite of the game by rewriting the factions, whose quest lines lead to the game's ending. I won't restate the story of the actual game, so the article assumes a good level of familiarity with the existing story.

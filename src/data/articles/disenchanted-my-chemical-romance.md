@@ -4,7 +4,8 @@ slug: 'my-chemical-romance-disenchanted'
 createdAt: '2024-07-22T04:30:15+0000'
 seoTitle: "My Chemical Romance's Disenchanted"
 seoDescription: "For 2024, I'll talk about a song a day: this week, we'll talk about My Chemical Romance's Disenchanted."
-tags: ['music']
+tags: ['music', 'song of the week']
+rating: 4
 ---
 
 I've given myself the task of writing about one song a week for 2024 because, well, I think it'd be fun.

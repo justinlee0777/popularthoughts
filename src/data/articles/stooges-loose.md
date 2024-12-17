@@ -4,7 +4,8 @@ slug: 'the-stooges-loose'
 createdAt: '2024-04-21T04:44:02+0000'
 seoTitle: "The Stooges' Loose"
 seoDescription: "For 2024, I'll talk about a song a day: this week, we'll talk about The Stooges' Loose."
-tags: ['music']
+tags: ['music', 'song of the week']
+rating: 3
 ---
 
 I've given myself the task of writing about one song a week for 2024 because, well, I think it'd be fun.

@@ -4,7 +4,8 @@ slug: 'frank-sinatra-glad-to-be-unhappy'
 createdAt: '2024-12-12T05:52:18+00:00'
 seoTitle: "Frank Sinatra's Glad To Be Unhappy"
 seoDescription: "For 2024, I'll talk about a song a day: this week, we're talking about Frank Sinatra's Glad To Be Unhappy."
-tags: ['music']
+tags: ['music', 'song of the week']
+rating: 4
 ---
 
 I've given myself the task of writing about one song a week for 2024 because, well, I think it'd be fun.

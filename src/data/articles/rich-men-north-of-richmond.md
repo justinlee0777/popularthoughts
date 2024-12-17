@@ -5,6 +5,7 @@ createdAt: '2023-09-25T22:44:08+0000'
 seoTitle: "Oliver Anthony's Rich Men North of Richmond"
 seoDescription: "Well, let's talk about Oliver Anthony's Rich Men North of Richmond."
 tags: ['music']
+rating: 1
 ---
 
 Not to get all political here - as Oliver Anthony asserts his song, "Rich Men North of Richmond", is not - but I don't think the song represents [the resurgence of the "alt-right"](https://www.washingtonpost.com/lifestyle/2023/08/17/oliver-anthony-rich-men-north-of-richmond/). (What even is an "alt-right"?) Neither do I think it is [motivation for progressive policies](https://www.bbc.com/culture/article/20230818-rich-men-north-of-richmond-the-hit-song-that-has-divided-the-us).

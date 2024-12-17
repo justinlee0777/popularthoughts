@@ -4,7 +4,8 @@ slug: 'the-breeders-cannonbal'
 createdAt: '2024-02-18T05:14:47+0000'
 seoTitle: "The Breeders' Cannonball"
 seoDescription: "For 2024, I'll talk about a song a day: this week, we'll talk about The Breeders' Cannonball."
-tags: ['music']
+tags: ['music', 'song of the week']
+rating: 3
 ---
 
 I've given myself the task of writing about one song a week for 2024 because, well, I think it'd be fun.

@@ -5,6 +5,7 @@ createdAt: '2021-10-11T03:07:04+0000'
 seoTitle: 'Jujutsu Kaisen is a bit sexist'
 seoDescription: 'Jujutsu Kaisen may be a bit sexist.'
 tags: ['animation', 'anime']
+rating: 1
 ---
 
 Well okay, saying "Jujutsu Kaisen" _specifically_ is sexist is going a bit far, but the mangaka's philosophy, shared by other content creators, is definitely an unusual bit of sexism.

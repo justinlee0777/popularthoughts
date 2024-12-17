@@ -11,6 +11,7 @@ export interface PageProps {
 		createdAt: string;
 		contentHtml: string;
 		tags: Array<string>;
+		rating: number;
 	};
 	seo: {
 		title: string;
@@ -47,6 +48,7 @@ export default async function loadArticles(): Promise<Array<PageProps>> {
 							contentHtml,
 							title: result.data.title,
 							tags: result.data.tags,
+							rating: result.data.rating,
 						},
 						seo: {
 							title: result.data.seoTitle,

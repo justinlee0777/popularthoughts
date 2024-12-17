@@ -5,6 +5,7 @@ createdAt: '2024-11-08T13:47:52+0000'
 seoTitle: "H. Jon Benjamin's I Can't Play Piano, Pt. 1"
 seoDescription: "I love H. Jon Benjamin's Well, I Should Have... a little too much."
 tags: ['music']
+rating: 3
 ---
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/DTQEVXLAfc4?si=tggKOFrBizuAq_f5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

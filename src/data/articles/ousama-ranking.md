@@ -5,6 +5,7 @@ createdAt: '2022-02-26T20:00:44+0000'
 seoTitle: 'Ousama Ranking'
 seoDescription: 'Ousama Ranking has too many damn main characters.'
 tags: ['animation', 'anime']
+rating: 1
 ---
 
 There are too many characters in "Ousama Ranking".

@@ -5,6 +5,7 @@ createdAt: '2023-01-01T05:10:06+0000'
 seoTitle: "Rewriting One Piece's New World: Intro"
 seoDescription: 'We begin the painful labor of rewriting the New World adventures in One Piece, beginning with Punk Hazard.'
 tags: ['animation', 'anime']
+rating: 2
 ---
 
 Happy 48th birthday, Oda.

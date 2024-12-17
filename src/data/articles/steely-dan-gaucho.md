@@ -4,7 +4,8 @@ slug: 'steely-dan-gaucho'
 createdAt: '2024-08-16T13:18:25+0000'
 seoTitle: "Steely Dan's Gaucho"
 seoDescription: "For 2024, I'll talk about a song a day: this week, we talk about Steely Dan's Gaucho."
-tags: ['music']
+tags: ['music', 'song of the week']
+rating: 3
 ---
 
 I've given myself the task of writing about one song a week for 2024 because, well, I think it'd be fun.

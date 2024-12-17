@@ -4,7 +4,8 @@ slug: 'nina-simone-i-loves-you-porgy'
 createdAt: '2024-05-11T01:54:30+0000'
 seoTitle: "Nina Simone's I Loves You, Porgy"
 seoDescription: "For 2024, I'll talk about a song a day: this week, we'll talk about Nina Simone's cover of I Loves You, Porgy, an aria of Gershwin's."
-tags: ['music']
+tags: ['music', 'song of the week']
+rating: 4
 ---
 
 I've given myself the task of writing about one song a week for 2024 because, well, I think it'd be fun.

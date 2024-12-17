@@ -4,7 +4,8 @@ slug: 'elvis-costello-everyday-i-write-the-book'
 createdAt: '2024-05-31T01:57:17+0000'
 seoTitle: "Elvis Costello's Everyday I Write the Book"
 seoDescription: "For 2024, I'll talk about a song a day: this week, we'll talk about Elvis Costello's Everyday I Write the Book."
-tags: ['music']
+tags: ['music', 'song of the week']
+rating: 3
 ---
 
 I've given myself the task of writing about one song a week for 2024 because, well, I think it'd be fun.

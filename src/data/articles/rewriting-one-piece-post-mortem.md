@@ -5,6 +5,7 @@ createdAt: '2023-01-01T05:09:36+0000'
 seoTitle: "Rewriting One Piece's New World: Conclusion"
 seoDescription: 'After rewriting One Piece, we analyze the series as a whole and Oda as an artist.'
 tags: ['animation', 'anime']
+rating: 3
 ---
 
 How long have I been reading "One Piece"? When did the DS game "Jump Ultimate Stars" come out? Has it really been, perhaps, 15 years?

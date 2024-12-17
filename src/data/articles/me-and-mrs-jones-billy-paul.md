@@ -4,7 +4,8 @@ slug: 'billy-paul-me-and-mrs-jones'
 createdAt: '2024-05-18T02:25:51+0000'
 seoTitle: "Billy Paul's Me and Mrs. Jones"
 seoDescription: "For 2024, I'll talk about a song a day: this week, we'll talk about Billy Paul's Me and Mrs. Jones, written by Gamble, Huff and Gilbert."
-tags: ['music']
+tags: ['music', 'song of the week']
+rating: 4
 ---
 
 I've given myself the task of writing about one song a week for 2024 because, well, I think it'd be fun.

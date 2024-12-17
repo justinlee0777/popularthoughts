@@ -5,6 +5,7 @@ createdAt: '2024-10-10T04:28:54+0000'
 seoTitle: 'Joker (2019)'
 seoDescription: "Now seems as good as a time to poo-poo 2019's Joker."
 tags: ['film']
+rating: 3
 ---
 
 What a miserable little film 2019's "Joker" is to be made into a cultural phenomenon.

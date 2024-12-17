@@ -5,6 +5,7 @@ createdAt: '2022-11-06T01:18:00+0000'
 seoTitle: 'The Worst Anime Adaptation Award goes to...Chainsaw Man'
 seoDescription: 'The anime adaptation of Chainsaw Man is terrible.'
 tags: ['animation', 'anime']
+rating: 3
 ---
 
 You would think there isn't much to adapting a manga - visual medium - to anime - another visual medium.

@@ -5,6 +5,7 @@ createdAt: '2022-07-16T16:30:55+0000'
 seoTitle: "MFA's Guston and Turner"
 seoDescription: 'We discuss two 2022 exhbitions from the Museum of Fine Art: Phillip Guston and J. M. W. Turner.'
 tags: ['visual art']
+rating: 5
 ---
 
 Both ways of accessing the MFA's 2022 exhibition of Philip Guston's work are unique and excellent. From the hallway overlooking the _Tenshin-en_, it starts with Guston's later work, a fruition of a lifetime of work that feels distinctly and, humorously, his. I prefer the other entry. From the entrance opposite of Nishida Jun's slow-burn Zetsu series, you are first impressed by the immense "<a href="https://www.mfa.org/media/image/22661" target="_blank" rel="noopener noreferrer">Couple in Bed</a>", immense not because of the actual scale of canvas but because of the material: an artist, of massive shoes and an even more massive head, sleeping in an immaculate white sheet suspended in a black void. The subject's sanguine skin seems to denote an anxiety that, finally, has been allowed rest, which, having seen the full exhibit, will be well-deserved.

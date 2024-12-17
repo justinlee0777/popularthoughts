@@ -5,6 +5,7 @@ createdAt: '2024-04-09T11:26:09+0000'
 seoTitle: "Akira Toriyama's Dragon Ball"
 seoDescription: 'We talk about Akira Toriyama and his influential series, Dragon Ball. May he rest in peace.'
 tags: ['animation', 'anime']
+rating: 5
 ---
 
 I had never been a "Dragon Ball" fan. I found the anime offputtingly masculine. It largely consists of very muscular men shouting at each other how they were going to beat the other person's body into an unrecognizable pulp. Also: long. I think "Yu Yu Hakusho" was how I got into anime. Something I'm not sure about Togashi is whether his wife, Naoko Takeuchi, encouraged him to look beyond the overly macho tendencies of manga at the time or that feeling had been with him since the beginning of his career. (For context, "Hakusho" began in 1990, "Fist of the North Star" ended in 1988, "Saint Seiya" in 1990, and "Stardust Crusaders" was still being serialized.) I suspect the answer lies in both. I preferred Togashi's psychological approach to his characters and his plot versus the ultimate and steely virtues of protagonists overcoming ultimate evil.

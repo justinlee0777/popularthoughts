@@ -1,9 +1,10 @@
 .font-picker {
+    box-sizing: border-box;
     display: inline-flex;
+    flex: none;
     font-size: .83em;
-    height: 3.5em;
-    margin-left: auto;
     overflow-x: auto;
+    padding: .5em 1em;
     position: relative;
     text-transform: capitalize;
 }

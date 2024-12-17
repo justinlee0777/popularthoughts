@@ -4,7 +4,8 @@ slug: 'action-swingers-miserable-life-ivy-head-business'
 createdAt: '2024-08-01T22:36:12+0000'
 seoTitle: "Action Swingers' Miserable Life / IVY's Head Business"
 seoDescription: "For 2024, I'll talk about a song a day: this week is a double feature, Action Swingers' Miserable Life and IVY's Head Business."
-tags: ['music']
+tags: ['music', 'song of the week']
+rating: 3
 ---
 
 I've given myself the task of writing about one song a week for 2024 because, well, I think it'd be fun.

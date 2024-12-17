@@ -5,6 +5,7 @@ createdAt: '2022-01-29T23:14:42+0000'
 seoTitle: 'Life with an Ordinary Guy Who Reincarnated into a Total Fantasy Knockout'
 seoDescription: 'Life with an Ordinary Guy Who Reincarnated into a Total Fantasy Knockout has a brilliant premise.'
 tags: ['animation', 'anime']
+rating: 2
 ---
 
 The premise of "Life with an Ordinary Guy Who Reincarnated into a Total Fantasy Knockout" is that two childhood friends, male, age 32, are transported into another world, one of them turned into a woman. And they are placed under a spell making them fall in love with each other.

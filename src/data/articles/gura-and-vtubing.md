@@ -5,6 +5,7 @@ createdAt: '2023-07-13T03:23:42+0000'
 seoTitle: 'Gura and VTubing'
 seoDescription: 'I talk a little about one of my guilty pleasures, VTubing, and its star, Gawr Gura.'
 tags: ['anime']
+rating: 2
 ---
 
 Well, alright, I admit I watch VTubing.

@@ -5,6 +5,7 @@ createdAt: '2023-09-25T22:44:08+0000'
 seoTitle: 'FLCL'
 seoDescription: 'What is left to say about FLCL?'
 tags: ['anime', 'animation']
+rating: 5
 ---
 
 Imagine me, dumbfounded, for five minutes, at the prompt of, "What is there even left to say about _FLCL_?"

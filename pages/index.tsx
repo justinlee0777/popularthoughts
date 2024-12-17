@@ -33,6 +33,7 @@ export async function getStaticProps(): Promise<{ props: Props }> {
 				title: article.display.title,
 				tags: article.display.tags,
 				articleType: 'Article',
+				rating: article.display.rating,
 			})),
 		},
 	};

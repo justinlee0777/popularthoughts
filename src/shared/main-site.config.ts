@@ -6,6 +6,7 @@ export interface Entry {
 	createdAt: string;
 	articleType: string;
 	tags: Array<string>;
+	rating: number;
 }
 
 export interface SEO {
@@ -14,11 +15,16 @@ export interface SEO {
 	article: boolean;
 }
 
-export interface MainSiteConfig {
+interface BaseMainSiteConfig {
 	seo: SEO;
-	filters?: Array<Filter>;
+}
 
-	article?: {
+interface AboutUsConfig extends BaseMainSiteConfig {
+	aboutUs: true;
+}
+
+export interface ArticleConfig extends BaseMainSiteConfig {
+	article: {
 		title: string;
 		createdAt: string;
 		htmlString?: string;
@@ -29,6 +35,11 @@ export interface MainSiteConfig {
 			iframeTitle?: string;
 		};
 	};
-
-	entries?: Array<Entry>;
 }
+
+export interface ListingConfig extends BaseMainSiteConfig {
+	filters: Array<Filter>;
+	entries: Array<Entry>;
+}
+
+export type MainSiteConfig = AboutUsConfig | ArticleConfig | ListingConfig;

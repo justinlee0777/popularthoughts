@@ -4,7 +4,8 @@ slug: 'bananarama-love-in-the-first-degree'
 createdAt: '2024-01-07T16:31:45+0000'
 seoTitle: "Bananarama's Love in the First Degree"
 seoDescription: "For 2024, I'll talk about a song a day: this week, we'll talk about the Bananarama's 1987 song, Love in the First Degree."
-tags: ['music']
+tags: ['music', 'song of the week']
+rating: 4
 ---
 
 I've given myself the task of writing about one song a week for 2024 because, well, I think it'd be fun.

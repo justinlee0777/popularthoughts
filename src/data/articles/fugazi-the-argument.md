@@ -5,6 +5,7 @@ createdAt: '2022-02-26T20:00:44+0000'
 seoTitle: "Fugazi's The Argument"
 seoDescription: "Fugazi's The Argument is one of the greatest albums of all time. And it's really damn American."
 tags: ['music']
+rating: 5
 ---
 
 I believe I first listened to "The Argument" when I was 20. I had disliked it. "This is not punk," I thought. This is not The Clash, this is not Wire, this is not Gang of Four or the Buzzcocks, it's not the Minutemen nor Jesus Lizard nor Pixies nor Nirvana, nor Sleater-Kinney or Ted Leo and the Pharmacists or The Strokes or Jay Reatard. It was so boring, it went everywhere musically and was so obviously political. Punk should be simple and neat - catchy, violent, weird, and short. You could not rock out to this.

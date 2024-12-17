@@ -5,6 +5,7 @@ createdAt: '2022-08-21T20:13:52+0000'
 seoTitle: 'Brazil (1985)'
 seoDescription: "We analyze the ending of Terry Gilliam's Brazil."
 tags: ['film']
+rating: 5
 ---
 
 Gilliam's "Brazil" is a farcical masterpiece on how technology makes people stupid. In a society ever obsessed to infinity with automating processes, and feeding enormous amounts of data into those processes all in the quixotic quest to make them work in the first place, Gilliam has the nastiest phlegm-throated laugh at those who conflate efficiency, safety, and immortality with humanity.

@@ -4,7 +4,8 @@ slug: 'grouper-holding'
 createdAt: '2024-07-15T04:12:21+0000'
 seoTitle: "Grouper's Holding"
 seoDescription: "For 2024, I'll talk about a song a day: this week, we'll talk about Grouper's Holding."
-tags: ['music']
+tags: ['music', 'song of the week']
+rating: 5
 ---
 
 I've given myself the task of writing about one song a week for 2024 because, well, I think it'd be fun.
