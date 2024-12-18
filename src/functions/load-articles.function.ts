@@ -48,7 +48,7 @@ export default async function loadArticles(): Promise<Array<PageProps>> {
 							contentHtml,
 							title: result.data.title,
 							tags: result.data.tags,
-							rating: result.data.rating,
+							rating: result.data.rating ?? null,
 						},
 						seo: {
 							title: result.data.seoTitle,

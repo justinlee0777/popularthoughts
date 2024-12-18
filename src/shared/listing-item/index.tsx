@@ -45,17 +45,19 @@ export default function ListingItem({ entry }: { entry: Entry }): JSX.Element {
 				<time dateTime={entry.createdAt}>
 					{calculateDateString(entry.createdAt)}
 				</time>
-				<span
-					className={styles.rating}
-					data-tooltip-id={tooltipId}
-					data-tooltip-content={tooltipText}
-				>
-					{Array(entry.rating)
-						.fill(undefined)
-						.map((_, i) => (
-							<StarIcon key={i} />
-						))}
-				</span>
+				{entry.rating && (
+					<span
+						className={styles.rating}
+						data-tooltip-id={tooltipId}
+						data-tooltip-content={tooltipText}
+					>
+						{Array(entry.rating)
+							.fill(undefined)
+							.map((_, i) => (
+								<StarIcon key={i} />
+							))}
+					</span>
+				)}
 			</div>
 		</a>
 	);

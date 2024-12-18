@@ -24,6 +24,7 @@
     width: 95%;
 }
 
+.rendered-html h4,
 .rendered-html h3,
 .rendered-html h2 {
     text-align: center;
