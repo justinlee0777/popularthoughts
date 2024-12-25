@@ -56,7 +56,7 @@ This is no Bob Dylan album. If Dylan fancies himself a Rembrandt, able to intera
 
 ### ken (2017)
 
-For the precious few Zoomers reading my essays: no, not [that Ken](). Kenough, I don't want to hear it.
+For the precious few Zoomers reading my essays: no, not [that Ken](https://www.youtube.com/watch?v=wwux9KiBMjE&pp=ygUMaSdtIGp1c3Qga2Vu). Kenough, I don't want to hear it.
 
 He's less sleepy in "ken" than "Poison Season", which is nice. The drum is a big part of it. Blame (or commend, as I do) Josh Wells, drummer of Black Mountain, who produced the album. I don't have the most discerning ears, so what distinguishes "ken", to me, is the very, very obvious drum machine, to the point where the music sounds like Thrill Kill Kult or Ashra. By Jove, it doesn't sound like techno, nor is it dance. Come to think of it, it's very LCD Soundsystem. The stomp introducing "In the Morning" sounds the same as the one which begins Whitney Houston's "I Wanna Dance with Somebody".
 
