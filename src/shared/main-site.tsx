@@ -111,12 +111,13 @@ export default function MainSite({
 	} else if ('entries' in pageContext) {
 		content = (
 			<>
-				{children}
 				<MainSiteListing
 					className={styles['main-site-listing']}
 					entries={pageContext.entries}
 					filters={pageContext.filters}
-				/>
+				>
+					{children}
+				</MainSiteListing>
 			</>
 		);
 	}

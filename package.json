@@ -8,14 +8,15 @@
     "dev": "next dev",
     "build": "next build",
     "start": "NODE_ENV=production node server.js",
-    "format": "prettier --write \"**/*.{js,jsx,ts,tsx,json,md}\""
+    "format": "prettier --write \"**/*.{js,jsx,ts,tsx,json,md}\"",
+    "upload:song-of-the-week": "tsx ./src/scripts/song-of-the-week/upload-song-of-the-week.ts"
   },
   "dependencies": {
     "clsx": "^2.1.1",
     "date-fns": "^2.16.1",
     "gray-matter": "^4.0.3",
     "next": "^14.2.11",
-    "prospero": "^0.3.5",
+    "prospero": "^1.1.1",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "react-helmet": "^6.1.0",
@@ -29,6 +30,7 @@
     "@types/react": "^18.3.7",
     "postcss": "^8.4.5",
     "prettier": "2.2.1",
+    "tsx": "^4.19.2",
     "typescript": "^5.6.2",
     "typescript-plugin-css-modules": "^5.1.0"
   }

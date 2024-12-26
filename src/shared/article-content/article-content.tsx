@@ -1,6 +1,5 @@
 import React, { useRef } from 'react';
 
-import { NewlineTransformer } from 'prospero/web/transformers';
 import { FlexibleBookComponent } from 'prospero/web/flexible-book';
 import {
 	listenToClickEvents,

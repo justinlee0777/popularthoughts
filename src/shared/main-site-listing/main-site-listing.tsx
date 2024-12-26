@@ -15,6 +15,7 @@ export default function MainSiteListing({
 	className,
 	entries,
 	filters,
+	children,
 }: MainSiteListingConfig) {
 	const entryListingSelector = styles['entry-listing'];
 	const initialEntriesShown = 10;
@@ -106,6 +107,7 @@ export default function MainSiteListing({
 				className={`${entryListingSelector} ${className}`}
 				ref={listingElementRef}
 			>
+				{children}
 				{entryElements}
 			</div>
 			{filterOpened && (
