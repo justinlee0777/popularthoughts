@@ -37,10 +37,14 @@ function createBooksElement(): BooksElement {
 			showPagePicker: true,
 			theme: DefaultBookTheme,
 			loading: LoadingScreenComponent,
+			pictureInPicture: {
+				affectedElements: 'iframe',
+				autoLock: true,
+			},
 		};
 	}
 
-	const endpointBase = 'https://iamjustinlee.com/api/prospero/texts';
+	const endpointBase = 'http://localhost:8080/api/prospero/texts';
 
 	const mobilePages = new ServerPages(
 		`${endpointBase}/song-of-the-week-2024/mobile/`

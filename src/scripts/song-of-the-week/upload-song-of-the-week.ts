@@ -3,7 +3,7 @@ import type {
 	TableOfContentsSection,
 } from 'prospero/types';
 
-import { capitalize } from 'lodash-es';
+import { chunk } from 'lodash-es';
 import {
 	desktopStyles,
 	mobileStyles,
@@ -22,17 +22,29 @@ async function load() {
 				new Date(b.display.createdAt).getTime()
 		);
 
-	const responses = await Promise.all(
-		articles.map(async article => ({
-			...(await workOnChapter({
-				mobileStyles,
-				desktopStyles,
-				text: article.display.contentHtml,
-				displayName: article.display.title,
-			})),
-			chapter: article.display.title,
-		}))
-	);
+	const articleChunks = chunk(articles, 5);
+
+	const responses: Array<{
+		chapter: string;
+		mobile: PagesAsIndicesOutput;
+		desktop: PagesAsIndicesOutput;
+	}> = [];
+
+	for (const articleChunk of articleChunks) {
+		responses.push(
+			...(await Promise.all(
+				articleChunk.map(async article => ({
+					...(await workOnChapter({
+						mobileStyles,
+						desktopStyles,
+						text: article.display.contentHtml,
+						displayName: article.display.title,
+					})),
+					chapter: article.display.title,
+				}))
+			))
+		);
+	}
 
 	let desktopCompiledText = '';
 	let mobileCompiledText = '';
@@ -47,10 +59,7 @@ async function load() {
 		desktopChapters: Array<TableOfContentsSection> = [];
 
 	responses.forEach(response => {
-		const chapterTitle = response.chapter
-			.split('-')
-			.map(capitalize)
-			.join(' ');
+		const chapterTitle = response.chapter;
 
 		mobileChapters.push({
 			title: chapterTitle,

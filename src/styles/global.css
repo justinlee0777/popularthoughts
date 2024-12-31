@@ -39,3 +39,7 @@ iframe {
 .verse {
     white-space: pre-line;
 }
+
+.prospero__bookTableOfContents {
+    max-width: 40% !important;
+}

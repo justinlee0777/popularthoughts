@@ -1,8 +1,8 @@
-import { readFile } from 'node:fs';
-
 import { Pages } from 'prospero/server';
+import { JSDOM } from 'jsdom';
 import ChapterWorkerData from './chapter-worker-data.interface';
 import PagesAsIndicesOutput from 'prospero/models/pages-as-indices-output.interface';
+import { Transformer } from 'prospero/types';
 
 export default async function workOnChapter({
 	mobileStyles,
@@ -13,8 +13,20 @@ export default async function workOnChapter({
 	mobile: PagesAsIndicesOutput;
 	desktop: PagesAsIndicesOutput;
 }> {
-	const processors = function () {
-		return [];
+	const dom = new JSDOM(text);
+
+	dom.window.document.body.firstChild.remove();
+
+	text = dom.window.document.body.innerHTML;
+
+	const processors: () => Array<Transformer> = function () {
+		return [
+			{
+				transform: text => {
+					return text.replaceAll(/(<.+>)\n+/g, '$1');
+				},
+			},
+		];
 	};
 
 	console.log(`working on ${displayName}...`);
