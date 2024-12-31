@@ -44,7 +44,7 @@ function createBooksElement(): BooksElement {
 		};
 	}
 
-	const endpointBase = 'http://localhost:8080/api/prospero/texts';
+	const endpointBase = 'https://iamjustinlee.com/api/prospero/texts';
 
 	const mobilePages = new ServerPages(
 		`${endpointBase}/song-of-the-week-2024/mobile/`
