@@ -116,6 +116,7 @@ export default function SongOfTheWeek2024Page({ entries }: Props): JSX.Element {
 				entries,
 				filters: [],
 			}}
+			hideFontPicker
 		>
 			<div ref={bookContainerRef}></div>
 		</MainSite>

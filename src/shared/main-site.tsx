@@ -25,9 +25,11 @@ function createSEO(seo: SEO): JSX.Element {
 export default function MainSite({
 	pageContext,
 	children,
+	hideFontPicker,
 }: {
 	pageContext: MainSiteConfig;
 	children?: ReactNode | Array<ReactNode>;
+	hideFontPicker?: boolean;
 }): JSX.Element {
 	const fontStorageKey = useMemo(() => 'saved-font', []);
 	const fonts = useMemo(
@@ -132,14 +134,16 @@ export default function MainSite({
 		>
 			{seo}
 			<NavBar />
-			<FontPicker
-				className={styles.fontPicker}
-				fonts={fonts}
-				selectedFont={font.family}
-				onFontSelect={loadFont}
-			>
-				{fontLoading && <Spinner className="font-picker-spinner" />}
-			</FontPicker>
+			{!hideFontPicker && (
+				<FontPicker
+					className={styles.fontPicker}
+					fonts={fonts}
+					selectedFont={font.family}
+					onFontSelect={loadFont}
+				>
+					{fontLoading && <Spinner className="font-picker-spinner" />}
+				</FontPicker>
+			)}
 			{content}
 		</div>
 	);
