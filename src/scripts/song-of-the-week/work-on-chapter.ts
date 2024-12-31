@@ -15,6 +15,14 @@ export default async function workOnChapter({
 }> {
 	const dom = new JSDOM(text);
 
+	const body = dom.window.document.body;
+
+	const h3 = body.querySelector('h3');
+
+	while (h3.previousElementSibling) {
+		h3.previousElementSibling.remove();
+	}
+
 	dom.window.document.body.firstChild.remove();
 
 	text = dom.window.document.body.innerHTML;
