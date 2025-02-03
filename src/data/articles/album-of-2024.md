@@ -8,11 +8,31 @@ tags: ['music', 'best of']
 rating: 5
 ---
 
-As always, I'm going to review the end-of lists of publications (ex. search "best albums of the year") and update this list, but there's a caveat this time.
+update (02/03/25):
+
+Entries have been added for [Rosie Tucker](#utopia-now) and [James Blackshaw](#unravelling-in-your-hands).
+
+For this re-review, I went through [NPR's list](https://www.npr.org/2024/12/02/g-s1-34684/best-albums-2024), [Bandcamp's](https://daily.bandcamp.com/best-of-2024) and [Ann Powers'](https://www.npr.org/2024/12/20/nx-s1-5235368/ann-powers-favorite-albums-of-2024). I sadly did not have the energy to go through niche genres like jazz; [Brooklyn Vegan's](https://www.brooklynvegan.com/our-favorite-metal-albums-of-2024/) looked interesting.
+
+The listening process for these end-of-the-year stragglers different from my usual year-round process. Throughout the year, I let albums sit for a while. At the end of the year, I literally shotgun through them, arbitrarily deciding when I'm done. Because I know ahead of time how bad the decision-making process is, it's easier to just leave albums behind. I basically know that tasting so many records at once will ruin the taste of each individual one. It's such fucked-up thinking, in hindsight, but I only have so much time.
+
+But the process has its perks. I think I would have ignored "Imaginal Disk" in the second pass if I didn't have to directly confront how unique it was, among its competitors. I would have said, "Oh great, more of Magdalena Bay's precious shtick." But after listening to a lot of albums that didn't draw my attention, its preciousness _is_ interesting, and says more about me than it does about the music.
+
+Perhaps my perspective has changed from the confusion and general fart that was 2024, but annoying is _good_. We're at a new place in history, and the more obnoxious a genre of music is the more it likely reflects someone's actual feelings about the world we live in, thus pointing to where new veins of expression lie.
+
+As awkward as the analogies of "Imaginal Disk" are, Mica Tenenbaum is still constructing new ideas in today's weird fucked-up digital environment. It's _something_.
+
+Thus I'm somewhat inclined to move Bladee's "Cold Vision" up, but...nah. I'm still mad "Crest" is my best album of 2022 and will likely stay that way until I die. (It was really validating seeing Bladee work with Charli XCX. That's also a sheer "how did that happen?" moment.)
+
+In a startling contrast, I have no desire to write about Mannequin's Pussy "I Got Heaven". This seems like the type of album I _should_ like, but ... and it's weird to say this ... it lacks _danger_. I can't put my finger on it, but it's a reminder that the _music_, above all, is important. To put it quaintly, the music needs to fuck me up. You can't just play fast. Like, Black Flag can play fast, because Henry Rollins is charismatic as hell and is _screaming_ constantly. And even then, Black Flag thought that shit got old fast with the latter half of "My War", which is super underrated. Which is in stark contrast to Rosie Tucker's "Utopia Now!", which is an album I would _normally_ ignore if she hadn't said "I hope no one had to piss in a bottle at work / to get me the thing I ordered on the internet", which is a fucking crazy and great line.
+
+---
+
+As always, <s>I'm going to review the end-of lists of publications (ex. search "best albums of the year") and update this list,</s> but there's a caveat this time.
 
 It's a given that every year is accompanied by different tastes in music. People hardly stay the same, though, if they do, then the ground beneath them certainly does not stay still. There will always be solid foundations to my tastes in music, but I'm unlikely to be seized by the same concept or song every year.
 
-This year, the whole "talk about a song a week" thing burned me out from a lot of music. I found I didn't listen as much as I used to, probably because the act of listening to music reminded me I had to write. Besides the pressure of the deadline, the songs I listened to - and I listened to them over and over in an attempt to understand why I loved them - stole all the oxygen from other songs because they're earth-shatteringly good songs. This doesn't help one of the requirements of this list: I only write about albums I _want to write about_. There are albums I like, but I can't think of anything to write about. I might recover after December from the song-of-the-week burnout, and _then_ earnestly review and re-review 2024 in January before truly getting to the final edition of this write-up.
+This year, the whole "talk about a song a week" thing burned me out from a lot of music. I found I didn't listen as much as I used to, probably because the act of listening to music reminded me I had to write. Besides the pressure of the deadline, the songs I listened to - and I listened to them over and over in an attempt to understand why I loved them - stole all the oxygen from other songs because they're earth-shatteringly good songs. This doesn't help one of the requirements of this list: I only write about albums I _want to write about_. There are albums I like, but I can't think of anything to write about. <s>I might recover after December from the song-of-the-week burnout, and _then_ earnestly review and re-review 2024 in January before truly getting to the final edition of this write-up.</s>
 
 It wasn't a bad year, but there were less "what is this?" moments as there were in 2022 and 2023. That being said, as I collected the songs for this article, I found there were more exceedingly strong albums than the other years. Interesting data. Don't know what to make of it.
 
@@ -56,6 +76,23 @@ Beth Gibbons' "Lives Outgrown" is a sleeper. It burrowed in me indifferently and
 I'm getting the sense I'm too old for love songs. I don't feel the intense yearning of youth. So it was a surprise to get shivers from The Softies' first album since 2000, "The Bed I Made", specifically in the beginning lyrics of "I Said What I Said": "Maybe I said, It was enough; / how could I know how to fall out of love?" The band began in 1994; the singers must be nearing or in their fifties; so how do they find new veins in loving and wanting, that I've never heard before, arranged so simply to acoustic guitar? Another example: "It started with a tiny flame, / and ended in tears; / I hadn't felt that way in years." So goes a quote in my "Collected Stories of Colette" (no idea if it's attributable to her): "Love has never been a question of age. I shall never be so old as to forget what love is."
 
 Perhaps I'm wrong, but people don't lean too much into the fantastical elements of rap as they had in the '90s. Rap is perfectly tailored for storytelling and epic poetry. Now's about the right time for it, because the times we live in are getting more and more surreal. The industrial / metal of E L U C I D's "Revelator" is perfect for this. He paints for you a feral world where men have become wolves. "Fang bite, dog breath, / short leash, pit fight, / from this height, from this speed, / downhill careening," on "THE WORLD IS DOG", "Bulletproof Giraud, Jurassic Harlem" he spits on "YOTTABYTE". "I brought a trunk full of tiny violins to the bloodletting, / I can play one on each finger for every seven bodies", billy woods mumbling "Crazy if you think you're crazier than us." Interestingly enough, the late great Alan Vega's posthumous "Insurrection" also tackles E L U C I D's madness. Suicide foretold punk and industrial music; what will we make of "Revelator"?
+
+<p id="unravelling-in-your-hands">
+With strictly instrumental music, the musician runs into a lot of dangers. Some of them include: 1) the audience not "getting" it, and your having to hit them in the head, and 2) being so technical so as to lose all human connection (Tashi Dorji's quite good "We Will Be Wherever the Fires Are Lit", which deserves to be shouted-out, unfortunately possesses a bit of both). Blackshaw, in "Unraveling In Your Hands", navigates through all of the dangers expertly. What struck me is the warmth in all of the songs - there's no depiction of sorrow that comes across as maudlin, and no sense of optimism or feel for hope that comes as false. What it most depicts is an analogy to wind and light - that things must come to pass. It can be accused of being "ambient" - sure, it does remind me a bit of "The Disintegration Loops". It's more "Aeroplane over the Sea", honestly. It's gut music. Not sure what more to say than that.
+</p>
+
+<p id="utopia-now">
+Uhh, I love the supremely lame album called "Utopia Now!" Take the opening lyrics to "Gil Scott Albatross": "They're gonna turn the moon into a sweatshop, like / none of these fuckers ever heard of Gil Scott Heron, / more like Albatross". It's so...pretentious! Here, too, Rosie Tucker fails to hit the high note of "Albatrossssssss!" But none of this matters. The only thing that matters is how much Rosie believes in what they are singing, and they certainly believe in their anger / annoyance and that they're somewhat full of shit and that it's okay for them to be angry about being full of shit. This genuinely great couplet: "I know every time you sip from a bottle of piss / and remember me, the memory degrades." Here's another: "I'm not saying that you shouldn't care / but the biggest billboard in Times Square can't / fix your dad, clear the air, bring you back to me." Where have they been all my life?! Most artists treat our current times laconically, barely batting a paw to address the philosophical implications of our times; here is real wit, even when it's self-deprecating.
+
+Wait a bit, another great Rosie Tucker verse:
+<p class="verse">
+I wanna turn the argument around,
+turn my face toward the sun and
+talk on common ground because
+we don't punch sideways,
+don't punch down.
+</p>
+</p>
 
 I can see myself getting addicted to spoken word really fast. Gil-Scott Heron, his pauses, his hesitations, his rasps, haunt my dreams, become my own speech in the daytime, and so will Johnny Coley's too. What an apt title "Mister Sweet Whisper" is; out of the smoke and dusk Coley arises, mumbling, talking not in revelation but in a head-scratch, hanging around in his sweatpants. Goes a verse in "They're Dreaming Me":
 

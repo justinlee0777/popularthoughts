@@ -5,7 +5,7 @@ createdAt: '2022-09-20T15:43:41+0000'
 seoTitle: "Neil Gaiman's Sandman"
 seoDescription: 'I reflect a little on my history with Neil Gaiman''s "Sandman" and on the new Netflix series.'
 tags: ['film', 'animation']
-rating: 3
+rating: 2
 ---
 
 Upon hearing of a Netflix adaptation of Neil Gaiman's "Sandman" comic books or graphics novels or what you will, I would be remiss in my duties as a critic to not reread them for a review.
